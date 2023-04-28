@@ -65,13 +65,22 @@ export default function Home() {
     <>
       <section className='container' style={{ backgroundColor: matchItem.hex }}>
         <main className='main' style={{ color: textColor }}>
-          <h1 className='color-name'>{matchItem.name}</h1>
-          <p className='color-pinyin'>{matchItem.pinyin}</p>
-          <p className='color-values'>
-            <ColorValue text={matchItem.hex} />
-            <ColorValue text={matchItem.rgb} />
-            <ColorValue text={matchItem.hsl} />
-          </p>
+          <header></header>
+          <article>
+            <h1 className='color-name'>{matchItem.name}</h1>
+            <p className='color-pinyin'>{matchItem.pinyin}</p>
+            <p className='color-values'>
+              <ColorValue text={matchItem.hex} />
+              <ColorValue text={matchItem.rgb} />
+              <ColorValue text={matchItem.hsl} />
+            </p>
+          </article>
+
+          <footer className='footer'>
+            <a href='https://github.com/Darcrandex/china-colors-react' target='_blank'>
+              China Colors React | make with 💖 by @Darcrandex
+            </a>
+          </footer>
         </main>
 
         <aside ref={ref} className='side-menus'>
