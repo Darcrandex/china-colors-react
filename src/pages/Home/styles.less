@@ -71,12 +71,12 @@
     font-weight: bold;
   }
 
-  .top-line {
+  .left-line {
     position: absolute;
     left: 0;
     top: 0;
     bottom: 0;
-    width: 6px;
+    width: 10px;
   }
 
   .name {
@@ -91,25 +91,15 @@
 
 .footer {
   margin: 16px 0;
-  a {
-    text-decoration: underline;
-    color: skyblue;
+
+  a.link {
+    color: #333;
     font-size: 80%;
-  }
-  transition: all 0.2s;
-  opacity: 0.2;
-  &:hover {
-    opacity: 0.8;
-  }
-}
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+    text-decoration: none;
 
-// fix
-.scrollbar-track.scrollbar-track-y.show {
-  opacity: 0;
-}
-
-.side-menus:hover {
-  .scrollbar-track.scrollbar-track-y.show {
-    opacity: 1;
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }

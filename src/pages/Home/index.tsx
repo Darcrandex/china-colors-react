@@ -65,7 +65,7 @@ export default function Home() {
     <>
       <section className='container' style={{ backgroundColor: matchItem.hex }}>
         <main className='main' style={{ color: textColor }}>
-          <header></header>
+          <header className='empty'></header>
           <article>
             <h1 className='color-name'>{matchItem.name}</h1>
             <p className='color-pinyin'>{matchItem.pinyin}</p>
@@ -77,7 +77,7 @@ export default function Home() {
           </article>
 
           <footer className='footer'>
-            <a href='https://github.com/Darcrandex/china-colors-react' target='_blank'>
+            <a className='link' href='https://github.com/Darcrandex/china-colors-react' target='_blank'>
               China Colors React | make with 💖 by @Darcrandex
             </a>
           </footer>
@@ -91,7 +91,7 @@ export default function Home() {
               className={({ isActive }) => (isActive ? 'nav-item active' : 'nav-item')}
               style={{ color: textColor }}
             >
-              <i className='top-line' style={{ backgroundColor: item.hex }}></i>
+              <i className='left-line' style={{ backgroundColor: item.hex }}></i>
               <span className='name'>{item.name}</span>
               <span className='pinyin'>{item.pinyin}</span>
             </NavLink>
