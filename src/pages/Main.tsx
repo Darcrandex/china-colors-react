@@ -4,7 +4,14 @@
  * @author darcrand
  */
 
+import json from '@/data/zh-colors.json'
+import { useEffect } from 'react'
+
 export default function Main() {
+  useEffect(() => {
+    console.log(json)
+  }, [])
+
   return (
     <>
       <section className='flex h-screen'>
