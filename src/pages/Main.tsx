@@ -37,7 +37,7 @@ export default function Main() {
           </a>
         </main>
 
-        <aside ref={ref} className='w-60 shrink-0'>
+        <aside ref={ref} className='w-80 shrink-0 opacity-50 hover:opacity-100 transition-all'>
           <ul>
             {colorsArr.map((v) => (
               <li
