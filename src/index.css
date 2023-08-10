@@ -10,3 +10,10 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
+/* fonts */
+
+@font-face {
+  font-family: 'ZiKuTangHuangZiYuanKaiTi';
+  src: url('http://yegenyou.com/upload/font/49.ttf');
+}

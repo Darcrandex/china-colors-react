@@ -11,3 +11,7 @@
 将通过魔道方法获取压缩版本的字体编码
 
 > https://sinotype.vcg.com/font/10454
+
+## 感谢
+
+[GUSCSS](https://github.com/imoyao/GUSCSS/)
