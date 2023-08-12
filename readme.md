@@ -1,13 +1,13 @@
-# 一个简化版本的 中国色 工具
+# 一个【極簡】的中國傳統色工具
 
 在线地址 [china-colors-react](https://china-colors-react.netlify.app/)
 
-> 以下文字可能因字体问题无法显示正确
-
-`榲桲芓鷃鈫樫沬筍`
-
 ## 字体获取
 
-将通过魔道方法获取压缩版本的字体编码
+由於使用的是中文繁體字，很難找到符合字體，目前只找到一款，將就用。
 
-> https://sinotype.vcg.com/font/10454
+[fontmeme](https://fontmeme.com/zh/)
+
+## 感谢
+
+[GUSCSS](https://github.com/imoyao/GUSCSS/)

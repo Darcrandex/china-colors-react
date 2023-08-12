@@ -4,24 +4,60 @@
  * @author darcrand
  */
 
-import json from '@/data/zh-colors.json'
-import { useEffect } from 'react'
+import colorsArr from '@/data/zh-colors-sort.json'
+import { clsx } from 'clsx'
+import { useEffect, useMemo, useRef } from 'react'
+import { Outlet, useNavigate, useParams } from 'react-router-dom'
+import Scrollbar from 'smooth-scrollbar'
 
 export default function Main() {
+  const navigate = useNavigate()
+  const ref = useRef<HTMLElement>(null)
   useEffect(() => {
-    console.log(json)
+    if (ref.current) {
+      const scroll = Scrollbar.init(ref.current)
+      return () => {
+        scroll.destroy()
+      }
+    }
   }, [])
+
+  const { id } = useParams()
+  const color = useMemo(() => colorsArr.find((v) => v.hex.replace('#', '') === id), [id])
+  const textColor = useMemo(() => ((color?.lightness || 100) < 50 ? '#eee' : '#333'), [color])
 
   return (
     <>
-      <section className='flex h-screen'>
-        <main className='flex-1 flex flex-col justify-between'>
+      <section className='flex h-screen transition-all' style={{ color: textColor, backgroundColor: color?.hex }}>
+        <main className='flex-1 flex flex-col justify-between items-center'>
           <header></header>
-          <article>中国色</article>
-          <footer>china colors</footer>
+          <Outlet />
+          <a href='https://github.com/Darcrandex/china-colors-react' target='_blank' className='my-4 underline'>
+            china colors &copy; make with 💖 by darcrand
+          </a>
         </main>
 
-        <aside className='w-60 shrink-0 bg-red-200'></aside>
+        <aside ref={ref} className='w-80 shrink-0 opacity-50 hover:opacity-100 transition-all'>
+          <ul>
+            {colorsArr.map((v) => (
+              <li
+                key={v.hex}
+                className={clsx(
+                  'group relative p-4 cursor-pointer indent-4',
+                  v.hex.replace('#', '') === id && 'font-bold'
+                )}
+                onClick={() => navigate(`/${v.hex.replace('#', '')}`)}
+              >
+                <i
+                  className='w-2 absolute top-0 bottom-0 left-0 transition-all group-hover:w-4'
+                  style={{ backgroundColor: v.hex }}
+                ></i>
+                <p>{v.name}</p>
+                <p className='text-sm'>{v.pinyin}</p>
+              </li>
+            ))}
+          </ul>
+        </aside>
       </section>
     </>
   )
