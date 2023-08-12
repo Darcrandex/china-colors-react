@@ -42,10 +42,16 @@ export default function Main() {
             {colorsArr.map((v) => (
               <li
                 key={v.hex}
-                className={clsx('relative p-4 cursor-pointer indent-4', v.hex.replace('#', '') === id && 'font-bold')}
+                className={clsx(
+                  'group relative p-4 cursor-pointer indent-4',
+                  v.hex.replace('#', '') === id && 'font-bold'
+                )}
                 onClick={() => navigate(`/${v.hex.replace('#', '')}`)}
               >
-                <i className='w-2 absolute top-0 bottom-0 left-0' style={{ backgroundColor: v.hex }}></i>
+                <i
+                  className='w-2 absolute top-0 bottom-0 left-0 transition-all group-hover:w-4'
+                  style={{ backgroundColor: v.hex }}
+                ></i>
                 <p>{v.name}</p>
                 <p className='text-sm'>{v.pinyin}</p>
               </li>
