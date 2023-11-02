@@ -17,7 +17,7 @@ export default function ColorItem() {
     <>
       <article className='text-center'>
         <h1 className='mb-10' style={{ fontFamily: 'qiji', fontSize: '120px' }}>
-          {color?.name || '中国传统色'}
+          {color?.name || '中國傳統色'}
         </h1>
 
         {color ? (
