@@ -5,10 +5,13 @@
  */
 
 'use client'
+import colorArr from '@/assets/zh-colors-sort.json'
 import { cls } from '@/utils/cls'
 import Link from 'next/link'
 import { useEffect, useRef } from 'react'
 import Scrollbar from 'smooth-scrollbar'
+
+const navs = colorArr.map((v) => ({ ...v, id: v.hex.replace('#', '') }))
 
 export type AsideBarProps = { className?: string }
 
@@ -27,10 +30,10 @@ export default function AsideBar(props: AsideBarProps) {
     <>
       <aside ref={elRef} className={cls('w-96 bg-red-300 p-4 overflow-hidden', props.className)}>
         <ul>
-          {Array.from({ length: 100 }).map((_, i) => (
-            <li key={i}>
-              <Link replace href={`/${i}`}>
-                {i}
+          {navs.map((item, i) => (
+            <li key={item.id}>
+              <Link replace href={`/${item.id}`}>
+                {item.name}
               </Link>
             </li>
           ))}

@@ -7,7 +7,7 @@
 export default function Index() {
   return (
     <>
-      <h1>Index</h1>
+      <h1 style={{ fontFamily: 'qiji' }}>中國傳統色</h1>
     </>
   )
 }
