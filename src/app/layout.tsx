@@ -1,5 +1,5 @@
-import AsideBar from '@/components/AsideBar'
 import type { Metadata } from 'next'
+import { PropsWithChildren } from 'react'
 import './globals.css'
 
 export const metadata: Metadata = {
@@ -8,18 +8,13 @@ export const metadata: Metadata = {
   keywords: ['color', 'colors', 'china', 'cn', 'preview', 'color preview', 'colorful', 'colorful preview'],
 }
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout(props: PropsWithChildren) {
   return (
     <html lang='en'>
       <head>
         <link rel='icon' href='/china-color.png' sizes='any' />
       </head>
-      <body>
-        <section className='flex h-screen'>
-          <main className='flex-1'>{children}</main>
-          <AsideBar className='shrink-0' />
-        </section>
-      </body>
+      <body>{props.children}</body>
     </html>
   )
 }
