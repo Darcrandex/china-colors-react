@@ -1,0 +1,8795 @@
+[
+  {
+    "name": "杏仁黃",
+    "pinyin": "xìng rén huáng",
+    "hex": "#F7E8AA",
+    "rgb": "rgb(249,236,195)",
+    "hsl": "hsl(48, 83%, 82%)",
+    "cmyk": "cmyk(3%,8%,30%,0%)",
+    "lightness": 82
+  },
+  {
+    "name": "麥稈黃",
+    "pinyin": "mài gǎn huáng",
+    "hex": "#F8DF70",
+    "rgb": "rgb(248,223,112)",
+    "hsl": "hsl(49, 91%, 71%)",
+    "cmyk": "cmyk(5%,14%,68%,1%)",
+    "lightness": 71
+  },
+  {
+    "name": "油菜花黃",
+    "pinyin": "yóu cài huā huáng",
+    "hex": "#FBDA41",
+    "rgb": "rgb(251,218,65)",
+    "hsl": "hsl(49, 96%, 62%)",
+    "cmyk": "cmyk(2%,16%,84%,0%)",
+    "lightness": 62
+  },
+  {
+    "name": "佛手黃",
+    "pinyin": "fó shǒu huáng",
+    "hex": "#FED71A",
+    "rgb": "rgb(254,215,26)",
+    "hsl": "hsl(50, 99%, 55%)",
+    "cmyk": "cmyk(1%,18%,94%,0%)",
+    "lightness": 55
+  },
+  {
+    "name": "葵扇黃",
+    "pinyin": "kuí shàn huáng",
+    "hex": "#F8D86A",
+    "rgb": "rgb(248,216,106)",
+    "hsl": "hsl(46, 91%, 69%)",
+    "cmyk": "cmyk(3%,17%,69%,0%)",
+    "lightness": 69
+  },
+  {
+    "name": "檸檬黃",
+    "pinyin": "níng méng huáng",
+    "hex": "#FCD337",
+    "rgb": "rgb(252,211,55)",
+    "hsl": "hsl(48, 97%, 60%)",
+    "cmyk": "cmyk(0%,20%,87%,0%)",
+    "lightness": 60
+  },
+  {
+    "name": "金瓜黃",
+    "pinyin": "jīn guā huáng",
+    "hex": "#FCD217",
+    "rgb": "rgb(252,210,23)",
+    "hsl": "hsl(49, 97%, 54%)",
+    "cmyk": "cmyk(0%,20%,95%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "藤黃",
+    "pinyin": "téng huáng",
+    "hex": "#FFD111",
+    "rgb": "rgb(254,209,16)",
+    "hsl": "hsl(48, 100%, 53%)",
+    "cmyk": "cmyk(0%,21%,94%,0%)",
+    "lightness": 53
+  },
+  {
+    "name": "香水玫瑰黃",
+    "pinyin": "xiāng shuǐ méi guī huáng",
+    "hex": "#F7DA94",
+    "rgb": "rgb(247,218,148)",
+    "hsl": "hsl(42, 86%, 77%)",
+    "cmyk": "cmyk(1%,17%,50%,0%)",
+    "lightness": 77
+  },
+  {
+    "name": "大豆黃",
+    "pinyin": "dà dòu huáng",
+    "hex": "#FBCD31",
+    "rgb": "rgb(251,205,49)",
+    "hsl": "hsl(46, 96%, 59%)",
+    "cmyk": "cmyk(0%,23%,88%,0%)",
+    "lightness": 59
+  },
+  {
+    "name": "素馨黃",
+    "pinyin": "sù xīn huáng",
+    "hex": "#FCCB16",
+    "rgb": "rgb(252,203,22)",
+    "hsl": "hsl(47, 97%, 54%)",
+    "cmyk": "cmyk(0%,24%,94%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "嚮日葵黃",
+    "pinyin": "xiàng rì kuí huáng",
+    "hex": "#FECC11",
+    "rgb": "rgb(254,204,17)",
+    "hsl": "hsl(47, 99%, 53%)",
+    "cmyk": "cmyk(0%,24%,94%,0%)",
+    "lightness": 53
+  },
+  {
+    "name": "雅梨黃",
+    "pinyin": "yǎ lí huáng",
+    "hex": "#FBC82F",
+    "rgb": "rgb(251,200,47)",
+    "hsl": "hsl(45, 96%, 58%)",
+    "cmyk": "cmyk(0%,27%,88%,0%)",
+    "lightness": 58
+  },
+  {
+    "name": "黃連黃",
+    "pinyin": "huáng lián huáng",
+    "hex": "#FCC515",
+    "rgb": "rgb(252,197,21)",
+    "hsl": "hsl(46, 97%, 54%)",
+    "cmyk": "cmyk(0%,28%,94%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "金盞黃",
+    "pinyin": "jīn zhǎn huáng",
+    "hex": "#FCC307",
+    "rgb": "rgb(252,195,7)",
+    "hsl": "hsl(46, 98%, 51%)",
+    "cmyk": "cmyk(0%,29%,95%,0%)",
+    "lightness": 51
+  },
+  {
+    "name": "蛋殼黃",
+    "pinyin": "dàn ké huáng",
+    "hex": "#F8C387",
+    "rgb": "rgb(248,195,135)",
+    "hsl": "hsl(32, 89%, 75%)",
+    "cmyk": "cmyk(0%,32%,52%,0%)",
+    "lightness": 75
+  },
+  {
+    "name": "肉色",
+    "pinyin": "ròu sè",
+    "hex": "#F7C173",
+    "rgb": "rgb(247,193,115)",
+    "hsl": "hsl(35, 89%, 71%)",
+    "cmyk": "cmyk(0%,32%,52%,0%)",
+    "lightness": 71
+  },
+  {
+    "name": "鵝掌黃",
+    "pinyin": "é zhǎng huáng",
+    "hex": "#FBB929",
+    "rgb": "rgb(251,185,41)",
+    "hsl": "hsl(41, 96%, 57%)",
+    "cmyk": "cmyk(0%,35%,89%,0%)",
+    "lightness": 57
+  },
+  {
+    "name": "雞蛋黃",
+    "pinyin": "jī dàn huáng",
+    "hex": "#FBB612",
+    "rgb": "rgb(251,182,18)",
+    "hsl": "hsl(42, 97%, 53%)",
+    "cmyk": "cmyk(0%,36%,93%,0%)",
+    "lightness": 53
+  },
+  {
+    "name": "鼬黃",
+    "pinyin": "yòu huáng",
+    "hex": "#FCB70A",
+    "rgb": "rgb(252,183,10)",
+    "hsl": "hsl(43, 98%, 51%)",
+    "cmyk": "cmyk(0%,35%,94%,0%)",
+    "lightness": 51
+  },
+  {
+    "name": "榴萼黃",
+    "pinyin": "liú è huáng",
+    "hex": "#F9A633",
+    "rgb": "rgb(249,166,51)",
+    "hsl": "hsl(35, 94%, 59%)",
+    "cmyk": "cmyk(0%,44%,84%,0%)",
+    "lightness": 59
+  },
+  {
+    "name": "淡橘橙",
+    "pinyin": "dàn jú chéng",
+    "hex": "#FBA414",
+    "rgb": "rgb(251,164,20)",
+    "hsl": "hsl(37, 97%, 53%)",
+    "cmyk": "cmyk(0%,45%,92%,0%)",
+    "lightness": 53
+  },
+  {
+    "name": "枇杷黃",
+    "pinyin": "pí pá huáng",
+    "hex": "#FCA106",
+    "rgb": "rgb(252,161,6)",
+    "hsl": "hsl(38, 98%, 51%)",
+    "cmyk": "cmyk(0%,47%,92%,0%)",
+    "lightness": 51
+  },
+  {
+    "name": "橙皮黃",
+    "pinyin": "chéng pí huáng",
+    "hex": "#FCA104",
+    "rgb": "rgb(252,161,4)",
+    "hsl": "hsl(38, 98%, 50%)",
+    "cmyk": "cmyk(0%,47%,92%,0%)",
+    "lightness": 50
+  },
+  {
+    "name": "北瓜黃",
+    "pinyin": "běi guā huáng",
+    "hex": "#FC8C23",
+    "rgb": "rgb(252,140,35)",
+    "hsl": "hsl(29, 97%, 56%)",
+    "cmyk": "cmyk(0%,56%,87%,0%)",
+    "lightness": 56
+  },
+  {
+    "name": "杏黃",
+    "pinyin": "xìng huáng",
+    "hex": "#F28E16",
+    "rgb": "rgb(250,142,22)",
+    "hsl": "hsl(33, 89%, 52%)",
+    "cmyk": "cmyk(0%,54%,92%,0%)",
+    "lightness": 52
+  },
+  {
+    "name": "雄黃",
+    "pinyin": "xióng huáng",
+    "hex": "#FF9900",
+    "rgb": "rgb(255,153,0)",
+    "hsl": "hsl(36, 100%, 50%)",
+    "cmyk": "cmyk(0%,51%,91%,0%)",
+    "lightness": 50
+  },
+  {
+    "name": "萬壽菊黃",
+    "pinyin": "wàn shòu jú huáng",
+    "hex": "#FB8B05",
+    "rgb": "rgb(251,139,5)",
+    "hsl": "hsl(33, 97%, 50%)",
+    "cmyk": "cmyk(0%,56%,91%,0%)",
+    "lightness": 50
+  },
+  {
+    "name": "秋葵黃",
+    "pinyin": "qiū kuí huáng",
+    "hex": "#EED045",
+    "rgb": "rgb(238,208,69)",
+    "hsl": "hsl(49, 83%, 60%)",
+    "cmyk": "cmyk(8%,19%,84%,1%)",
+    "lightness": 60
+  },
+  {
+    "name": "硫華黃",
+    "pinyin": "liú huá huáng",
+    "hex": "#F2CE2B",
+    "rgb": "rgb(242,206,43)",
+    "hsl": "hsl(49, 88%, 56%)",
+    "cmyk": "cmyk(6%,20%,92%,1%)",
+    "lightness": 56
+  },
+  {
+    "name": "柚黃",
+    "pinyin": "yòu huáng",
+    "hex": "#F1CA17",
+    "rgb": "rgb(241,202,23)",
+    "hsl": "hsl(49, 89%, 52%)",
+    "cmyk": "cmyk(6%,22%,92%,0%)",
+    "lightness": 52
+  },
+  {
+    "name": "芒果黃",
+    "pinyin": "máng guǒ huáng",
+    "hex": "#DDC871",
+    "rgb": "rgb(221,200,113)",
+    "hsl": "hsl(48, 61%, 65%)",
+    "cmyk": "cmyk(15%,20%,66%,2%)",
+    "lightness": 65
+  },
+  {
+    "name": "蒿黃",
+    "pinyin": "hāo huáng",
+    "hex": "#DFC243",
+    "rgb": "rgb(223,194,67)",
+    "hsl": "hsl(49, 71%, 57%)",
+    "cmyk": "cmyk(14%,22%,85%,2%)",
+    "lightness": 57
+  },
+  {
+    "name": "薑黃",
+    "pinyin": "jiāng huáng",
+    "hex": "#E2C027",
+    "rgb": "rgb(226,192,39)",
+    "hsl": "hsl(49, 76%, 52%)",
+    "cmyk": "cmyk(12%,24%,95%,2%)",
+    "lightness": 52
+  },
+  {
+    "name": "香蕉黃",
+    "pinyin": "xiāng jiāo huáng",
+    "hex": "#E4BF11",
+    "rgb": "rgb(228,191,17)",
+    "hsl": "hsl(49, 86%, 48%)",
+    "cmyk": "cmyk(11%,25%,99%,1%)",
+    "lightness": 48
+  },
+  {
+    "name": "草黃",
+    "pinyin": "cǎo huáng",
+    "hex": "#D2B42C",
+    "rgb": "rgb(210,180,44)",
+    "hsl": "hsl(49, 65%, 50%)",
+    "cmyk": "cmyk(17%,27%,94%,4%)",
+    "lightness": 50
+  },
+  {
+    "name": "豆汁黃",
+    "pinyin": "dòu zhī huáng",
+    "hex": "#F8E8C1",
+    "rgb": "rgb(248,232,193)",
+    "hsl": "hsl(43, 80%, 86%)",
+    "cmyk": "cmyk(3%,10%,31%,0%)",
+    "lightness": 86
+  },
+  {
+    "name": "乳鴨黃",
+    "pinyin": "rǔ yā huáng",
+    "hex": "#FFC90C",
+    "rgb": "rgb(255,201,12)",
+    "hsl": "hsl(47, 100%, 52%)",
+    "cmyk": "cmyk(0%,26%,94%,0%)",
+    "lightness": 52
+  },
+  {
+    "name": "象牙黃",
+    "pinyin": "xiàng yá huáng",
+    "hex": "#F0D695",
+    "rgb": "rgb(240,214,149)",
+    "hsl": "hsl(43, 75%, 76%)",
+    "cmyk": "cmyk(5%,19%,50%,0%)",
+    "lightness": 76
+  },
+  {
+    "name": "炒米黃",
+    "pinyin": "chǎo mǐ huáng",
+    "hex": "#F4CE69",
+    "rgb": "rgb(244,206,105)",
+    "hsl": "hsl(44, 86%, 68%)",
+    "cmyk": "cmyk(3%,23%,69%,0%)",
+    "lightness": 68
+  },
+  {
+    "name": "鸚鵡冠黃",
+    "pinyin": "yīng wǔ guān huáng",
+    "hex": "#F6C430",
+    "rgb": "rgb(246,196,48)",
+    "hsl": "hsl(45, 92%, 58%)",
+    "cmyk": "cmyk(1%,28%,89%,0%)",
+    "lightness": 58
+  },
+  {
+    "name": "木瓜黃",
+    "pinyin": "mù guā huáng",
+    "hex": "#F9C116",
+    "rgb": "rgb(249,193,22)",
+    "hsl": "hsl(45, 95%, 53%)",
+    "cmyk": "cmyk(0%,30%,95%,0%)",
+    "lightness": 53
+  },
+  {
+    "name": "淺烙黃",
+    "pinyin": "qiǎn lào huáng",
+    "hex": "#F9BD10",
+    "rgb": "rgb(249,189,16)",
+    "hsl": "hsl(45, 95%, 52%)",
+    "cmyk": "cmyk(0%,32%,95%,0%)",
+    "lightness": 52
+  },
+  {
+    "name": "蓮子白",
+    "pinyin": "lián zi bái",
+    "hex": "#E5D3AA",
+    "rgb": "rgb(229,211,170)",
+    "hsl": "hsl(42, 53%, 78%)",
+    "cmyk": "cmyk(11%,18%,39%,1%)",
+    "lightness": 78
+  },
+  {
+    "name": "谷黃",
+    "pinyin": "gǔ huáng",
+    "hex": "#E8B004",
+    "rgb": "rgb(232,176,4)",
+    "hsl": "hsl(45, 97%, 46%)",
+    "cmyk": "cmyk(5%,35%,99%,0%)",
+    "lightness": 46
+  },
+  {
+    "name": "梔子黃",
+    "pinyin": "zhī zi huáng",
+    "hex": "#EBB10D",
+    "rgb": "rgb(235,177,13)",
+    "hsl": "hsl(44, 90%, 49%)",
+    "cmyk": "cmyk(3%,36%,99%,0%)",
+    "lightness": 49
+  },
+  {
+    "name": "芥黃",
+    "pinyin": "jiè huáng",
+    "hex": "#D9A40E",
+    "rgb": "rgb(217,164,14)",
+    "hsl": "hsl(44, 88%, 45%)",
+    "cmyk": "cmyk(11%,39%,100%,2%)",
+    "lightness": 45
+  },
+  {
+    "name": "淡松煙",
+    "pinyin": "dàn sōng yān",
+    "hex": "#4D4030",
+    "rgb": "rgb(77,64,48)",
+    "hsl": "hsl(33, 23%, 25%)",
+    "cmyk": "cmyk(48%,58%,70%,62%)",
+    "lightness": 25
+  },
+  {
+    "name": "淡肉色",
+    "pinyin": "dàn ròu sè",
+    "hex": "#F8E0B0",
+    "rgb": "rgb(248,224,176)",
+    "hsl": "hsl(40, 84%, 83%)",
+    "cmyk": "cmyk(1%,15%,38%,0%)",
+    "lightness": 83
+  },
+  {
+    "name": "麥芽糖黃",
+    "pinyin": "mài yá táng huáng",
+    "hex": "#F9D27D",
+    "rgb": "rgb(249,210,125)",
+    "hsl": "hsl(41, 91%, 73%)",
+    "cmyk": "cmyk(0%,23%,59%,0%)",
+    "lightness": 73
+  },
+  {
+    "name": "琥珀黃",
+    "pinyin": "hǔ pò huáng",
+    "hex": "#FEBA07",
+    "rgb": "rgb(254,186,7)",
+    "hsl": "hsl(43, 99%, 51%)",
+    "cmyk": "cmyk(0%,34%,93%,0%)",
+    "lightness": 51
+  },
+  {
+    "name": "甘草黃",
+    "pinyin": "gān cǎo huáng",
+    "hex": "#F3BF4C",
+    "rgb": "rgb(243,191,76)",
+    "hsl": "hsl(41, 87%, 63%)",
+    "cmyk": "cmyk(1%,31%,79%,0%)",
+    "lightness": 63
+  },
+  {
+    "name": "初熟杏黃",
+    "pinyin": "chū shú xìng huáng",
+    "hex": "#F8BC31",
+    "rgb": "rgb(248,188,49)",
+    "hsl": "hsl(42, 93%, 58%)",
+    "cmyk": "cmyk(0%,33%,83%,0%)",
+    "lightness": 58
+  },
+  {
+    "name": "淺駝色",
+    "pinyin": "qiǎn tuó sè",
+    "hex": "#E2C17C",
+    "rgb": "rgb(226,193,124)",
+    "hsl": "hsl(41, 64%, 69%)",
+    "cmyk": "cmyk(10%,27%,59%,1%)",
+    "lightness": 69
+  },
+  {
+    "name": "沙石黃",
+    "pinyin": "shā shí huáng",
+    "hex": "#E5B751",
+    "rgb": "rgb(229,183,81)",
+    "hsl": "hsl(41, 74%, 61%)",
+    "cmyk": "cmyk(7%,32%,78%,1%)",
+    "lightness": 61
+  },
+  {
+    "name": "虎皮黃",
+    "pinyin": "hǔ pí huáng",
+    "hex": "#EAAD1A",
+    "rgb": "rgb(234,173,26)",
+    "hsl": "hsl(42, 83%, 51%)",
+    "cmyk": "cmyk(3%,38%,97%,0%)",
+    "lightness": 51
+  },
+  {
+    "name": "土黃",
+    "pinyin": "tǔ huáng",
+    "hex": "#D6A01D",
+    "rgb": "rgb(214,160,29)",
+    "hsl": "hsl(42, 76%, 48%)",
+    "cmyk": "cmyk(12%,41%,98%,2%)",
+    "lightness": 48
+  },
+  {
+    "name": "山雞黃",
+    "pinyin": "shān jī huáng",
+    "hex": "#B78B26",
+    "rgb": "rgb(183,139,38)",
+    "hsl": "hsl(42, 66%, 43%)",
+    "cmyk": "cmyk(21%,44%,97%,11%)",
+    "lightness": 43
+  },
+  {
+    "name": "龜背黃",
+    "pinyin": "guī bèi huáng",
+    "hex": "#826B48",
+    "rgb": "rgb(130,107,72)",
+    "hsl": "hsl(36, 29%, 40%)",
+    "cmyk": "cmyk(35%,47%,71%,33%)",
+    "lightness": 40
+  },
+  {
+    "name": "蒼黃",
+    "pinyin": "cāng huáng",
+    "hex": "#806332",
+    "rgb": "rgb(128,99,50)",
+    "hsl": "hsl(38, 44%, 35%)",
+    "cmyk": "cmyk(34%,52%,85%,35%)",
+    "lightness": 35
+  },
+  {
+    "name": "萊陽梨黃",
+    "pinyin": "lái yáng lí huáng",
+    "hex": "#815F25",
+    "rgb": "rgb(129,95,37)",
+    "hsl": "hsl(38, 55%, 33%)",
+    "cmyk": "cmyk(32%,56%,96%,34%)",
+    "lightness": 33
+  },
+  {
+    "name": "落英淡粉",
+    "pinyin": "luò yīng dàn fěn",
+    "hex": "#F9E8D0",
+    "rgb": "rgb(249,232,208)",
+    "hsl": "hsl(35, 77%, 90%)",
+    "cmyk": "cmyk(1%,12%,22%,0%)",
+    "lightness": 90
+  },
+  {
+    "name": "瓜瓤粉",
+    "pinyin": "guā ráng fěn",
+    "hex": "#F9CB8B",
+    "rgb": "rgb(249,203,139)",
+    "hsl": "hsl(35, 90%, 76%)",
+    "cmyk": "cmyk(0%,27%,51%,0%)",
+    "lightness": 76
+  },
+  {
+    "name": "蜜黃",
+    "pinyin": "mì huáng",
+    "hex": "#FBB957",
+    "rgb": "rgb(251,185,87)",
+    "hsl": "hsl(36, 95%, 66%)",
+    "cmyk": "cmyk(0%,36%,72%,0%)",
+    "lightness": 66
+  },
+  {
+    "name": "金葉黃",
+    "pinyin": "jīn yè huáng",
+    "hex": "#FFA60F",
+    "rgb": "rgb(255,166,15)",
+    "hsl": "hsl(38, 100%, 53%)",
+    "cmyk": "cmyk(0%,44%,91%,0%)",
+    "lightness": 53
+  },
+  {
+    "name": "金鶯黃",
+    "pinyin": "jīn yīng huáng",
+    "hex": "#F4A83A",
+    "rgb": "rgb(244,168,58)",
+    "hsl": "hsl(35, 89%, 59%)",
+    "cmyk": "cmyk(0%,43%,82%,0%)",
+    "lightness": 59
+  },
+  {
+    "name": "鹿角棕",
+    "pinyin": "lù jiǎo zōng",
+    "hex": "#E3BD8D",
+    "rgb": "rgb(227,189,141)",
+    "hsl": "hsl(33, 61%, 72%)",
+    "cmyk": "cmyk(8%,31%,50%,1%)",
+    "lightness": 72
+  },
+  {
+    "name": "凋葉棕",
+    "pinyin": "diāo yè zōng",
+    "hex": "#E7A23F",
+    "rgb": "rgb(231,162,63)",
+    "hsl": "hsl(35, 78%, 58%)",
+    "cmyk": "cmyk(2%,44%,83%,0%)",
+    "lightness": 58
+  },
+  {
+    "name": "玳瑁黃",
+    "pinyin": "dài mào huáng",
+    "hex": "#DAA45A",
+    "rgb": "rgb(218,164,90)",
+    "hsl": "hsl(35, 63%, 60%)",
+    "cmyk": "cmyk(10%,41%,72%,1%)",
+    "lightness": 60
+  },
+  {
+    "name": "軟木黃",
+    "pinyin": "ruǎn mù huáng",
+    "hex": "#DE9E44",
+    "rgb": "rgb(222,158,68)",
+    "hsl": "hsl(35, 70%, 57%)",
+    "cmyk": "cmyk(7%,45%,82%,1%)",
+    "lightness": 57
+  },
+  {
+    "name": "風帆黃",
+    "pinyin": "fēng fān huáng",
+    "hex": "#DC9123",
+    "rgb": "rgb(220,145,35)",
+    "hsl": "hsl(36, 73%, 50%)",
+    "cmyk": "cmyk(6%,51%,95%,1%)",
+    "lightness": 50
+  },
+  {
+    "name": "桂皮淡棕",
+    "pinyin": "guì pí dàn zōng",
+    "hex": "#C09351",
+    "rgb": "rgb(192,147,81)",
+    "hsl": "hsl(36, 47%, 54%)",
+    "cmyk": "cmyk(19%,44%,75%,7%)",
+    "lightness": 54
+  },
+  {
+    "name": "山雞褐",
+    "pinyin": "shān jī hè",
+    "hex": "#986524",
+    "rgb": "rgb(152,101,36)",
+    "hsl": "hsl(34, 62%, 37%)",
+    "cmyk": "cmyk(27%,60%,97%,21%)",
+    "lightness": 37
+  },
+  {
+    "name": "金黃",
+    "pinyin": "jīn huáng",
+    "hex": "#F26B1F",
+    "rgb": "rgb(242,123,31)",
+    "hsl": "hsl(22, 89%, 54%)",
+    "cmyk": "cmyk(5%,69%,87%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "淡土黃",
+    "pinyin": "dàn tǔ huáng",
+    "hex": "#8C4B31",
+    "rgb": "rgb(140,75,49)",
+    "hsl": "hsl(17, 48%, 37%)",
+    "cmyk": "cmyk(28%,76%,82%,26%)",
+    "lightness": 37
+  },
+  {
+    "name": "姚黃",
+    "pinyin": "yáo huáng",
+    "hex": "#D0DEAA",
+    "rgb": "rgb(208,222,170)",
+    "hsl": "hsl(76, 44%, 77%)",
+    "cmyk": "cmyk(28%,4%,44%,0%)",
+    "lightness": 77
+  },
+  {
+    "name": "蝶黃",
+    "pinyin": "dié huáng",
+    "hex": "#E2D849",
+    "rgb": "rgb(226,216,73)",
+    "hsl": "hsl(56, 73%, 59%)",
+    "cmyk": "cmyk(19%,9%,84%,1%)",
+    "lightness": 59
+  },
+  {
+    "name": "桔黄",
+    "pinyin": "jié huáng",
+    "hex": "#E8853B",
+    "rgb": "rgb(232,133,59)",
+    "hsl": "hsl(26, 79%, 57%)",
+    "cmyk": "cmyk(0%,43%,75%,9%)",
+    "lightness": 57
+  },
+  {
+    "name": "金黄",
+    "pinyin": "jīn huáng",
+    "hex": "#C77A3A",
+    "rgb": "rgb(199,122,58)",
+    "hsl": "hsl(27, 56%, 50%)",
+    "cmyk": "cmyk(0%,39%,71%,22%)",
+    "lightness": 50
+  },
+  {
+    "name": "雄黄",
+    "pinyin": "xióng huáng",
+    "hex": "#D0853D",
+    "rgb": "rgb(208,133,61)",
+    "hsl": "hsl(29, 61%, 53%)",
+    "cmyk": "cmyk(0%,36%,71%,18%)",
+    "lightness": 53
+  },
+  {
+    "name": "蝦黄",
+    "pinyin": "xiā huáng",
+    "hex": "#E1A14D",
+    "rgb": "rgb(225,161,77)",
+    "hsl": "hsl(34, 71%, 59%)",
+    "cmyk": "cmyk(0%,28%,66%,12%)",
+    "lightness": 59
+  },
+  {
+    "name": "艶黄",
+    "pinyin": "yàn huáng",
+    "hex": "#E1A105",
+    "rgb": "rgb(225,161,5)",
+    "hsl": "hsl(43, 96%, 45%)",
+    "cmyk": "cmyk(0%,28%,98%,12%)",
+    "lightness": 45
+  },
+  {
+    "name": "鵝黄",
+    "pinyin": "é huáng",
+    "hex": "#F5A31F",
+    "rgb": "rgb(245,163,31)",
+    "hsl": "hsl(37, 91%, 54%)",
+    "cmyk": "cmyk(0%,33%,87%,4%)",
+    "lightness": 54
+  },
+  {
+    "name": "肉黄",
+    "pinyin": "ròu huáng",
+    "hex": "#F0B69D",
+    "rgb": "rgb(240,182,157)",
+    "hsl": "hsl(18, 73%, 78%)",
+    "cmyk": "cmyk(0%,24%,35%,6%)",
+    "lightness": 78
+  },
+  {
+    "name": "黄棕色",
+    "pinyin": "huáng zōng sè",
+    "hex": "#A5855E",
+    "rgb": "rgb(165,133,94)",
+    "hsl": "hsl(33, 28%, 51%)",
+    "cmyk": "cmyk(0%,19%,43%,35%)",
+    "lightness": 51
+  },
+  {
+    "name": "棕茶",
+    "pinyin": "zōng chá",
+    "hex": "#B8844F",
+    "rgb": "rgb(184,132,79)",
+    "hsl": "hsl(30, 43%, 52%)",
+    "cmyk": "cmyk(0%,28%,57%,28%)",
+    "lightness": 52
+  },
+  {
+    "name": "土黄",
+    "pinyin": "tǔ huáng",
+    "hex": "#CE9335",
+    "rgb": "rgb(206,147,53)",
+    "hsl": "hsl(37, 61%, 51%)",
+    "cmyk": "cmyk(0%,29%,74%,19%)",
+    "lightness": 51
+  },
+  {
+    "name": "黄琉璃",
+    "pinyin": "huáng líu lí",
+    "hex": "#E2AF45",
+    "rgb": "rgb(226,175,69)",
+    "hsl": "hsl(41, 73%, 58%)",
+    "cmyk": "cmyk(0%,23%,69%,11%)",
+    "lightness": 58
+  },
+  {
+    "name": "琉璃色",
+    "pinyin": "líu lí sè",
+    "hex": "#C48D39",
+    "rgb": "rgb(196,141,57)",
+    "hsl": "hsl(36, 55%, 50%)",
+    "cmyk": "cmyk(0%,28%,71%,23%)",
+    "lightness": 50
+  },
+  {
+    "name": "檀香色",
+    "pinyin": "tán xiāng sè",
+    "hex": "#DC943B",
+    "rgb": "rgb(220,148,59)",
+    "hsl": "hsl(33, 70%, 55%)",
+    "cmyk": "cmyk(0%,33%,73%,14%)",
+    "lightness": 55
+  },
+  {
+    "name": "蒼黄",
+    "pinyin": "cāng huáng",
+    "hex": "#C65306",
+    "rgb": "rgb(198,83,6)",
+    "hsl": "hsl(24, 94%, 40%)",
+    "cmyk": "cmyk(0%,58%,97%,22%)",
+    "lightness": 40
+  },
+  {
+    "name": "向日黄",
+    "pinyin": "xiàng rì huáng",
+    "hex": "#F4B974",
+    "rgb": "rgb(244,185,116)",
+    "hsl": "hsl(32, 85%, 71%)",
+    "cmyk": "cmyk(0%,24%,52%,4%)",
+    "lightness": 71
+  },
+  {
+    "name": "浅黄棕",
+    "pinyin": "qiǎn huáng zōng",
+    "hex": "#DEA87A",
+    "rgb": "rgb(222,168,122)",
+    "hsl": "hsl(28, 60%, 67%)",
+    "cmyk": "cmyk(0%,24%,45%,13%)",
+    "lightness": 67
+  },
+  {
+    "name": "南瓜黄",
+    "pinyin": "nán guā huáng",
+    "hex": "#F1B67F",
+    "rgb": "rgb(241,182,127)",
+    "hsl": "hsl(29, 80%, 72%)",
+    "cmyk": "cmyk(0%,24%,47%,5%)",
+    "lightness": 72
+  },
+  {
+    "name": "芦黄",
+    "pinyin": "lú huáng",
+    "hex": "#E2C2A4",
+    "rgb": "rgb(226,194,164)",
+    "hsl": "hsl(29, 52%, 76%)",
+    "cmyk": "cmyk(0%,14%,27%,11%)",
+    "lightness": 76
+  },
+  {
+    "name": "浅桔黄",
+    "pinyin": "qiǎn jié huáng",
+    "hex": "#DA9558",
+    "rgb": "rgb(218,149,88)",
+    "hsl": "hsl(28, 64%, 60%)",
+    "cmyk": "cmyk(0%,32%,60%,15%)",
+    "lightness": 60
+  },
+  {
+    "name": "鹿皮色",
+    "pinyin": "lù pí sè",
+    "hex": "#E7BB7C",
+    "rgb": "rgb(231,187,124)",
+    "hsl": "hsl(35, 69%, 70%)",
+    "cmyk": "cmyk(0%,19%,46%,9%)",
+    "lightness": 70
+  },
+  {
+    "name": "鹿皮棕",
+    "pinyin": "lù pí zōng",
+    "hex": "#BB9755",
+    "rgb": "rgb(187,151,85)",
+    "hsl": "hsl(39, 43%, 53%)",
+    "cmyk": "cmyk(0%,19%,55%,27%)",
+    "lightness": 53
+  },
+  {
+    "name": "真絲綢色",
+    "pinyin": "zhēn sī chóu sè",
+    "hex": "#F4D7B4",
+    "rgb": "rgb(244,215,180)",
+    "hsl": "hsl(33, 74%, 83%)",
+    "cmyk": "cmyk(0%,12%,26%,4%)",
+    "lightness": 83
+  },
+  {
+    "name": "富春紡色",
+    "pinyin": "fù chūn fǎng sè",
+    "hex": "#F0D6AC",
+    "rgb": "rgb(240,214,172)",
+    "hsl": "hsl(37, 69%, 81%)",
+    "cmyk": "cmyk(0%,11%,28%,6%)",
+    "lightness": 81
+  },
+  {
+    "name": "乳白色",
+    "pinyin": "rǔ bái sè",
+    "hex": "#EEE1CA",
+    "rgb": "rgb(238,225,202)",
+    "hsl": "hsl(38, 51%, 86%)",
+    "cmyk": "cmyk(0%,5%,15%,7%)",
+    "lightness": 86
+  },
+  {
+    "name": "乳黄色",
+    "pinyin": "rǔ huáng sè",
+    "hex": "#EFE0B9",
+    "rgb": "rgb(239,224,185)",
+    "hsl": "hsl(43, 63%, 83%)",
+    "cmyk": "cmyk(0%,6%,23%,6%)",
+    "lightness": 83
+  },
+  {
+    "name": "浅肉粉",
+    "pinyin": "qiǎn ròu fěn",
+    "hex": "#EEDECC",
+    "rgb": "rgb(238,222,204)",
+    "hsl": "hsl(32, 50%, 87%)",
+    "cmyk": "cmyk(0%,7%,14%,7%)",
+    "lightness": 87
+  },
+  {
+    "name": "浅駝色",
+    "pinyin": "qiǎn tuó sè",
+    "hex": "#C9AE8C",
+    "rgb": "rgb(201,174,140)",
+    "hsl": "hsl(33, 36%, 67%)",
+    "cmyk": "cmyk(0%,13%,30%,21%)",
+    "lightness": 67
+  },
+  {
+    "name": "浅棕茶",
+    "pinyin": "qiǎn zōng chá",
+    "hex": "#B0A085",
+    "rgb": "rgb(176,160,133)",
+    "hsl": "hsl(38, 21%, 61%)",
+    "cmyk": "cmyk(0%,9%,24%,31%)",
+    "lightness": 61
+  },
+  {
+    "name": "黄鴨色",
+    "pinyin": "huáng yā sè",
+    "hex": "#9B603F",
+    "rgb": "rgb(155,96,63)",
+    "hsl": "hsl(22, 42%, 43%)",
+    "cmyk": "cmyk(0%,38%,59%,39%)",
+    "lightness": 43
+  },
+  {
+    "name": "将校呢",
+    "pinyin": "jiāng xiào ní",
+    "hex": "#241D00",
+    "rgb": "rgb(36,29,0)",
+    "hsl": "hsl(48, 100%, 7%)",
+    "cmyk": "cmyk(0%,19%,100%,86%)",
+    "lightness": 7
+  },
+  {
+    "name": "将校呢",
+    "pinyin": "jiāng xiào ní",
+    "hex": "#6D614A",
+    "rgb": "rgb(109,97,74)",
+    "hsl": "hsl(39, 19%, 36%)",
+    "cmyk": "cmyk(0%,11%,32%,57%)",
+    "lightness": 36
+  },
+  {
+    "name": "姜黄",
+    "pinyin": "jiāng huáng",
+    "hex": "#B49436",
+    "rgb": "rgb(180,148,54)",
+    "hsl": "hsl(45, 54%, 46%)",
+    "cmyk": "cmyk(0%,18%,70%,29%)",
+    "lightness": 46
+  },
+  {
+    "name": "新芽色",
+    "pinyin": "xīn yá sè",
+    "hex": "#B4A761",
+    "rgb": "rgb(180,167,97)",
+    "hsl": "hsl(51, 36%, 54%)",
+    "cmyk": "cmyk(0%,7%,46%,29%)",
+    "lightness": 54
+  },
+  {
+    "name": "卡其黄",
+    "pinyin": "qiǎ qí huáng",
+    "hex": "#D5B884",
+    "rgb": "rgb(213,184,132)",
+    "hsl": "hsl(39, 49%, 68%)",
+    "cmyk": "cmyk(0%,14%,38%,16%)",
+    "lightness": 68
+  },
+  {
+    "name": "石黄",
+    "pinyin": "shí huáng",
+    "hex": "#F2C04D",
+    "rgb": "rgb(242,192,77)",
+    "hsl": "hsl(42, 86%, 63%)",
+    "cmyk": "cmyk(0%,21%,68%,5%)",
+    "lightness": 63
+  },
+  {
+    "name": "乳棕",
+    "pinyin": "rǔ zōng",
+    "hex": "#C9B481",
+    "rgb": "rgb(201,180,129)",
+    "hsl": "hsl(43, 40%, 65%)",
+    "cmyk": "cmyk(0%,10%,36%,21%)",
+    "lightness": 65
+  },
+  {
+    "name": "蝋黄",
+    "pinyin": "là huáng",
+    "hex": "#EBE1BD",
+    "rgb": "rgb(235,225,189)",
+    "hsl": "hsl(47, 53%, 83%)",
+    "cmyk": "cmyk(0%,4%,20%,8%)",
+    "lightness": 83
+  },
+  {
+    "name": "牙黄",
+    "pinyin": "yá huáng",
+    "hex": "#EBE1B2",
+    "rgb": "rgb(235,225,178)",
+    "hsl": "hsl(49, 59%, 81%)",
+    "cmyk": "cmyk(0%,4%,24%,8%)",
+    "lightness": 81
+  },
+  {
+    "name": "枝黄",
+    "pinyin": "zhī huáng",
+    "hex": "#DBC7A6",
+    "rgb": "rgb(219,199,166)",
+    "hsl": "hsl(37, 42%, 75%)",
+    "cmyk": "cmyk(0%,9%,24%,14%)",
+    "lightness": 75
+  },
+  {
+    "name": "丹東石",
+    "pinyin": "dān dōng shí",
+    "hex": "#D7C16B",
+    "rgb": "rgb(215,193,107)",
+    "hsl": "hsl(48, 57%, 63%)",
+    "cmyk": "cmyk(0%,10%,50%,16%)",
+    "lightness": 63
+  },
+  {
+    "name": "黄金色",
+    "pinyin": "huáng jīn sè",
+    "hex": "#CCCC66",
+    "rgb": "rgb(204,204,102)",
+    "hsl": "hsl(60, 50%, 60%)",
+    "cmyk": "cmyk(0%,0%,50%,20%)",
+    "lightness": 60
+  },
+  {
+    "name": "藤黄",
+    "pinyin": "téng huáng",
+    "hex": "#F2DE76",
+    "rgb": "rgb(242,222,118)",
+    "hsl": "hsl(50, 83%, 71%)",
+    "cmyk": "cmyk(0%,8%,51%,5%)",
+    "lightness": 71
+  },
+  {
+    "name": "蛋黄",
+    "pinyin": "dàn huáng",
+    "hex": "#E7B55B",
+    "rgb": "rgb(231,181,91)",
+    "hsl": "hsl(39, 74%, 63%)",
+    "cmyk": "cmyk(0%,22%,61%,9%)",
+    "lightness": 63
+  },
+  {
+    "name": "槐黄",
+    "pinyin": "huái huáng",
+    "hex": "#EFE452",
+    "rgb": "rgb(239,228,82)",
+    "hsl": "hsl(56, 83%, 63%)",
+    "cmyk": "cmyk(0%,5%,66%,6%)",
+    "lightness": 63
+  },
+  {
+    "name": "明黄",
+    "pinyin": "míng huáng",
+    "hex": "#F0C649",
+    "rgb": "rgb(240,198,73)",
+    "hsl": "hsl(45, 85%, 61%)",
+    "cmyk": "cmyk(0%,17%,70%,6%)",
+    "lightness": 61
+  },
+  {
+    "name": "絲瓜花黄",
+    "pinyin": "sī guā huā huáng",
+    "hex": "#F7D550",
+    "rgb": "rgb(247,213,80)",
+    "hsl": "hsl(48, 91%, 64%)",
+    "cmyk": "cmyk(0%,14%,68%,3%)",
+    "lightness": 64
+  },
+  {
+    "name": "嫩姜黄",
+    "pinyin": "nèn jiāng huáng",
+    "hex": "#E2BD3B",
+    "rgb": "rgb(226,189,59)",
+    "hsl": "hsl(47, 74%, 56%)",
+    "cmyk": "cmyk(0%,16%,74%,11%)",
+    "lightness": 56
+  },
+  {
+    "name": "甘草黄",
+    "pinyin": "gān cǎo huáng",
+    "hex": "#E4CF8E",
+    "rgb": "rgb(228,207,142)",
+    "hsl": "hsl(45, 61%, 73%)",
+    "cmyk": "cmyk(0%,9%,38%,11%)",
+    "lightness": 73
+  },
+  {
+    "name": "小鶏黄",
+    "pinyin": "xiǎo jī huáng",
+    "hex": "#E3D289",
+    "rgb": "rgb(227,210,137)",
+    "hsl": "hsl(49, 62%, 71%)",
+    "cmyk": "cmyk(0%,7%,40%,11%)",
+    "lightness": 71
+  },
+  {
+    "name": "檸檬黄",
+    "pinyin": "níng méng huáng",
+    "hex": "#E9DB39",
+    "rgb": "rgb(233,219,57)",
+    "hsl": "hsl(55, 80%, 57%)",
+    "cmyk": "cmyk(0%,6%,76%,9%)",
+    "lightness": 57
+  },
+  {
+    "name": "楊桃色",
+    "pinyin": "yáng táo sè",
+    "hex": "#D4D570",
+    "rgb": "rgb(212,213,112)",
+    "hsl": "hsl(61, 55%, 64%)",
+    "cmyk": "cmyk(0%,0%,47%,16%)",
+    "lightness": 64
+  },
+  {
+    "name": "淡黄",
+    "pinyin": "dàn huáng",
+    "hex": "#EAE3B3",
+    "rgb": "rgb(234,227,179)",
+    "hsl": "hsl(52, 57%, 81%)",
+    "cmyk": "cmyk(0%,3%,24%,8%)",
+    "lightness": 81
+  },
+  {
+    "name": "淡米色",
+    "pinyin": "dàn mǐ sè",
+    "hex": "#E9E6C5",
+    "rgb": "rgb(233,230,197)",
+    "hsl": "hsl(55, 45%, 84%)",
+    "cmyk": "cmyk(0%,1%,15%,9%)",
+    "lightness": 84
+  },
+  {
+    "name": "草黄",
+    "pinyin": "cǎo huáng",
+    "hex": "#DBCE54",
+    "rgb": "rgb(219,206,84)",
+    "hsl": "hsl(54, 65%, 59%)",
+    "cmyk": "cmyk(0%,6%,62%,14%)",
+    "lightness": 59
+  },
+  {
+    "name": "水黄",
+    "pinyin": "shǔi huáng",
+    "hex": "#BED2B6",
+    "rgb": "rgb(190,210,182)",
+    "hsl": "hsl(103, 24%, 77%)",
+    "cmyk": "cmyk(10%,0%,13%,18%)",
+    "lightness": 77
+  },
+  {
+    "name": "法國梧桐皮色",
+    "pinyin": "fǎ guó wú tóng pí sè",
+    "hex": "#919481",
+    "rgb": "rgb(145,148,129)",
+    "hsl": "hsl(69, 8%, 54%)",
+    "cmyk": "cmyk(2%,0%,13%,42%)",
+    "lightness": 54
+  },
+  {
+    "name": "焦茶色",
+    "pinyin": "jiāo chá sè",
+    "hex": "#5C5A46",
+    "rgb": "rgb(92,90,70)",
+    "hsl": "hsl(55, 14%, 32%)",
+    "cmyk": "cmyk(0%,2%,24%,64%)",
+    "lightness": 32
+  },
+  {
+    "name": "大赤金",
+    "pinyin": "dà chì jīn",
+    "hex": "#6D7358",
+    "rgb": "rgb(109,115,88)",
+    "hsl": "hsl(73, 13%, 40%)",
+    "cmyk": "cmyk(5%,0%,23%,55%)",
+    "lightness": 40
+  },
+  {
+    "name": "庫金",
+    "pinyin": "kù jīn",
+    "hex": "#85794F",
+    "rgb": "rgb(133,121,79)",
+    "hsl": "hsl(47, 25%, 42%)",
+    "cmyk": "cmyk(0%,9%,41%,48%)",
+    "lightness": 42
+  },
+  {
+    "name": "選金",
+    "pinyin": "xuǎn jīn",
+    "hex": "#796F54",
+    "rgb": "rgb(121,111,84)",
+    "hsl": "hsl(44, 18%, 40%)",
+    "cmyk": "cmyk(0%,8%,31%,53%)",
+    "lightness": 40
+  },
+  {
+    "name": "獣皮色",
+    "pinyin": "獣 pí sè",
+    "hex": "#B9986D",
+    "rgb": "rgb(185,152,109)",
+    "hsl": "hsl(34, 35%, 58%)",
+    "cmyk": "cmyk(0%,18%,41%,27%)",
+    "lightness": 58
+  },
+  {
+    "name": "櫻草色",
+    "pinyin": "yīng cǎo sè",
+    "hex": "#EAFF56",
+    "rgb": "rgb(234,255,86)",
+    "hsl": "hsl(67, 100%, 67%)",
+    "cmyk": "cmyk(8%,0%,66%,0%)",
+    "lightness": 67
+  },
+  {
+    "name": "鵝黃",
+    "pinyin": "é huáng",
+    "hex": "#FFF143",
+    "rgb": "rgb(255,241,67)",
+    "hsl": "hsl(56, 100%, 63%)",
+    "cmyk": "cmyk(0%,5%,74%,0%)",
+    "lightness": 63
+  },
+  {
+    "name": "鴨黃",
+    "pinyin": "yā huáng",
+    "hex": "#FAFF72",
+    "rgb": "rgb(250,255,114)",
+    "hsl": "hsl(62, 100%, 72%)",
+    "cmyk": "cmyk(2%,0%,55%,0%)",
+    "lightness": 72
+  },
+  {
+    "name": "杏黃",
+    "pinyin": "xìng huáng",
+    "hex": "#FFA631",
+    "rgb": "rgb(255,166,49)",
+    "hsl": "hsl(34, 100%, 60%)",
+    "cmyk": "cmyk(0%,35%,81%,0%)",
+    "lightness": 60
+  },
+  {
+    "name": "橙黃",
+    "pinyin": "chéng huáng",
+    "hex": "#FFA400",
+    "rgb": "rgb(255,164,0)",
+    "hsl": "hsl(39, 100%, 50%)",
+    "cmyk": "cmyk(0%,36%,100%,0%)",
+    "lightness": 50
+  },
+  {
+    "name": "橙色",
+    "pinyin": "chéng sè",
+    "hex": "#FA8C35",
+    "rgb": "rgb(250,140,53)",
+    "hsl": "hsl(26, 95%, 59%)",
+    "cmyk": "cmyk(0%,44%,79%,2%)",
+    "lightness": 59
+  },
+  {
+    "name": "杏紅",
+    "pinyin": "xìng hóng",
+    "hex": "#FF8C31",
+    "rgb": "rgb(255,140,49)",
+    "hsl": "hsl(27, 100%, 60%)",
+    "cmyk": "cmyk(0%,45%,81%,0%)",
+    "lightness": 60
+  },
+  {
+    "name": "橘黃",
+    "pinyin": "jú huáng",
+    "hex": "#FF8936",
+    "rgb": "rgb(255,137,54)",
+    "hsl": "hsl(25, 100%, 61%)",
+    "cmyk": "cmyk(0%,46%,79%,0%)",
+    "lightness": 61
+  },
+  {
+    "name": "橘紅",
+    "pinyin": "jú hóng",
+    "hex": "#FF7500",
+    "rgb": "rgb(255,117,0)",
+    "hsl": "hsl(28, 100%, 50%)",
+    "cmyk": "cmyk(0%,54%,100%,0%)",
+    "lightness": 50
+  },
+  {
+    "name": "藤黃",
+    "pinyin": "téng huáng",
+    "hex": "#FFB61E",
+    "rgb": "rgb(255,182,30)",
+    "hsl": "hsl(41, 100%, 56%)",
+    "cmyk": "cmyk(0%,29%,88%,0%)",
+    "lightness": 56
+  },
+  {
+    "name": "薑黃",
+    "pinyin": "jiāng huáng",
+    "hex": "#FFC773",
+    "rgb": "rgb(255,199,115)",
+    "hsl": "hsl(36, 100%, 73%)",
+    "cmyk": "cmyk(0%,22%,55%,0%)",
+    "lightness": 73
+  },
+  {
+    "name": "雌黃",
+    "pinyin": "cí huáng",
+    "hex": "#FFC64B",
+    "rgb": "rgb(255,198,75)",
+    "hsl": "hsl(41, 100%, 65%)",
+    "cmyk": "cmyk(0%,22%,71%,0%)",
+    "lightness": 65
+  },
+  {
+    "name": "赤金",
+    "pinyin": "chì jīn",
+    "hex": "#F2BE45",
+    "rgb": "rgb(242,190,69)",
+    "hsl": "hsl(42, 87%, 61%)",
+    "cmyk": "cmyk(0%,21%,71%,5%)",
+    "lightness": 61
+  },
+  {
+    "name": "緗色",
+    "pinyin": "xiāng sè",
+    "hex": "#F0C239",
+    "rgb": "rgb(240,194,57)",
+    "hsl": "hsl(45, 86%, 58%)",
+    "cmyk": "cmyk(0%,19%,76%,6%)",
+    "lightness": 58
+  },
+  {
+    "name": "雄黃",
+    "pinyin": "xióng huáng",
+    "hex": "#E9BB1D",
+    "rgb": "rgb(233,187,29)",
+    "hsl": "hsl(46, 82%, 51%)",
+    "cmyk": "cmyk(0%,20%,88%,9%)",
+    "lightness": 51
+  },
+  {
+    "name": "秋香色",
+    "pinyin": "qiū xiāng sè",
+    "hex": "#D9B611",
+    "rgb": "rgb(217,182,17)",
+    "hsl": "hsl(50, 85%, 46%)",
+    "cmyk": "cmyk(0%,16%,92%,15%)",
+    "lightness": 46
+  },
+  {
+    "name": "金色",
+    "pinyin": "jīn sè",
+    "hex": "#EACD76",
+    "rgb": "rgb(234,205,118)",
+    "hsl": "hsl(45, 73%, 69%)",
+    "cmyk": "cmyk(0%,12%,50%,8%)",
+    "lightness": 69
+  },
+  {
+    "name": "牙色",
+    "pinyin": "yá sè",
+    "hex": "#EEDEB0",
+    "rgb": "rgb(238,222,176)",
+    "hsl": "hsl(45, 65%, 81%)",
+    "cmyk": "cmyk(0%,7%,26%,7%)",
+    "lightness": 81
+  },
+  {
+    "name": "枯黃",
+    "pinyin": "kū huáng",
+    "hex": "#D3B17D",
+    "rgb": "rgb(211,177,125)",
+    "hsl": "hsl(36, 49%, 66%)",
+    "cmyk": "cmyk(0%,16%,41%,17%)",
+    "lightness": 66
+  },
+  {
+    "name": "黃櫨",
+    "pinyin": "huáng lú",
+    "hex": "#E29C45",
+    "rgb": "rgb(226,156,69)",
+    "hsl": "hsl(33, 73%, 58%)",
+    "cmyk": "cmyk(0%,31%,69%,11%)",
+    "lightness": 58
+  },
+  {
+    "name": "烏金",
+    "pinyin": "wū jīn",
+    "hex": "#A78E44",
+    "rgb": "rgb(167,142,68)",
+    "hsl": "hsl(45, 42%, 46%)",
+    "cmyk": "cmyk(0%,15%,59%,35%)",
+    "lightness": 46
+  },
+  {
+    "name": "昏黃",
+    "pinyin": "hūn huáng",
+    "hex": "#C89B40",
+    "rgb": "rgb(200,155,64)",
+    "hsl": "hsl(40, 55%, 52%)",
+    "cmyk": "cmyk(0%,23%,68%,22%)",
+    "lightness": 52
+  },
+  {
+    "name": "棕黃",
+    "pinyin": "zōng huáng",
+    "hex": "#AE7000",
+    "rgb": "rgb(174,112,0)",
+    "hsl": "hsl(39, 100%, 34%)",
+    "cmyk": "cmyk(0%,36%,100%,32%)",
+    "lightness": 34
+  },
+  {
+    "name": "琥珀",
+    "pinyin": "hǔ pò",
+    "hex": "#CA6924",
+    "rgb": "rgb(202,105,36)",
+    "hsl": "hsl(25, 70%, 47%)",
+    "cmyk": "cmyk(0%,48%,82%,21%)",
+    "lightness": 47
+  },
+  {
+    "name": "棕色",
+    "pinyin": "zōng sè",
+    "hex": "#B25D25",
+    "rgb": "rgb(178,93,37)",
+    "hsl": "hsl(24, 66%, 42%)",
+    "cmyk": "cmyk(0%,48%,79%,30%)",
+    "lightness": 42
+  },
+  {
+    "name": "茶色",
+    "pinyin": "chá sè",
+    "hex": "#B35C44",
+    "rgb": "rgb(179,92,68)",
+    "hsl": "hsl(13, 45%, 48%)",
+    "cmyk": "cmyk(0%,49%,62%,30%)",
+    "lightness": 48
+  },
+  {
+    "name": "棕紅",
+    "pinyin": "zōng hóng",
+    "hex": "#9B4400",
+    "rgb": "rgb(155,68,0)",
+    "hsl": "hsl(26, 100%, 30%)",
+    "cmyk": "cmyk(0%,56%,100%,39%)",
+    "lightness": 30
+  },
+  {
+    "name": "赭",
+    "pinyin": "zhě",
+    "hex": "#9C5333",
+    "rgb": "rgb(156,83,51)",
+    "hsl": "hsl(18, 51%, 41%)",
+    "cmyk": "cmyk(0%,47%,67%,39%)",
+    "lightness": 41
+  },
+  {
+    "name": "駝色",
+    "pinyin": "tuó sè",
+    "hex": "#A88462",
+    "rgb": "rgb(168,132,98)",
+    "hsl": "hsl(29, 29%, 52%)",
+    "cmyk": "cmyk(0%,21%,42%,34%)",
+    "lightness": 52
+  },
+  {
+    "name": "秋色",
+    "pinyin": "qiū sè",
+    "hex": "#896C39",
+    "rgb": "rgb(137,108,57)",
+    "hsl": "hsl(38, 41%, 38%)",
+    "cmyk": "cmyk(0%,21%,58%,46%)",
+    "lightness": 38
+  },
+  {
+    "name": "棕綠",
+    "pinyin": "zōng lǜ",
+    "hex": "#827100",
+    "rgb": "rgb(130,113,0)",
+    "hsl": "hsl(52, 100%, 25%)",
+    "cmyk": "cmyk(0%,13%,100%,49%)",
+    "lightness": 25
+  },
+  {
+    "name": "褐色",
+    "pinyin": "hè sè",
+    "hex": "#6E511E",
+    "rgb": "rgb(110,81,30)",
+    "hsl": "hsl(38, 57%, 27%)",
+    "cmyk": "cmyk(0%,26%,73%,57%)",
+    "lightness": 27
+  },
+  {
+    "name": "棕黑",
+    "pinyin": "zōng hēi",
+    "hex": "#7C4B00",
+    "rgb": "rgb(124,75,0)",
+    "hsl": "hsl(36, 100%, 24%)",
+    "cmyk": "cmyk(0%,40%,100%,51%)",
+    "lightness": 24
+  },
+  {
+    "name": "赭色",
+    "pinyin": "zhě sè",
+    "hex": "#955539",
+    "rgb": "rgb(149,85,57)",
+    "hsl": "hsl(18, 45%, 40%)",
+    "cmyk": "cmyk(0%,43%,62%,42%)",
+    "lightness": 40
+  },
+  {
+    "name": "慄色",
+    "pinyin": "lì sè",
+    "hex": "#60281E",
+    "rgb": "rgb(96,40,30)",
+    "hsl": "hsl(9, 52%, 25%)",
+    "cmyk": "cmyk(0%,58%,69%,62%)",
+    "lightness": 25
+  },
+  {
+    "name": "蒼黃",
+    "pinyin": "cāng huáng",
+    "hex": "#A29B7C",
+    "rgb": "rgb(162,155,124)",
+    "hsl": "hsl(49, 17%, 56%)",
+    "cmyk": "cmyk(0%,4%,23%,36%)",
+    "lightness": 56
+  },
+  {
+    "name": "新禾綠",
+    "pinyin": "xīn hé lǜ",
+    "hex": "#D2B116",
+    "rgb": "rgb(210,177,22)",
+    "hsl": "hsl(49, 81%, 45%)",
+    "cmyk": "cmyk(17%,29%,100%,4%)",
+    "lightness": 45
+  },
+  {
+    "name": "淡灰綠",
+    "pinyin": "dàn huī lǜ",
+    "hex": "#AD9E5F",
+    "rgb": "rgb(173,158,85)",
+    "hsl": "hsl(48, 32%, 53%)",
+    "cmyk": "cmyk(30%,30%,70%,12%)",
+    "lightness": 53
+  },
+  {
+    "name": "草灰綠",
+    "pinyin": "cǎo huī lǜ",
+    "hex": "#8E804B",
+    "rgb": "rgb(142,128,75)",
+    "hsl": "hsl(47, 31%, 43%)",
+    "cmyk": "cmyk(38%,38%,76%,24%)",
+    "lightness": 43
+  },
+  {
+    "name": "苔綠",
+    "pinyin": "tái lǜ",
+    "hex": "#887322",
+    "rgb": "rgb(136,115,34)",
+    "hsl": "hsl(48, 60%, 33%)",
+    "cmyk": "cmyk(36%,42%,100%,29%)",
+    "lightness": 33
+  },
+  {
+    "name": "碧螺春綠",
+    "pinyin": "bì luó chūn lǜ",
+    "hex": "#867018",
+    "rgb": "rgb(134,112,24)",
+    "hsl": "hsl(48, 70%, 31%)",
+    "cmyk": "cmyk(36%,42%,100%,30%)",
+    "lightness": 31
+  },
+  {
+    "name": "潭水綠",
+    "pinyin": "tán shuǐ lǜ",
+    "hex": "#645822",
+    "rgb": "rgb(100,88,34)",
+    "hsl": "hsl(49, 49%, 26%)",
+    "cmyk": "cmyk(48%,48%,100%,45%)",
+    "lightness": 26
+  },
+  {
+    "name": "橄欖綠",
+    "pinyin": "gǎn lǎn lǜ",
+    "hex": "#5E5314",
+    "rgb": "rgb(94,83,20)",
+    "hsl": "hsl(51, 65%, 22%)",
+    "cmyk": "cmyk(50%,50%,10%,48%)",
+    "lightness": 22
+  },
+  {
+    "name": "枯綠",
+    "pinyin": "kū lǜ",
+    "hex": "#B78D12",
+    "rgb": "rgb(183,141,18)",
+    "hsl": "hsl(45, 82%, 39%)",
+    "cmyk": "cmyk(21%,43%,100%,11%)",
+    "lightness": 39
+  },
+  {
+    "name": "粽葉綠",
+    "pinyin": "zòng yè lǜ",
+    "hex": "#876818",
+    "rgb": "rgb(135,104,24)",
+    "hsl": "hsl(43, 70%, 31%)",
+    "cmyk": "cmyk(32%,50%,100%,31%)",
+    "lightness": 31
+  },
+  {
+    "name": "灰綠",
+    "pinyin": "huī lǜ",
+    "hex": "#8A6913",
+    "rgb": "rgb(138,105,19)",
+    "hsl": "hsl(43, 76%, 31%)",
+    "cmyk": "cmyk(31%,51%,100%,30%)",
+    "lightness": 31
+  },
+  {
+    "name": "暗海水綠",
+    "pinyin": "àn hǎi shuǐ lǜ",
+    "hex": "#584717",
+    "rgb": "rgb(88,71,23)",
+    "hsl": "hsl(44, 59%, 22%)",
+    "cmyk": "cmyk(45%,56%,100%,56%)",
+    "lightness": 22
+  },
+  {
+    "name": "棕櫚綠",
+    "pinyin": "zōng lǘ lǜ",
+    "hex": "#5B4913",
+    "rgb": "rgb(91,73,19)",
+    "hsl": "hsl(45, 65%, 22%)",
+    "cmyk": "cmyk(45%,55%,100%,54%)",
+    "lightness": 22
+  },
+  {
+    "name": "蜴蜊綠",
+    "pinyin": "yì lí lǜ",
+    "hex": "#835E1D",
+    "rgb": "rgb(131,94,29)",
+    "hsl": "hsl(38, 64%, 31%)",
+    "cmyk": "cmyk(31%,57%,100%,33%)",
+    "lightness": 31
+  },
+  {
+    "name": "蟹殼綠",
+    "pinyin": "xiè ké lǜ",
+    "hex": "#513C20",
+    "rgb": "rgb(81,60,32)",
+    "hsl": "hsl(34, 43%, 22%)",
+    "cmyk": "cmyk(43%,63%,88%,61%)",
+    "lightness": 22
+  },
+  {
+    "name": "古銅綠",
+    "pinyin": "gǔ tóng lǜ",
+    "hex": "#533C1B",
+    "rgb": "rgb(83,60,27)",
+    "hsl": "hsl(35, 51%, 22%)",
+    "cmyk": "cmyk(42%,64%,94%,60%)",
+    "lightness": 22
+  },
+  {
+    "name": "焦茶綠",
+    "pinyin": "jiāo chá lǜ",
+    "hex": "#553B18",
+    "rgb": "rgb(85,59,24)",
+    "hsl": "hsl(34, 56%, 21%)",
+    "cmyk": "cmyk(41%,66%,94%,60%)",
+    "lightness": 21
+  },
+  {
+    "name": "石綠",
+    "pinyin": "shí lǜ",
+    "hex": "#57C3C2",
+    "rgb": "rgb(87,195,194)",
+    "hsl": "hsl(179, 47%, 55%)",
+    "cmyk": "cmyk(78%,36%,0%,0%)",
+    "lightness": 55
+  },
+  {
+    "name": "竹篁綠",
+    "pinyin": "zhú huáng lǜ",
+    "hex": "#B9DEC9",
+    "rgb": "rgb(185,222,201)",
+    "hsl": "hsl(146, 36%, 80%)",
+    "cmyk": "cmyk(40%,0%,30%,0%)",
+    "lightness": 80
+  },
+  {
+    "name": "粉綠",
+    "pinyin": "fěn lǜ",
+    "hex": "#83CBAC",
+    "rgb": "rgb(131,203,172)",
+    "hsl": "hsl(154, 41%, 65%)",
+    "cmyk": "cmyk(64%,0%,46%,0%)",
+    "lightness": 65
+  },
+  {
+    "name": "美蝶綠",
+    "pinyin": "měi dié lǜ",
+    "hex": "#12AA9C",
+    "rgb": "rgb(18,170,156)",
+    "hsl": "hsl(174, 81%, 37%)",
+    "cmyk": "cmyk(95%,0%,52%,0%)",
+    "lightness": 37
+  },
+  {
+    "name": "毛綠",
+    "pinyin": "máo lǜ",
+    "hex": "#66C18C",
+    "rgb": "rgb(102,193,140)",
+    "hsl": "hsl(145, 42%, 58%)",
+    "cmyk": "cmyk(75%,0%,61%,0%)",
+    "lightness": 58
+  },
+  {
+    "name": "蔻梢綠",
+    "pinyin": "kòu shāo lǜ",
+    "hex": "#5DBE8A",
+    "rgb": "rgb(93,190,138)",
+    "hsl": "hsl(148, 43%, 55%)",
+    "cmyk": "cmyk(78%,0%,62%,0%)",
+    "lightness": 55
+  },
+  {
+    "name": "麥苗綠",
+    "pinyin": "mài miáo lǜ",
+    "hex": "#55BB8A",
+    "rgb": "rgb(85,187,138)",
+    "hsl": "hsl(151, 43%, 53%)",
+    "cmyk": "cmyk(81%,0%,62%,0%)",
+    "lightness": 53
+  },
+  {
+    "name": "蛙綠",
+    "pinyin": "wā lǜ",
+    "hex": "#45B787",
+    "rgb": "rgb(69,183,135)",
+    "hsl": "hsl(155, 45%, 49%)",
+    "cmyk": "cmyk(86%,0%,63%,0%)",
+    "lightness": 49
+  },
+  {
+    "name": "銅綠",
+    "pinyin": "tóng lǜ",
+    "hex": "#2BAE85",
+    "rgb": "rgb(43,174,133)",
+    "hsl": "hsl(161, 60%, 43%)",
+    "cmyk": "cmyk(92%,0%,64%,0%)",
+    "lightness": 43
+  },
+  {
+    "name": "竹綠",
+    "pinyin": "zhú lǜ",
+    "hex": "#1BA784",
+    "rgb": "rgb(27,167,132)",
+    "hsl": "hsl(165, 72%, 38%)",
+    "cmyk": "cmyk(96%,0%,64%,0%)",
+    "lightness": 38
+  },
+  {
+    "name": "藍綠",
+    "pinyin": "lán lǜ",
+    "hex": "#12A182",
+    "rgb": "rgb(18,161,130)",
+    "hsl": "hsl(167, 80%, 35%)",
+    "cmyk": "cmyk(98%,2%,64%,0%)",
+    "lightness": 35
+  },
+  {
+    "name": "玉簪綠",
+    "pinyin": "yù zān lǜ",
+    "hex": "#A4CAB6",
+    "rgb": "rgb(164,202,182)",
+    "hsl": "hsl(148, 26%, 72%)",
+    "cmyk": "cmyk(49%,5%,37%,0%)",
+    "lightness": 72
+  },
+  {
+    "name": "青礬綠",
+    "pinyin": "qīng fán lǜ",
+    "hex": "#2C9678",
+    "rgb": "rgb(44,150,120)",
+    "hsl": "hsl(163, 55%, 38%)",
+    "cmyk": "cmyk(96%,12%,66%,2%)",
+    "lightness": 38
+  },
+  {
+    "name": "草原遠綠",
+    "pinyin": "cǎo yuán yuǎn lǜ",
+    "hex": "#9ABEAF",
+    "rgb": "rgb(154,190,175)",
+    "hsl": "hsl(155, 22%, 67%)",
+    "cmyk": "cmyk(52%,11%,37%,0%)",
+    "lightness": 67
+  },
+  {
+    "name": "梧枝綠",
+    "pinyin": "wú zhī lǜ",
+    "hex": "#69A794",
+    "rgb": "rgb(105,167,148)",
+    "hsl": "hsl(162, 26%, 53%)",
+    "cmyk": "cmyk(74%,14%,51%,1%)",
+    "lightness": 53
+  },
+  {
+    "name": "浪花綠",
+    "pinyin": "làng huā lǜ",
+    "hex": "#92B3A5",
+    "rgb": "rgb(146,179,165)",
+    "hsl": "hsl(155, 18%, 64%)",
+    "cmyk": "cmyk(55%,16%,40%,1%)",
+    "lightness": 64
+  },
+  {
+    "name": "海王綠",
+    "pinyin": "hǎi wáng lǜ",
+    "hex": "#248067",
+    "rgb": "rgb(36,128,103)",
+    "hsl": "hsl(164, 56%, 32%)",
+    "cmyk": "cmyk(99%,23%,70%,10%)",
+    "lightness": 32
+  },
+  {
+    "name": "亞丁綠",
+    "pinyin": "yà dīng lǜ",
+    "hex": "#428675",
+    "rgb": "rgb(66,134,117)",
+    "hsl": "hsl(165, 34%, 39%)",
+    "cmyk": "cmyk(88%,24%,61%,9%)",
+    "lightness": 39
+  },
+  {
+    "name": "飛泉綠",
+    "pinyin": "fēi quán lǜ",
+    "hex": "#497568",
+    "rgb": "rgb(73,117,104)",
+    "hsl": "hsl(162, 23%, 37%)",
+    "cmyk": "cmyk(82%,32%,60%,20%)",
+    "lightness": 37
+  },
+  {
+    "name": "蒼綠",
+    "pinyin": "cāng lǜ",
+    "hex": "#223E36",
+    "rgb": "rgb(34,62,54)",
+    "hsl": "hsl(163, 29%, 19%)",
+    "cmyk": "cmyk(93%,46%,70%,61%)",
+    "lightness": 19
+  },
+  {
+    "name": "深海綠",
+    "pinyin": "shēn hǎi lǜ",
+    "hex": "#1A3B32",
+    "rgb": "rgb(26,59,50)",
+    "hsl": "hsl(164, 39%, 17%)",
+    "cmyk": "cmyk(98%,46%,73%,63%)",
+    "lightness": 17
+  },
+  {
+    "name": "苷藍綠",
+    "pinyin": "gān lán lǜ",
+    "hex": "#1F2623",
+    "rgb": "rgb(31,38,35)",
+    "hsl": "hsl(154, 10%, 14%)",
+    "cmyk": "cmyk(82%,60%,65%,80%)",
+    "lightness": 14
+  },
+  {
+    "name": "莽叢綠",
+    "pinyin": "mǎng cóng lǜ",
+    "hex": "#141E1B",
+    "rgb": "rgb(20,30,27)",
+    "hsl": "hsl(162, 20%, 10%)",
+    "cmyk": "cmyk(90%,62%,67%,86%)",
+    "lightness": 10
+  },
+  {
+    "name": "明綠",
+    "pinyin": "míng lǜ",
+    "hex": "#9ECCAB",
+    "rgb": "rgb(158,204,171)",
+    "hsl": "hsl(137, 31%, 71%)",
+    "cmyk": "cmyk(53%,1%,44%,0%)",
+    "lightness": 71
+  },
+  {
+    "name": "田園綠",
+    "pinyin": "tián yuán lǜ",
+    "hex": "#68B88E",
+    "rgb": "rgb(104,184,142)",
+    "hsl": "hsl(149, 36%, 56%)",
+    "cmyk": "cmyk(75%,0%,59%,0%)",
+    "lightness": 56
+  },
+  {
+    "name": "翠綠",
+    "pinyin": "cuì lǜ",
+    "hex": "#20A162",
+    "rgb": "rgb(32,161,98)",
+    "hsl": "hsl(151, 67%, 38%)",
+    "cmyk": "cmyk(98%,0%,82%,0%)",
+    "lightness": 38
+  },
+  {
+    "name": "淡綠",
+    "pinyin": "dàn lǜ",
+    "hex": "#61AC85",
+    "rgb": "rgb(97,172,133)",
+    "hsl": "hsl(149, 31%, 53%)",
+    "cmyk": "cmyk(78%,6%,62%,0%)",
+    "lightness": 53
+  },
+  {
+    "name": "蔥綠",
+    "pinyin": "cōng lǜ",
+    "hex": "#40A070",
+    "rgb": "rgb(64,160,112)",
+    "hsl": "hsl(150, 43%, 44%)",
+    "cmyk": "cmyk(90%,7%,73%,0%)",
+    "lightness": 44
+  },
+  {
+    "name": "孔雀綠",
+    "pinyin": "kǒng què lǜ",
+    "hex": "#229453",
+    "rgb": "rgb(34,148,83)",
+    "hsl": "hsl(146, 63%, 36%)",
+    "cmyk": "cmyk(99%,10%,91%,2%)",
+    "lightness": 36
+  },
+  {
+    "name": "蟾綠",
+    "pinyin": "chán lǜ",
+    "hex": "#3C9566",
+    "rgb": "rgb(60,149,102)",
+    "hsl": "hsl(148, 43%, 41%)",
+    "cmyk": "cmyk(92%,14%,76%,2%)",
+    "lightness": 41
+  },
+  {
+    "name": "宮殿綠",
+    "pinyin": "gōng diàn lǜ",
+    "hex": "#20894D",
+    "rgb": "rgb(32,137,77)",
+    "hsl": "hsl(146, 62%, 33%)",
+    "cmyk": "cmyk(100%,17%,92%,5%)",
+    "lightness": 33
+  },
+  {
+    "name": "松霜綠",
+    "pinyin": "sōng shuāng lǜ",
+    "hex": "#83A78D",
+    "rgb": "rgb(131,167,141)",
+    "hsl": "hsl(137, 17%, 58%)",
+    "cmyk": "cmyk(61%,19%,52%,3%)",
+    "lightness": 58
+  },
+  {
+    "name": "蛋白石綠",
+    "pinyin": "dàn bái shí lǜ",
+    "hex": "#579572",
+    "rgb": "rgb(87,149,114)",
+    "hsl": "hsl(146, 26%, 46%)",
+    "cmyk": "cmyk(81%,19%,67%,4%)",
+    "lightness": 46
+  },
+  {
+    "name": "薄荷綠",
+    "pinyin": "bò he lǜ",
+    "hex": "#207F4C",
+    "rgb": "rgb(32,127,76)",
+    "hsl": "hsl(148, 60%, 31%)",
+    "cmyk": "cmyk(100%,22%,90%,10%)",
+    "lightness": 31
+  },
+  {
+    "name": "瓦松綠",
+    "pinyin": "wǎ sōng lǜ",
+    "hex": "#6E8B74",
+    "rgb": "rgb(110,139,116)",
+    "hsl": "hsl(132, 12%, 49%)",
+    "cmyk": "cmyk(66%,29%,58%,12%)",
+    "lightness": 49
+  },
+  {
+    "name": "荷葉綠",
+    "pinyin": "hé yè lǜ",
+    "hex": "#1A6840",
+    "rgb": "rgb(26,104,64)",
+    "hsl": "hsl(149, 60%, 25%)",
+    "cmyk": "cmyk(100%,31%,91%,25%)",
+    "lightness": 25
+  },
+  {
+    "name": "田螺綠",
+    "pinyin": "tián luó lǜ",
+    "hex": "#5E665B",
+    "rgb": "rgb(94,102,91)",
+    "hsl": "hsl(104, 6%, 38%)",
+    "cmyk": "cmyk(62%,42%,56%,34%)",
+    "lightness": 38
+  },
+  {
+    "name": "白屈菜綠",
+    "pinyin": "bái qū cài lǜ",
+    "hex": "#485B4D",
+    "rgb": "rgb(72,91,77)",
+    "hsl": "hsl(136, 12%, 32%)",
+    "cmyk": "cmyk(74%,42%,65%,40%)",
+    "lightness": 32
+  },
+  {
+    "name": "蒽油綠",
+    "pinyin": "ēn yóu lǜ",
+    "hex": "#373834",
+    "rgb": "rgb(55,56,52)",
+    "hsl": "hsl(75, 4%, 21%)",
+    "cmyk": "cmyk(68%,56%,60%,66%)",
+    "lightness": 21
+  },
+  {
+    "name": "槲寄生綠",
+    "pinyin": "hú jì shēng lǜ",
+    "hex": "#2B312C",
+    "rgb": "rgb(43,49,44)",
+    "hsl": "hsl(130, 7%, 18%)",
+    "cmyk": "cmyk(76%,56%,75%,72%)",
+    "lightness": 18
+  },
+  {
+    "name": "雲杉綠",
+    "pinyin": "yún shān lǜ",
+    "hex": "#15231B",
+    "rgb": "rgb(21,35,27)",
+    "hsl": "hsl(146, 25%, 11%)",
+    "cmyk": "cmyk(91%,60%,76%,83%)",
+    "lightness": 11
+  },
+  {
+    "name": "艾背綠",
+    "pinyin": "ài bèi lǜ",
+    "hex": "#DFECD5",
+    "rgb": "rgb(223,236,213)",
+    "hsl": "hsl(94, 38%, 88%)",
+    "cmyk": "cmyk(20%,1%,23%,0%)",
+    "lightness": 88
+  },
+  {
+    "name": "嘉陵水綠",
+    "pinyin": "jiā líng shuǐ lǜ",
+    "hex": "#ADD5A2",
+    "rgb": "rgb(173,213,162)",
+    "hsl": "hsl(107, 38%, 74%)",
+    "cmyk": "cmyk(47%,0%,49%,0%)",
+    "lightness": 74
+  },
+  {
+    "name": "玉髓綠",
+    "pinyin": "yù suǐ lǜ",
+    "hex": "#41B349",
+    "rgb": "rgb(65,179,73)",
+    "hsl": "hsl(124, 47%, 48%)",
+    "cmyk": "cmyk(89%,0%,96%,0%)",
+    "lightness": 48
+  },
+  {
+    "name": "鮮綠",
+    "pinyin": "xiān lǜ",
+    "hex": "#43B244",
+    "rgb": "rgb(67,178,68)",
+    "hsl": "hsl(121, 45%, 48%)",
+    "cmyk": "cmyk(88%,0%,99%,0%)",
+    "lightness": 48
+  },
+  {
+    "name": "寶石綠",
+    "pinyin": "bǎo shí lǜ",
+    "hex": "#41AE3C",
+    "rgb": "rgb(65,174,60)",
+    "hsl": "hsl(117, 49%, 46%)",
+    "cmyk": "cmyk(90%,0%,100%,0%)",
+    "lightness": 46
+  },
+  {
+    "name": "橄欖石綠",
+    "pinyin": "gǎn lǎn shí lǜ",
+    "hex": "#B2CF87",
+    "rgb": "rgb(178,207,135)",
+    "hsl": "hsl(84, 43%, 67%)",
+    "cmyk": "cmyk(44%,3%,61%,0%)",
+    "lightness": 67
+  },
+  {
+    "name": "水綠",
+    "pinyin": "shuǐ lǜ",
+    "hex": "#8CC269",
+    "rgb": "rgb(140,194,105)",
+    "hsl": "hsl(96, 42%, 59%)",
+    "cmyk": "cmyk(62%,0%,76%,0%)",
+    "lightness": 59
+  },
+  {
+    "name": "蘆葦綠",
+    "pinyin": "lú wěi lǜ",
+    "hex": "#B7D07A",
+    "rgb": "rgb(183,208,122)",
+    "hsl": "hsl(77, 48%, 65%)",
+    "cmyk": "cmyk(42%,3%,67%,0%)",
+    "lightness": 65
+  },
+  {
+    "name": "槐花黃綠",
+    "pinyin": "huái huā huáng lǜ",
+    "hex": "#D2D97A",
+    "rgb": "rgb(210,217,122)",
+    "hsl": "hsl(64, 56%, 66%)",
+    "cmyk": "cmyk(28%,6%,66%,0%)",
+    "lightness": 66
+  },
+  {
+    "name": "蘋果綠",
+    "pinyin": "píng guǒ lǜ",
+    "hex": "#BACF65",
+    "rgb": "rgb(186,207,101)",
+    "hsl": "hsl(72, 52%, 60%)",
+    "cmyk": "cmyk(41%,4%,76%,0%)",
+    "lightness": 60
+  },
+  {
+    "name": "芽綠",
+    "pinyin": "yá lǜ",
+    "hex": "#96C24E",
+    "rgb": "rgb(150,194,78)",
+    "hsl": "hsl(83, 49%, 53%)",
+    "cmyk": "cmyk(58%,1%,88%,0%)",
+    "lightness": 53
+  },
+  {
+    "name": "橄欖黃綠",
+    "pinyin": "gǎn lǎn huáng lǜ",
+    "hex": "#BEC936",
+    "rgb": "rgb(190,201,54)",
+    "hsl": "hsl(64, 58%, 50%)",
+    "cmyk": "cmyk(38%,8%,94%,1%)",
+    "lightness": 50
+  },
+  {
+    "name": "鸚鵡綠",
+    "pinyin": "yīng wǔ lǜ",
+    "hex": "#5BAE23",
+    "rgb": "rgb(91,174,35)",
+    "hsl": "hsl(96, 67%, 41%)",
+    "cmyk": "cmyk(81%,0%,100%,0%)",
+    "lightness": 41
+  },
+  {
+    "name": "油綠",
+    "pinyin": "yóu lǜ",
+    "hex": "#253D24",
+    "rgb": "rgb(37,61,36)",
+    "hsl": "hsl(118, 26%, 19%)",
+    "cmyk": "cmyk(84%,64%,94%,45%)",
+    "lightness": 19
+  },
+  {
+    "name": "牙緑",
+    "pinyin": "yá lv̀",
+    "hex": "#D9E396",
+    "rgb": "rgb(217,227,150)",
+    "hsl": "hsl(68, 58%, 74%)",
+    "cmyk": "cmyk(4%,0%,34%,11%)",
+    "lightness": 74
+  },
+  {
+    "name": "苦瓜緑",
+    "pinyin": "kǔ guā lv̀",
+    "hex": "#CDDB8F",
+    "rgb": "rgb(205,219,143)",
+    "hsl": "hsl(71, 51%, 71%)",
+    "cmyk": "cmyk(6%,0%,35%,14%)",
+    "lightness": 71
+  },
+  {
+    "name": "枯緑",
+    "pinyin": "kū lv̀",
+    "hex": "#B7B278",
+    "rgb": "rgb(183,178,120)",
+    "hsl": "hsl(55, 30%, 59%)",
+    "cmyk": "cmyk(0%,3%,34%,28%)",
+    "lightness": 59
+  },
+  {
+    "name": "嫩草緑",
+    "pinyin": "nèn cǎo lv̀",
+    "hex": "#7EA174",
+    "rgb": "rgb(126,161,116)",
+    "hsl": "hsl(107, 19%, 54%)",
+    "cmyk": "cmyk(22%,0%,28%,37%)",
+    "lightness": 54
+  },
+  {
+    "name": "浅草緑",
+    "pinyin": "qiǎn cǎo lv̀",
+    "hex": "#ABCC89",
+    "rgb": "rgb(171,204,137)",
+    "hsl": "hsl(90, 40%, 67%)",
+    "cmyk": "cmyk(16%,0%,33%,20%)",
+    "lightness": 67
+  },
+  {
+    "name": "銅緑色",
+    "pinyin": "tóng lv̀ sè",
+    "hex": "#A5B795",
+    "rgb": "rgb(165,183,149)",
+    "hsl": "hsl(92, 19%, 65%)",
+    "cmyk": "cmyk(10%,0%,19%,28%)",
+    "lightness": 65
+  },
+  {
+    "name": "黄緑",
+    "pinyin": "huáng lv̀",
+    "hex": "#94A657",
+    "rgb": "rgb(148,166,87)",
+    "hsl": "hsl(74, 31%, 50%)",
+    "cmyk": "cmyk(11%,0%,48%,35%)",
+    "lightness": 50
+  },
+  {
+    "name": "深芽緑",
+    "pinyin": "shēn yá lv̀",
+    "hex": "#8C9636",
+    "rgb": "rgb(140,150,54)",
+    "hsl": "hsl(66, 47%, 40%)",
+    "cmyk": "cmyk(7%,0%,64%,41%)",
+    "lightness": 40
+  },
+  {
+    "name": "葱緑",
+    "pinyin": "cōng lv̀",
+    "hex": "#94C66B",
+    "rgb": "rgb(148,198,107)",
+    "hsl": "hsl(93, 44%, 60%)",
+    "cmyk": "cmyk(25%,0%,46%,22%)",
+    "lightness": 60
+  },
+  {
+    "name": "夜緑色",
+    "pinyin": "yè lv̀ sè",
+    "hex": "#5A715F",
+    "rgb": "rgb(90,113,95)",
+    "hsl": "hsl(133, 11%, 40%)",
+    "cmyk": "cmyk(20%,0%,16%,56%)",
+    "lightness": 40
+  },
+  {
+    "name": "軍緑",
+    "pinyin": "jūn lv̀",
+    "hex": "#CAD4BA",
+    "rgb": "rgb(202,212,186)",
+    "hsl": "hsl(83, 23%, 78%)",
+    "cmyk": "cmyk(5%,0%,12%,17%)",
+    "lightness": 78
+  },
+  {
+    "name": "蒼緑",
+    "pinyin": "cāng lv̀",
+    "hex": "#4E5F45",
+    "rgb": "rgb(78,95,69)",
+    "hsl": "hsl(99, 16%, 32%)",
+    "cmyk": "cmyk(18%,0%,27%,63%)",
+    "lightness": 32
+  },
+  {
+    "name": "橄欖緑",
+    "pinyin": "gǎn lǎn lv̀",
+    "hex": "#6A6834",
+    "rgb": "rgb(106,104,52)",
+    "hsl": "hsl(58, 34%, 31%)",
+    "cmyk": "cmyk(0%,2%,51%,58%)",
+    "lightness": 31
+  },
+  {
+    "name": "冬瓜緑",
+    "pinyin": "dōng guā lv̀",
+    "hex": "#519670",
+    "rgb": "rgb(81,150,112)",
+    "hsl": "hsl(147, 30%, 45%)",
+    "cmyk": "cmyk(46%,0%,25%,41%)",
+    "lightness": 45
+  },
+  {
+    "name": "荷茎緑",
+    "pinyin": "hé jīng lv̀",
+    "hex": "#96BB8F",
+    "rgb": "rgb(150,187,143)",
+    "hsl": "hsl(110, 24%, 65%)",
+    "cmyk": "cmyk(20%,0%,24%,27%)",
+    "lightness": 65
+  },
+  {
+    "name": "緑琉璃色",
+    "pinyin": "lv̀ líu lí sè",
+    "hex": "#4F7E57",
+    "rgb": "rgb(79,126,87)",
+    "hsl": "hsl(130, 23%, 40%)",
+    "cmyk": "cmyk(37%,0%,31%,51%)",
+    "lightness": 40
+  },
+  {
+    "name": "嫩葱緑",
+    "pinyin": "nèn cōng lv̀",
+    "hex": "#93B469",
+    "rgb": "rgb(147,180,105)",
+    "hsl": "hsl(86, 33%, 56%)",
+    "cmyk": "cmyk(18%,0%,42%,29%)",
+    "lightness": 56
+  },
+  {
+    "name": "鸚鵡緑",
+    "pinyin": "yīng wǔ lv̀",
+    "hex": "#008E59",
+    "rgb": "rgb(0,142,89)",
+    "hsl": "hsl(158, 100%, 28%)",
+    "cmyk": "cmyk(100%,0%,37%,44%)",
+    "lightness": 28
+  },
+  {
+    "name": "翠緑",
+    "pinyin": "cùi lv̀",
+    "hex": "#006E5F",
+    "rgb": "rgb(0,110,95)",
+    "hsl": "hsl(172, 100%, 22%)",
+    "cmyk": "cmyk(100%,0%,14%,57%)",
+    "lightness": 22
+  },
+  {
+    "name": "湖緑",
+    "pinyin": "hú lv̀",
+    "hex": "#46817E",
+    "rgb": "rgb(70,129,126)",
+    "hsl": "hsl(177, 30%, 39%)",
+    "cmyk": "cmyk(46%,0%,2%,49%)",
+    "lightness": 39
+  },
+  {
+    "name": "粗孔雀緑",
+    "pinyin": "cū kǒng què lv̀",
+    "hex": "#168570",
+    "rgb": "rgb(22,133,112)",
+    "hsl": "hsl(169, 72%, 30%)",
+    "cmyk": "cmyk(83%,0%,16%,48%)",
+    "lightness": 30
+  },
+  {
+    "name": "深緑宝石",
+    "pinyin": "shēn lv̀ bǎo shí",
+    "hex": "#2F8F6D",
+    "rgb": "rgb(47,143,109)",
+    "hsl": "hsl(159, 51%, 37%)",
+    "cmyk": "cmyk(67%,0%,24%,44%)",
+    "lightness": 37
+  },
+  {
+    "name": "灰緑",
+    "pinyin": "hūi lv̀",
+    "hex": "#5C8987",
+    "rgb": "rgb(92,137,135)",
+    "hsl": "hsl(177, 20%, 45%)",
+    "cmyk": "cmyk(33%,0%,1%,46%)",
+    "lightness": 45
+  },
+  {
+    "name": "冬緑",
+    "pinyin": "dōng lv̀",
+    "hex": "#68927D",
+    "rgb": "rgb(104,146,125)",
+    "hsl": "hsl(150, 17%, 49%)",
+    "cmyk": "cmyk(29%,0%,14%,43%)",
+    "lightness": 49
+  },
+  {
+    "name": "巴黎緑",
+    "pinyin": "bā lí lv̀",
+    "hex": "#00B483",
+    "rgb": "rgb(0,180,131)",
+    "hsl": "hsl(164, 100%, 35%)",
+    "cmyk": "cmyk(100%,0%,27%,29%)",
+    "lightness": 35
+  },
+  {
+    "name": "果緑",
+    "pinyin": "guǒ lv̀",
+    "hex": "#8AC28E",
+    "rgb": "rgb(138,194,142)",
+    "hsl": "hsl(124, 31%, 65%)",
+    "cmyk": "cmyk(29%,0%,27%,24%)",
+    "lightness": 65
+  },
+  {
+    "name": "玉緑",
+    "pinyin": "yù lv̀",
+    "hex": "#88D5B9",
+    "rgb": "rgb(136,213,185)",
+    "hsl": "hsl(158, 48%, 68%)",
+    "cmyk": "cmyk(36%,0%,13%,16%)",
+    "lightness": 68
+  },
+  {
+    "name": "浅松緑",
+    "pinyin": "qiǎn sōng lv̀",
+    "hex": "#84C0BE",
+    "rgb": "rgb(132,192,190)",
+    "hsl": "hsl(178, 32%, 64%)",
+    "cmyk": "cmyk(31%,0%,1%,25%)",
+    "lightness": 64
+  },
+  {
+    "name": "深松緑",
+    "pinyin": "shēn sōng lv̀",
+    "hex": "#67B4B0",
+    "rgb": "rgb(103,180,176)",
+    "hsl": "hsl(177, 34%, 55%)",
+    "cmyk": "cmyk(43%,0%,2%,29%)",
+    "lightness": 55
+  },
+  {
+    "name": "浅鮮緑",
+    "pinyin": "qiǎn xiān lv̀",
+    "hex": "#A9E1D3",
+    "rgb": "rgb(169,225,211)",
+    "hsl": "hsl(165, 48%, 77%)",
+    "cmyk": "cmyk(25%,0%,6%,12%)",
+    "lightness": 77
+  },
+  {
+    "name": "三緑",
+    "pinyin": "sān lv̀",
+    "hex": "#90CAAF",
+    "rgb": "rgb(144,202,175)",
+    "hsl": "hsl(152, 35%, 68%)",
+    "cmyk": "cmyk(29%,0%,13%,21%)",
+    "lightness": 68
+  },
+  {
+    "name": "枝緑",
+    "pinyin": "zhī lv̀",
+    "hex": "#BADED1",
+    "rgb": "rgb(186,222,209)",
+    "hsl": "hsl(158, 35%, 80%)",
+    "cmyk": "cmyk(16%,0%,6%,13%)",
+    "lightness": 80
+  },
+  {
+    "name": "淡灰緑",
+    "pinyin": "dàn hūi lv̀",
+    "hex": "#AEC4B7",
+    "rgb": "rgb(174,196,183)",
+    "hsl": "hsl(145, 16%, 73%)",
+    "cmyk": "cmyk(11%,0%,7%,23%)",
+    "lightness": 73
+  },
+  {
+    "name": "淡緑",
+    "pinyin": "dàn lv̀",
+    "hex": "#B8D6C2",
+    "rgb": "rgb(184,214,194)",
+    "hsl": "hsl(140, 27%, 78%)",
+    "cmyk": "cmyk(14%,0%,9%,16%)",
+    "lightness": 78
+  },
+  {
+    "name": "浅水緑",
+    "pinyin": "qiǎn shǔi lv̀",
+    "hex": "#BBE2D6",
+    "rgb": "rgb(187,226,214)",
+    "hsl": "hsl(162, 40%, 81%)",
+    "cmyk": "cmyk(17%,0%,5%,11%)",
+    "lightness": 81
+  },
+  {
+    "name": "春緑",
+    "pinyin": "chūn lv̀",
+    "hex": "#E3EFD1",
+    "rgb": "rgb(227,239,209)",
+    "hsl": "hsl(84, 48%, 88%)",
+    "cmyk": "cmyk(5%,0%,13%,6%)",
+    "lightness": 88
+  },
+  {
+    "name": "銹緑",
+    "pinyin": "xìu lv̀",
+    "hex": "#B8C8B7",
+    "rgb": "rgb(184,200,183)",
+    "hsl": "hsl(116, 13%, 75%)",
+    "cmyk": "cmyk(8%,0%,8%,22%)",
+    "lightness": 75
+  },
+  {
+    "name": "中条蝦緑",
+    "pinyin": "zhōng tiáo xiā lv̀",
+    "hex": "#7F877A",
+    "rgb": "rgb(127,135,122)",
+    "hsl": "hsl(97, 5%, 50%)",
+    "cmyk": "cmyk(6%,0%,10%,47%)",
+    "lightness": 50
+  },
+  {
+    "name": "松緑色",
+    "pinyin": "sōng lv̀ sè",
+    "hex": "#BEC5B5",
+    "rgb": "rgb(190,197,181)",
+    "hsl": "hsl(86, 12%, 74%)",
+    "cmyk": "cmyk(4%,0%,8%,23%)",
+    "lightness": 74
+  },
+  {
+    "name": "卡其緑",
+    "pinyin": "qiǎ qí lv̀",
+    "hex": "#647370",
+    "rgb": "rgb(100,115,112)",
+    "hsl": "hsl(168, 7%, 42%)",
+    "cmyk": "cmyk(13%,0%,3%,55%)",
+    "lightness": 42
+  },
+  {
+    "name": "老緑",
+    "pinyin": "lǎo lv̀",
+    "hex": "#3D6E53",
+    "rgb": "rgb(61,110,83)",
+    "hsl": "hsl(147, 29%, 34%)",
+    "cmyk": "cmyk(45%,0%,25%,57%)",
+    "lightness": 34
+  },
+  {
+    "name": "墨緑",
+    "pinyin": "mò lv̀",
+    "hex": "#3F5B50",
+    "rgb": "rgb(63,91,80)",
+    "hsl": "hsl(156, 18%, 30%)",
+    "cmyk": "cmyk(31%,0%,12%,64%)",
+    "lightness": 30
+  },
+  {
+    "name": "茶緑",
+    "pinyin": "chá lv̀",
+    "hex": "#5C614F",
+    "rgb": "rgb(92,97,79)",
+    "hsl": "hsl(77, 10%, 35%)",
+    "cmyk": "cmyk(5%,0%,19%,62%)",
+    "lightness": 35
+  },
+  {
+    "name": "鉄緑",
+    "pinyin": "tiě lv̀",
+    "hex": "#5E6042",
+    "rgb": "rgb(94,96,66)",
+    "hsl": "hsl(64, 19%, 32%)",
+    "cmyk": "cmyk(2%,0%,31%,62%)",
+    "lightness": 32
+  },
+  {
+    "name": "油緑",
+    "pinyin": "yóu lv̀",
+    "hex": "#45554A",
+    "rgb": "rgb(69,85,74)",
+    "hsl": "hsl(139, 10%, 30%)",
+    "cmyk": "cmyk(19%,0%,13%,67%)",
+    "lightness": 30
+  },
+  {
+    "name": "暗苔緑",
+    "pinyin": "àn tái lv̀",
+    "hex": "#4A6F5D",
+    "rgb": "rgb(74,111,93)",
+    "hsl": "hsl(151, 20%, 36%)",
+    "cmyk": "cmyk(33%,0%,16%,56%)",
+    "lightness": 36
+  },
+  {
+    "name": "毛緑",
+    "pinyin": "máo lv̀",
+    "hex": "#155461",
+    "rgb": "rgb(21,84,97)",
+    "hsl": "hsl(190, 64%, 23%)",
+    "cmyk": "cmyk(78%,13%,0%,62%)",
+    "lightness": 23
+  },
+  {
+    "name": "品緑",
+    "pinyin": "pǐn lv̀",
+    "hex": "#00828B",
+    "rgb": "rgb(0,130,139)",
+    "hsl": "hsl(184, 100%, 27%)",
+    "cmyk": "cmyk(100%,6%,0%,45%)",
+    "lightness": 27
+  },
+  {
+    "name": "沙緑",
+    "pinyin": "shā lv̀",
+    "hex": "#005B5A",
+    "rgb": "rgb(0,91,90)",
+    "hsl": "hsl(179, 100%, 18%)",
+    "cmyk": "cmyk(100%,0%,1%,64%)",
+    "lightness": 18
+  },
+  {
+    "name": "奶緑",
+    "pinyin": "nǎi lv̀",
+    "hex": "#AFC8BA",
+    "rgb": "rgb(175,200,186)",
+    "hsl": "hsl(146, 19%, 74%)",
+    "cmyk": "cmyk(12%,0%,7%,22%)",
+    "lightness": 74
+  },
+  {
+    "name": "鴨卵青",
+    "pinyin": "yā luǎn qīng",
+    "hex": "#E0EEE8",
+    "rgb": "rgb(224,238,232)",
+    "hsl": "hsl(154, 29%, 91%)",
+    "cmyk": "cmyk(6%,0%,3%,7%)",
+    "lightness": 91
+  },
+  {
+    "name": "青白",
+    "pinyin": "qīng bái",
+    "hex": "#C0EBD7",
+    "rgb": "rgb(192,235,215)",
+    "hsl": "hsl(152, 52%, 84%)",
+    "cmyk": "cmyk(18%,0%,9%,8%)",
+    "lightness": 84
+  },
+  {
+    "name": "蟹殼青",
+    "pinyin": "xiè ké qīng",
+    "hex": "#BBCDC5",
+    "rgb": "rgb(187,205,197)",
+    "hsl": "hsl(153, 15%, 77%)",
+    "cmyk": "cmyk(9%,0%,4%,20%)",
+    "lightness": 77
+  },
+  {
+    "name": "松花色",
+    "pinyin": "sōng huā sè",
+    "hex": "#BCE672",
+    "rgb": "rgb(188,230,114)",
+    "hsl": "hsl(82, 70%, 67%)",
+    "cmyk": "cmyk(18%,0%,50%,10%)",
+    "lightness": 67
+  },
+  {
+    "name": "柳黃",
+    "pinyin": "liǔ huáng",
+    "hex": "#C9DD22",
+    "rgb": "rgb(201,221,34)",
+    "hsl": "hsl(66, 73%, 50%)",
+    "cmyk": "cmyk(9%,0%,85%,13%)",
+    "lightness": 50
+  },
+  {
+    "name": "嫩綠",
+    "pinyin": "nèn lǜ",
+    "hex": "#BDDD22",
+    "rgb": "rgb(189,221,34)",
+    "hsl": "hsl(70, 73%, 50%)",
+    "cmyk": "cmyk(14%,0%,85%,13%)",
+    "lightness": 50
+  },
+  {
+    "name": "柳綠",
+    "pinyin": "liǔ lǜ",
+    "hex": "#AFDD22",
+    "rgb": "rgb(175,221,34)",
+    "hsl": "hsl(75, 73%, 50%)",
+    "cmyk": "cmyk(21%,0%,85%,13%)",
+    "lightness": 50
+  },
+  {
+    "name": "蔥黃",
+    "pinyin": "cōng huáng",
+    "hex": "#A3D900",
+    "rgb": "rgb(163,217,0)",
+    "hsl": "hsl(75, 100%, 43%)",
+    "cmyk": "cmyk(25%,0%,100%,15%)",
+    "lightness": 43
+  },
+  {
+    "name": "蔥綠",
+    "pinyin": "cōng lǜ",
+    "hex": "#9ED900",
+    "rgb": "rgb(158,217,0)",
+    "hsl": "hsl(76, 100%, 43%)",
+    "cmyk": "cmyk(27%,0%,100%,15%)",
+    "lightness": 43
+  },
+  {
+    "name": "豆綠",
+    "pinyin": "dòu lǜ",
+    "hex": "#9ED048",
+    "rgb": "rgb(158,208,72)",
+    "hsl": "hsl(82, 59%, 55%)",
+    "cmyk": "cmyk(24%,0%,65%,18%)",
+    "lightness": 55
+  },
+  {
+    "name": "豆青",
+    "pinyin": "dòu qīng",
+    "hex": "#96CE54",
+    "rgb": "rgb(150,206,84)",
+    "hsl": "hsl(88, 55%, 57%)",
+    "cmyk": "cmyk(27%,0%,59%,19%)",
+    "lightness": 57
+  },
+  {
+    "name": "油綠",
+    "pinyin": "yóu lǜ",
+    "hex": "#00BC12",
+    "rgb": "rgb(0,188,18)",
+    "hsl": "hsl(126, 100%, 37%)",
+    "cmyk": "cmyk(100%,0%,90%,26%)",
+    "lightness": 37
+  },
+  {
+    "name": "蔥青",
+    "pinyin": "cōng qīng",
+    "hex": "#0EB83A",
+    "rgb": "rgb(14,184,58)",
+    "hsl": "hsl(136, 86%, 39%)",
+    "cmyk": "cmyk(92%,0%,68%,28%)",
+    "lightness": 39
+  },
+  {
+    "name": "青蔥",
+    "pinyin": "qīng cōng",
+    "hex": "#0AA344",
+    "rgb": "rgb(10,163,68)",
+    "hsl": "hsl(143, 88%, 34%)",
+    "cmyk": "cmyk(94%,0%,58%,36%)",
+    "lightness": 34
+  },
+  {
+    "name": "石綠",
+    "pinyin": "shí lǜ",
+    "hex": "#16A951",
+    "rgb": "rgb(22,169,81)",
+    "hsl": "hsl(144, 77%, 37%)",
+    "cmyk": "cmyk(87%,0%,52%,34%)",
+    "lightness": 37
+  },
+  {
+    "name": "松柏綠",
+    "pinyin": "sōng bǎi lǜ",
+    "hex": "#21A675",
+    "rgb": "rgb(33,166,117)",
+    "hsl": "hsl(158, 67%, 39%)",
+    "cmyk": "cmyk(80%,0%,30%,35%)",
+    "lightness": 39
+  },
+  {
+    "name": "松花綠",
+    "pinyin": "sōng huā lǜ",
+    "hex": "#057748",
+    "rgb": "rgb(5,119,72)",
+    "hsl": "hsl(155, 92%, 24%)",
+    "cmyk": "cmyk(96%,0%,39%,53%)",
+    "lightness": 24
+  },
+  {
+    "name": "綠沈",
+    "pinyin": "lǜ shěn",
+    "hex": "#0C8918",
+    "rgb": "rgb(12,137,24)",
+    "hsl": "hsl(126, 84%, 29%)",
+    "cmyk": "cmyk(91%,0%,82%,46%)",
+    "lightness": 29
+  },
+  {
+    "name": "綠色",
+    "pinyin": "lǜ sè",
+    "hex": "#00E500",
+    "rgb": "rgb(0,229,0)",
+    "hsl": "hsl(120, 100%, 45%)",
+    "cmyk": "cmyk(100%,0%,100%,10%)",
+    "lightness": 45
+  },
+  {
+    "name": "草綠",
+    "pinyin": "cǎo lǜ",
+    "hex": "#40DE5A",
+    "rgb": "rgb(64,222,90)",
+    "hsl": "hsl(130, 71%, 56%)",
+    "cmyk": "cmyk(71%,0%,59%,13%)",
+    "lightness": 56
+  },
+  {
+    "name": "青翠",
+    "pinyin": "qīng cuì",
+    "hex": "#00E079",
+    "rgb": "rgb(0,224,121)",
+    "hsl": "hsl(152, 100%, 44%)",
+    "cmyk": "cmyk(100%,0%,46%,12%)",
+    "lightness": 44
+  },
+  {
+    "name": "青色",
+    "pinyin": "qīng sè",
+    "hex": "#00E09E",
+    "rgb": "rgb(0,224,158)",
+    "hsl": "hsl(162, 100%, 44%)",
+    "cmyk": "cmyk(100%,0%,29%,12%)",
+    "lightness": 44
+  },
+  {
+    "name": "翡翠色",
+    "pinyin": "fěi cuì sè",
+    "hex": "#3DE1AD",
+    "rgb": "rgb(61,225,173)",
+    "hsl": "hsl(161, 73%, 56%)",
+    "cmyk": "cmyk(73%,0%,23%,12%)",
+    "lightness": 56
+  },
+  {
+    "name": "碧綠",
+    "pinyin": "bì lǜ",
+    "hex": "#2ADD9C",
+    "rgb": "rgb(42,221,156)",
+    "hsl": "hsl(158, 72%, 52%)",
+    "cmyk": "cmyk(81%,0%,29%,13%)",
+    "lightness": 52
+  },
+  {
+    "name": "玉色",
+    "pinyin": "yù sè",
+    "hex": "#2EDFA3",
+    "rgb": "rgb(46,223,163)",
+    "hsl": "hsl(160, 73%, 53%)",
+    "cmyk": "cmyk(79%,0%,27%,13%)",
+    "lightness": 53
+  },
+  {
+    "name": "縹",
+    "pinyin": "piāo",
+    "hex": "#7FECAD",
+    "rgb": "rgb(127,236,173)",
+    "hsl": "hsl(145, 74%, 71%)",
+    "cmyk": "cmyk(46%,0%,27%,7%)",
+    "lightness": 71
+  },
+  {
+    "name": "艾綠",
+    "pinyin": "ài lǜ",
+    "hex": "#A4E2C6",
+    "rgb": "rgb(164,226,198)",
+    "hsl": "hsl(153, 52%, 76%)",
+    "cmyk": "cmyk(27%,0%,12%,11%)",
+    "lightness": 76
+  },
+  {
+    "name": "石青",
+    "pinyin": "shí qīng",
+    "hex": "#7BCFA6",
+    "rgb": "rgb(123,207,166)",
+    "hsl": "hsl(151, 47%, 65%)",
+    "cmyk": "cmyk(41%,0%,20%,19%)",
+    "lightness": 65
+  },
+  {
+    "name": "碧色",
+    "pinyin": "bì sè",
+    "hex": "#1BD1A5",
+    "rgb": "rgb(27,209,165)",
+    "hsl": "hsl(165, 77%, 46%)",
+    "cmyk": "cmyk(87%,0%,21%,18%)",
+    "lightness": 46
+  },
+  {
+    "name": "青碧",
+    "pinyin": "qīng bì",
+    "hex": "#48C0A3",
+    "rgb": "rgb(72,192,163)",
+    "hsl": "hsl(166, 49%, 52%)",
+    "cmyk": "cmyk(62%,0%,15%,25%)",
+    "lightness": 52
+  },
+  {
+    "name": "銅綠",
+    "pinyin": "tóng lǜ",
+    "hex": "#549688",
+    "rgb": "rgb(84,150,136)",
+    "hsl": "hsl(167, 28%, 46%)",
+    "cmyk": "cmyk(44%,0%,9%,41%)",
+    "lightness": 46
+  },
+  {
+    "name": "竹青",
+    "pinyin": "zhú qīng",
+    "hex": "#789262",
+    "rgb": "rgb(120,146,98)",
+    "hsl": "hsl(93, 20%, 48%)",
+    "cmyk": "cmyk(18%,0%,33%,43%)",
+    "lightness": 48
+  },
+  {
+    "name": "鴉青",
+    "pinyin": "yā qīng",
+    "hex": "#424C50",
+    "rgb": "rgb(66,76,80)",
+    "hsl": "hsl(197, 10%, 29%)",
+    "cmyk": "cmyk(18%,5%,0%,69%)",
+    "lightness": 29
+  },
+  {
+    "name": "蔥倩",
+    "pinyin": "cōng qiàn",
+    "hex": "#0EB840",
+    "rgb": "rgb(14,184,64)",
+    "hsl": "hsl(138, 86%, 39%)",
+    "cmyk": "cmyk(92%,0%,65%,28%)",
+    "lightness": 39
+  },
+  {
+    "name": "蒼翠",
+    "pinyin": "cāng cuì",
+    "hex": "#519A73",
+    "rgb": "rgb(81,154,115)",
+    "hsl": "hsl(148, 31%, 46%)",
+    "cmyk": "cmyk(47%,0%,25%,40%)",
+    "lightness": 46
+  },
+  {
+    "name": "水綠",
+    "pinyin": "shuǐ lǜ",
+    "hex": "#D4F2E7",
+    "rgb": "rgb(212,242,231)",
+    "hsl": "hsl(158, 54%, 89%)",
+    "cmyk": "cmyk(12%,0%,5%,5%)",
+    "lightness": 89
+  },
+  {
+    "name": "湖綠",
+    "pinyin": "hú lǜ",
+    "hex": "#25F8CB",
+    "rgb": "rgb(37,248,203)",
+    "hsl": "hsl(167, 94%, 56%)",
+    "cmyk": "cmyk(85%,0%,18%,3%)",
+    "lightness": 56
+  },
+  {
+    "name": "月灰",
+    "pinyin": "yuè huī",
+    "hex": "#B7AE8F",
+    "rgb": "rgb(183,174,143)",
+    "hsl": "hsl(47, 22%, 64%)",
+    "cmyk": "cmyk(28%,26%,45%,7%)",
+    "lightness": 64
+  },
+  {
+    "name": "燕羽灰",
+    "pinyin": "yàn yǔ huī",
+    "hex": "#685E48",
+    "rgb": "rgb(104,94,72)",
+    "hsl": "hsl(41, 18%, 35%)",
+    "cmyk": "cmyk(47%,47%,65%,42%)",
+    "lightness": 35
+  },
+  {
+    "name": "蟹殼灰",
+    "pinyin": "xiè ké huī",
+    "hex": "#695E45",
+    "rgb": "rgb(105,94,69)",
+    "hsl": "hsl(42, 21%, 34%)",
+    "cmyk": "cmyk(46%,47%,69%,42%)",
+    "lightness": 34
+  },
+  {
+    "name": "銀鼠灰",
+    "pinyin": "yín shǔ huī",
+    "hex": "#B5AA90",
+    "rgb": "rgb(181,170,144)",
+    "hsl": "hsl(42, 20%, 64%)",
+    "cmyk": "cmyk(28%,27%,43%,8%)",
+    "lightness": 64
+  },
+  {
+    "name": "塵灰",
+    "pinyin": "chén huī",
+    "hex": "#B6A476",
+    "rgb": "rgb(182,164,118)",
+    "hsl": "hsl(43, 30%, 59%)",
+    "cmyk": "cmyk(26%,31%,57%,10%)",
+    "lightness": 59
+  },
+  {
+    "name": "鶴灰",
+    "pinyin": "hè huī",
+    "hex": "#4A4035",
+    "rgb": "rgb(74,64,53)",
+    "hsl": "hsl(31, 17%, 25%)",
+    "cmyk": "cmyk(52%,56%,64%,62%)",
+    "lightness": 25
+  },
+  {
+    "name": "百靈鳥灰",
+    "pinyin": "bǎi líng niǎo huī",
+    "hex": "#B4A992",
+    "rgb": "rgb(180,169,146)",
+    "hsl": "hsl(41, 18%, 64%)",
+    "cmyk": "cmyk(28%,28%,41%,9%)",
+    "lightness": 64
+  },
+  {
+    "name": "松鼠灰",
+    "pinyin": "sōng shǔ huī",
+    "hex": "#4F4032",
+    "rgb": "rgb(79,64,50)",
+    "hsl": "hsl(29, 22%, 25%)",
+    "cmyk": "cmyk(46%,59%,68%,61%)",
+    "lightness": 25
+  },
+  {
+    "name": "橄欖灰",
+    "pinyin": "gǎn lǎn huī",
+    "hex": "#503E2A",
+    "rgb": "rgb(80,62,42)",
+    "hsl": "hsl(32, 31%, 24%)",
+    "cmyk": "cmyk(44%,61%,76%,62%)",
+    "lightness": 24
+  },
+  {
+    "name": "猴毛灰",
+    "pinyin": "hóu máo huī",
+    "hex": "#97846C",
+    "rgb": "rgb(151,132,108)",
+    "hsl": "hsl(33, 17%, 51%)",
+    "cmyk": "cmyk(32%,40%,53%,22%)",
+    "lightness": 51
+  },
+  {
+    "name": "淡銀灰",
+    "pinyin": "dàn yín huī",
+    "hex": "#C1B2A3",
+    "rgb": "rgb(193,178,163)",
+    "hsl": "hsl(30, 19%, 70%)",
+    "cmyk": "cmyk(22%,28%,34%,6%)",
+    "lightness": 70
+  },
+  {
+    "name": "銀灰",
+    "pinyin": "yín huī",
+    "hex": "#918072",
+    "rgb": "rgb(145,128,114)",
+    "hsl": "hsl(27, 12%, 51%)",
+    "cmyk": "cmyk(34%,42%,46%,23%)",
+    "lightness": 51
+  },
+  {
+    "name": "海鷗灰",
+    "pinyin": "hǎi ōu huī",
+    "hex": "#9A8878",
+    "rgb": "rgb(154,136,120)",
+    "hsl": "hsl(28, 14%, 54%)",
+    "cmyk": "cmyk(42%,40%,46%,20%)",
+    "lightness": 54
+  },
+  {
+    "name": "石板灰",
+    "pinyin": "shí bǎn huī",
+    "hex": "#624941",
+    "rgb": "rgb(98,73,65)",
+    "hsl": "hsl(15, 20%, 32%)",
+    "cmyk": "cmyk(39%,60%,58%,51%)",
+    "lightness": 32
+  },
+  {
+    "name": "珠母灰",
+    "pinyin": "zhū mǔ huī",
+    "hex": "#64483D",
+    "rgb": "rgb(100,72,61)",
+    "hsl": "hsl(17, 24%, 32%)",
+    "cmyk": "cmyk(38%,63%,63%,50%)",
+    "lightness": 32
+  },
+  {
+    "name": "蛛網灰",
+    "pinyin": "zhū wǎng huī",
+    "hex": "#B7A091",
+    "rgb": "rgb(183,160,145)",
+    "hsl": "hsl(24, 21%, 64%)",
+    "cmyk": "cmyk(23%,35%,38%,10%)",
+    "lightness": 64
+  },
+  {
+    "name": "中紅灰",
+    "pinyin": "zhōng hóng huī",
+    "hex": "#8B614D",
+    "rgb": "rgb(139,97,77)",
+    "hsl": "hsl(19, 29%, 42%)",
+    "cmyk": "cmyk(31%,63%,66%,31%)",
+    "lightness": 42
+  },
+  {
+    "name": "淡鐵灰",
+    "pinyin": "dàn tiě huī",
+    "hex": "#5B423A",
+    "rgb": "rgb(91,66,58)",
+    "hsl": "hsl(15, 22%, 29%)",
+    "cmyk": "cmyk(40%,64%,61%,56%)",
+    "lightness": 29
+  },
+  {
+    "name": "中灰駝",
+    "pinyin": "zhōng huī tuó",
+    "hex": "#603D30",
+    "rgb": "rgb(96,61,48)",
+    "hsl": "hsl(16, 33%, 28%)",
+    "cmyk": "cmyk(37%,72%,72%,52%)",
+    "lightness": 28
+  },
+  {
+    "name": "海報灰",
+    "pinyin": "hǎi bào huī",
+    "hex": "#483332",
+    "rgb": "rgb(72,51,50)",
+    "hsl": "hsl(3, 18%, 24%)",
+    "cmyk": "cmyk(45%,68%,57%,66%)",
+    "lightness": 24
+  },
+  {
+    "name": "玫瑰灰",
+    "pinyin": "méi guī huī",
+    "hex": "#4B2E2B",
+    "rgb": "rgb(175,46,43)",
+    "hsl": "hsl(6, 27%, 23%)",
+    "cmyk": "cmyk(41%,76%,64%,65%)",
+    "lightness": 23
+  },
+  {
+    "name": "淡玫瑰灰",
+    "pinyin": "dàn méi guī huī",
+    "hex": "#B89485",
+    "rgb": "rgb(184,148,133)",
+    "hsl": "hsl(18, 26%, 62%)",
+    "cmyk": "cmyk(21%,43%,43%,9%)",
+    "lightness": 62
+  },
+  {
+    "name": "鼠背灰",
+    "pinyin": "shǔ bèi huī",
+    "hex": "#73575C",
+    "rgb": "rgb(115,87,92)",
+    "hsl": "hsl(349, 14%, 40%)",
+    "cmyk": "cmyk(41%,64%,44%,36%)",
+    "lightness": 40
+  },
+  {
+    "name": "蒼蠅灰",
+    "pinyin": "cāng yíng huī",
+    "hex": "#36282B",
+    "rgb": "rgb(54,40,43)",
+    "hsl": "hsl(347, 15%, 18%)",
+    "cmyk": "cmyk(57%,72%,54%,74%)",
+    "lightness": 18
+  },
+  {
+    "name": "蘆穗灰",
+    "pinyin": "lú suì huī",
+    "hex": "#BDAEAD",
+    "rgb": "rgb(189,174,173)",
+    "hsl": "hsl(4, 11%, 71%)",
+    "cmyk": "cmyk(25%,31%,26%,5%)",
+    "lightness": 71
+  },
+  {
+    "name": "隱紅灰",
+    "pinyin": "yǐn hóng huī",
+    "hex": "#B598A1",
+    "rgb": "rgb(181,152,161)",
+    "hsl": "hsl(341, 16%, 65%)",
+    "cmyk": "cmyk(26%,43%,26%,6%)",
+    "lightness": 65
+  },
+  {
+    "name": "蘆灰",
+    "pinyin": "lú huī",
+    "hex": "#856D72",
+    "rgb": "rgb(133,109,114)",
+    "hsl": "hsl(348, 10%, 47%)",
+    "cmyk": "cmyk(39%,53%,38%,25%)",
+    "lightness": 47
+  },
+  {
+    "name": "暮雲灰",
+    "pinyin": "mù yún huī",
+    "hex": "#4F383E",
+    "rgb": "rgb(79,56,62)",
+    "hsl": "hsl(344, 17%, 26%)",
+    "cmyk": "cmyk(49%,71%,49%,58%)",
+    "lightness": 26
+  },
+  {
+    "name": "斑鳩灰",
+    "pinyin": "bān jiū huī",
+    "hex": "#482936",
+    "rgb": "rgb(72,41,54)",
+    "hsl": "hsl(335, 27%, 22%)",
+    "cmyk": "cmyk(49%,82%,46%,63%)",
+    "lightness": 22
+  },
+  {
+    "name": "紫灰",
+    "pinyin": "zǐ huī",
+    "hex": "#5D3F51",
+    "rgb": "rgb(93,63,81)",
+    "hsl": "hsl(324, 19%, 31%)",
+    "cmyk": "cmyk(53%,75%,41%,41%)",
+    "lightness": 31
+  },
+  {
+    "name": "古鼎灰",
+    "pinyin": "gǔ dǐng huī",
+    "hex": "#36292F",
+    "rgb": "rgb(54,41,47)",
+    "hsl": "hsl(332, 14%, 19%)",
+    "cmyk": "cmyk(63%,74%,52%,70%)",
+    "lightness": 19
+  },
+  {
+    "name": "鋅灰",
+    "pinyin": "xīn huī",
+    "hex": "#7A7374",
+    "rgb": "rgb(122,115,116)",
+    "hsl": "hsl(351, 3%, 46%)",
+    "cmyk": "cmyk(48%,45%,40%,26%)",
+    "lightness": 46
+  },
+  {
+    "name": "魚尾灰",
+    "pinyin": "yú wěi huī",
+    "hex": "#5E616D",
+    "rgb": "rgb(94,97,109)",
+    "hsl": "hsl(228, 7%, 40%)",
+    "cmyk": "cmyk(64%,52%,39%,28%)",
+    "lightness": 40
+  },
+  {
+    "name": "鯨魚灰",
+    "pinyin": "jīng yú huī",
+    "hex": "#475164",
+    "rgb": "rgb(71,81,100)",
+    "hsl": "hsl(219, 17%, 34%)",
+    "cmyk": "cmyk(78%,60%,40%,31%)",
+    "lightness": 34
+  },
+  {
+    "name": "沙魚灰",
+    "pinyin": "shā yú huī",
+    "hex": "#35333C",
+    "rgb": "rgb(53,51,60)",
+    "hsl": "hsl(253, 8%, 22%)",
+    "cmyk": "cmyk(76%,70%,51%,60%)",
+    "lightness": 22
+  },
+  {
+    "name": "大理石灰",
+    "pinyin": "dà lǐ shí huī",
+    "hex": "#C4CBCF",
+    "rgb": "rgb(196,203,207)",
+    "hsl": "hsl(202, 10%, 79%)",
+    "cmyk": "cmyk(29%,16%,17%,1%)",
+    "lightness": 79
+  },
+  {
+    "name": "水牛灰",
+    "pinyin": "shuǐ niú huī",
+    "hex": "#2F2F35",
+    "rgb": "rgb(47,47,53)",
+    "hsl": "hsl(240, 6%, 20%)",
+    "cmyk": "cmyk(77%,68%,54%,66%)",
+    "lightness": 20
+  },
+  {
+    "name": "牛角灰",
+    "pinyin": "niú jiǎo huī",
+    "hex": "#2D2E36",
+    "rgb": "rgb(45,46,54)",
+    "hsl": "hsl(233, 9%, 19%)",
+    "cmyk": "cmyk(80%,70%,53%,65%)",
+    "lightness": 19
+  },
+  {
+    "name": "星灰",
+    "pinyin": "xīng huī",
+    "hex": "#B2BBBE",
+    "rgb": "rgb(178,187,190)",
+    "hsl": "hsl(195, 8%, 72%)",
+    "cmyk": "cmyk(36%,20%,23%,2%)",
+    "lightness": 72
+  },
+  {
+    "name": "淡藍灰",
+    "pinyin": "dàn lán huī",
+    "hex": "#5E7987",
+    "rgb": "rgb(94,121,135)",
+    "hsl": "hsl(200, 18%, 45%)",
+    "cmyk": "cmyk(70%,38%,36%,18%)",
+    "lightness": 45
+  },
+  {
+    "name": "嫩灰",
+    "pinyin": "nèn huī",
+    "hex": "#74787A",
+    "rgb": "rgb(116,120,122)",
+    "hsl": "hsl(200, 3%, 47%)",
+    "cmyk": "cmyk(55%,40%,40%,23%)",
+    "lightness": 47
+  },
+  {
+    "name": "戰艦灰",
+    "pinyin": "zhàn jiàn huī",
+    "hex": "#495C69",
+    "rgb": "rgb(73,92,105)",
+    "hsl": "hsl(204, 18%, 35%)",
+    "cmyk": "cmyk(77%,50%,41%,31%)",
+    "lightness": 35
+  },
+  {
+    "name": "瓦罐灰",
+    "pinyin": "wǎ guàn huī",
+    "hex": "#47484C",
+    "rgb": "rgb(71,72,76)",
+    "hsl": "hsl(228, 3%, 29%)",
+    "cmyk": "cmyk(67%,57%,49%,49%)",
+    "lightness": 29
+  },
+  {
+    "name": "青灰",
+    "pinyin": "qīng huī",
+    "hex": "#2B333E",
+    "rgb": "rgb(43,51,62)",
+    "hsl": "hsl(215, 18%, 21%)",
+    "cmyk": "cmyk(87%,69%,51%,58%)",
+    "lightness": 21
+  },
+  {
+    "name": "堊灰",
+    "pinyin": "è huī",
+    "hex": "#737C7B",
+    "rgb": "rgb(115,124,123)",
+    "hsl": "hsl(173, 4%, 47%)",
+    "cmyk": "cmyk(57%,37%,42%,21%)",
+    "lightness": 47
+  },
+  {
+    "name": "夏雲灰",
+    "pinyin": "xià yún huī",
+    "hex": "#617172",
+    "rgb": "rgb(97,113,114)",
+    "hsl": "hsl(184, 8%, 41%)",
+    "cmyk": "cmyk(65%,40%,44%,26%)",
+    "lightness": 41
+  },
+  {
+    "name": "黃昏灰",
+    "pinyin": "huáng hūn huī",
+    "hex": "#474B4C",
+    "rgb": "rgb(71,75,76)",
+    "hsl": "hsl(192, 3%, 29%)",
+    "cmyk": "cmyk(67%,53%,51%,50%)",
+    "lightness": 29
+  },
+  {
+    "name": "鎳灰",
+    "pinyin": "niè huī",
+    "hex": "#9FA39A",
+    "rgb": "rgb(159,163,154)",
+    "hsl": "hsl(87, 5%, 62%)",
+    "cmyk": "cmyk(40%,27%,36%,8%)",
+    "lightness": 62
+  },
+  {
+    "name": "明灰",
+    "pinyin": "míng huī",
+    "hex": "#8A988E",
+    "rgb": "rgb(138,152,142)",
+    "hsl": "hsl(137, 6%, 57%)",
+    "cmyk": "cmyk(52%,28%,42%,10%)",
+    "lightness": 57
+  },
+  {
+    "name": "淡綠灰",
+    "pinyin": "dàn lǜ huī",
+    "hex": "#70887D",
+    "rgb": "rgb(112,136,125)",
+    "hsl": "hsl(153, 10%, 49%)",
+    "cmyk": "cmyk(63%,31%,50%,14%)",
+    "lightness": 49
+  },
+  {
+    "name": "狼煙灰",
+    "pinyin": "láng yān huī",
+    "hex": "#5D655F",
+    "rgb": "rgb(93,101,95)",
+    "hsl": "hsl(135, 4%, 38%)",
+    "cmyk": "cmyk(62%,43%,52%,34%)",
+    "lightness": 38
+  },
+  {
+    "name": "綠灰",
+    "pinyin": "lǜ huī",
+    "hex": "#314A43",
+    "rgb": "rgb(49,74,67)",
+    "hsl": "hsl(163, 20%, 24%)",
+    "cmyk": "cmyk(85%,44%,64%,52%)",
+    "lightness": 24
+  },
+  {
+    "name": "長石灰",
+    "pinyin": "cháng shí huī",
+    "hex": "#363433",
+    "rgb": "rgb(54,52,51)",
+    "hsl": "hsl(20, 3%, 21%)",
+    "cmyk": "cmyk(67%,60%,57%,68%)",
+    "lightness": 21
+  },
+  {
+    "name": "河豚灰",
+    "pinyin": "hé tún huī",
+    "hex": "#393733",
+    "rgb": "rgb(57,55,51)",
+    "hsl": "hsl(40, 6%, 21%)",
+    "cmyk": "cmyk(64%,57%,60%,67%)",
+    "lightness": 21
+  },
+  {
+    "name": "淺灰",
+    "pinyin": "qiǎn huī",
+    "hex": "#DAD4CB",
+    "rgb": "rgb(218,212,203)",
+    "hsl": "hsl(36, 17%, 83%)",
+    "cmyk": "cmyk(16%,15%,20%,1%)",
+    "lightness": 83
+  },
+  {
+    "name": "中灰",
+    "pinyin": "zhōng huī",
+    "hex": "#BBB5AC",
+    "rgb": "rgb(187,181,172)",
+    "hsl": "hsl(36, 10%, 70%)",
+    "cmyk": "cmyk(28%,25%,30%,5%)",
+    "lightness": 70
+  },
+  {
+    "name": "瓦灰",
+    "pinyin": "wǎ huī",
+    "hex": "#867E76",
+    "rgb": "rgb(134,126,118)",
+    "hsl": "hsl(30, 6%, 49%)",
+    "cmyk": "cmyk(42%,40%,43%,23%)",
+    "lightness": 49
+  },
+  {
+    "name": "夜灰",
+    "pinyin": "yè huī",
+    "hex": "#847C74",
+    "rgb": "rgb(132,124,116)",
+    "hsl": "hsl(30, 6%, 49%)",
+    "cmyk": "cmyk(43%,40%,44%,42%)",
+    "lightness": 49
+  },
+  {
+    "name": "雁灰",
+    "pinyin": "yàn huī",
+    "hex": "#80766E",
+    "rgb": "rgb(128,118,110)",
+    "hsl": "hsl(27, 8%, 47%)",
+    "cmyk": "cmyk(42%,42%,45%,27%)",
+    "lightness": 47
+  },
+  {
+    "name": "紅蓮灰",
+    "pinyin": "hóng lián hūi",
+    "hex": "#C76079",
+    "rgb": "rgb(199,96,121)",
+    "hsl": "hsl(345, 48%, 58%)",
+    "cmyk": "cmyk(0%,52%,39%,22%)",
+    "lightness": 58
+  },
+  {
+    "name": "玫瑰灰",
+    "pinyin": "méi gūi hūi",
+    "hex": "#793D56",
+    "rgb": "rgb(121,61,86)",
+    "hsl": "hsl(335, 33%, 36%)",
+    "cmyk": "cmyk(0%,50%,29%,53%)",
+    "lightness": 36
+  },
+  {
+    "name": "紅灰蓮",
+    "pinyin": "hóng hūi lián",
+    "hex": "#BB848C",
+    "rgb": "rgb(187,132,140)",
+    "hsl": "hsl(351, 29%, 63%)",
+    "cmyk": "cmyk(0%,29%,25%,27%)",
+    "lightness": 63
+  },
+  {
+    "name": "浅棕灰",
+    "pinyin": "qiǎn zōng hūi",
+    "hex": "#E1DBCD",
+    "rgb": "rgb(225,219,205)",
+    "hsl": "hsl(42, 25%, 84%)",
+    "cmyk": "cmyk(0%,3%,9%,12%)",
+    "lightness": 84
+  },
+  {
+    "name": "肉棕灰",
+    "pinyin": "ròu zōng hūi",
+    "hex": "#B89A83",
+    "rgb": "rgb(184,154,131)",
+    "hsl": "hsl(26, 27%, 62%)",
+    "cmyk": "cmyk(0%,16%,29%,28%)",
+    "lightness": 62
+  },
+  {
+    "name": "葡萄灰",
+    "pinyin": "pú táo hūi",
+    "hex": "#6D4D56",
+    "rgb": "rgb(109,77,86)",
+    "hsl": "hsl(343, 17%, 36%)",
+    "cmyk": "cmyk(0%,29%,21%,57%)",
+    "lightness": 36
+  },
+  {
+    "name": "中棕灰",
+    "pinyin": "zhōng zōng hūi",
+    "hex": "#A9987C",
+    "rgb": "rgb(169,152,124)",
+    "hsl": "hsl(37, 21%, 57%)",
+    "cmyk": "cmyk(0%,10%,27%,34%)",
+    "lightness": 57
+  },
+  {
+    "name": "乳灰",
+    "pinyin": "rǔ hūi",
+    "hex": "#C5BBA3",
+    "rgb": "rgb(197,187,163)",
+    "hsl": "hsl(42, 23%, 71%)",
+    "cmyk": "cmyk(0%,5%,17%,23%)",
+    "lightness": 71
+  },
+  {
+    "name": "深銀灰",
+    "pinyin": "shēn yín hūi",
+    "hex": "#B2AE9B",
+    "rgb": "rgb(178,174,155)",
+    "hsl": "hsl(50, 13%, 65%)",
+    "cmyk": "cmyk(0%,2%,13%,30%)",
+    "lightness": 65
+  },
+  {
+    "name": "米灰",
+    "pinyin": "mǐ hūi",
+    "hex": "#C5BFAD",
+    "rgb": "rgb(197,191,173)",
+    "hsl": "hsl(45, 17%, 73%)",
+    "cmyk": "cmyk(0%,3%,12%,23%)",
+    "lightness": 73
+  },
+  {
+    "name": "芽灰",
+    "pinyin": "yá hūi",
+    "hex": "#CCC3AA",
+    "rgb": "rgb(204,195,170)",
+    "hsl": "hsl(44, 25%, 73%)",
+    "cmyk": "cmyk(0%,4%,17%,20%)",
+    "lightness": 73
+  },
+  {
+    "name": "果灰",
+    "pinyin": "guǒ hūi",
+    "hex": "#88AEA3",
+    "rgb": "rgb(136,174,163)",
+    "hsl": "hsl(163, 19%, 61%)",
+    "cmyk": "cmyk(22%,0%,6%,32%)",
+    "lightness": 61
+  },
+  {
+    "name": "芦灰",
+    "pinyin": "lú hūi",
+    "hex": "#A9B08F",
+    "rgb": "rgb(169,176,143)",
+    "hsl": "hsl(73, 17%, 63%)",
+    "cmyk": "cmyk(4%,0%,19%,31%)",
+    "lightness": 63
+  },
+  {
+    "name": "蝦灰",
+    "pinyin": "xiā hūi",
+    "hex": "#B7B99C",
+    "rgb": "rgb(183,185,156)",
+    "hsl": "hsl(64, 17%, 67%)",
+    "cmyk": "cmyk(1%,0%,16%,27%)",
+    "lightness": 67
+  },
+  {
+    "name": "灰米",
+    "pinyin": "hūi mǐ",
+    "hex": "#B6B196",
+    "rgb": "rgb(182,177,150)",
+    "hsl": "hsl(51, 18%, 65%)",
+    "cmyk": "cmyk(0%,3%,18%,29%)",
+    "lightness": 65
+  },
+  {
+    "name": "暗灰",
+    "pinyin": "àn hūi",
+    "hex": "#647372",
+    "rgb": "rgb(100,115,114)",
+    "hsl": "hsl(176, 7%, 42%)",
+    "cmyk": "cmyk(13%,0%,1%,55%)",
+    "lightness": 42
+  },
+  {
+    "name": "橄欖灰",
+    "pinyin": "gǎn lǎn hūi",
+    "hex": "#7C9283",
+    "rgb": "rgb(124,146,131)",
+    "hsl": "hsl(139, 9%, 53%)",
+    "cmyk": "cmyk(15%,0%,10%,43%)",
+    "lightness": 53
+  },
+  {
+    "name": "草灰色",
+    "pinyin": "cǎo hūi sè",
+    "hex": "#675B46",
+    "rgb": "rgb(103,91,70)",
+    "hsl": "hsl(38, 19%, 34%)",
+    "cmyk": "cmyk(0%,12%,32%,60%)",
+    "lightness": 34
+  },
+  {
+    "name": "深灰",
+    "pinyin": "shēn hūi",
+    "hex": "#576768",
+    "rgb": "rgb(87,103,104)",
+    "hsl": "hsl(184, 9%, 37%)",
+    "cmyk": "cmyk(16%,1%,0%,59%)",
+    "lightness": 37
+  },
+  {
+    "name": "鵲灰",
+    "pinyin": "què hūi",
+    "hex": "#455667",
+    "rgb": "rgb(69,86,103)",
+    "hsl": "hsl(210, 20%, 34%)",
+    "cmyk": "cmyk(33%,17%,0%,60%)",
+    "lightness": 34
+  },
+  {
+    "name": "深瓦灰",
+    "pinyin": "shēn wǎ hūi",
+    "hex": "#637179",
+    "rgb": "rgb(99,113,121)",
+    "hsl": "hsl(202, 10%, 43%)",
+    "cmyk": "cmyk(18%,7%,0%,53%)",
+    "lightness": 43
+  },
+  {
+    "name": "苔灰",
+    "pinyin": "tái hūi",
+    "hex": "#58665E",
+    "rgb": "rgb(88,102,94)",
+    "hsl": "hsl(146, 7%, 37%)",
+    "cmyk": "cmyk(14%,0%,8%,60%)",
+    "lightness": 37
+  },
+  {
+    "name": "冬灰色",
+    "pinyin": "dōng hūi sè",
+    "hex": "#6D817D",
+    "rgb": "rgb(109,129,125)",
+    "hsl": "hsl(168, 8%, 47%)",
+    "cmyk": "cmyk(16%,0%,3%,49%)",
+    "lightness": 47
+  },
+  {
+    "name": "雲灰",
+    "pinyin": "yún hūi",
+    "hex": "#AAC2C4",
+    "rgb": "rgb(170,194,196)",
+    "hsl": "hsl(185, 18%, 72%)",
+    "cmyk": "cmyk(13%,1%,0%,23%)",
+    "lightness": 72
+  },
+  {
+    "name": "鴿灰",
+    "pinyin": "gē hūi",
+    "hex": "#95B1BA",
+    "rgb": "rgb(149,177,186)",
+    "hsl": "hsl(195, 21%, 66%)",
+    "cmyk": "cmyk(20%,5%,0%,27%)",
+    "lightness": 66
+  },
+  {
+    "name": "藍灰色",
+    "pinyin": "lán hūi sè",
+    "hex": "#8AA4A8",
+    "rgb": "rgb(138,164,168)",
+    "hsl": "hsl(188, 15%, 60%)",
+    "cmyk": "cmyk(18%,2%,0%,34%)",
+    "lightness": 60
+  },
+  {
+    "name": "水貂灰",
+    "pinyin": "shǔi diāo hūi",
+    "hex": "#949C97",
+    "rgb": "rgb(148,156,151)",
+    "hsl": "hsl(142, 4%, 60%)",
+    "cmyk": "cmyk(5%,0%,3%,39%)",
+    "lightness": 60
+  },
+  {
+    "name": "湖藍灰",
+    "pinyin": "hú lán hūi",
+    "hex": "#59808E",
+    "rgb": "rgb(89,128,142)",
+    "hsl": "hsl(196, 23%, 45%)",
+    "cmyk": "cmyk(37%,10%,0%,44%)",
+    "lightness": 45
+  },
+  {
+    "name": "灯草灰",
+    "pinyin": "dēng cǎo hūi",
+    "hex": "#363532",
+    "rgb": "rgb(54,53,50)",
+    "hsl": "hsl(45, 4%, 20%)",
+    "cmyk": "cmyk(0%,2%,7%,79%)",
+    "lightness": 20
+  },
+  {
+    "name": "鉄灰",
+    "pinyin": "tiě hūi",
+    "hex": "#37444B",
+    "rgb": "rgb(55,68,75)",
+    "hsl": "hsl(201, 15%, 25%)",
+    "cmyk": "cmyk(27%,9%,0%,71%)",
+    "lightness": 25
+  },
+  {
+    "name": "雪灰",
+    "pinyin": "xuě hūi",
+    "hex": "#CAD0D3",
+    "rgb": "rgb(202,208,211)",
+    "hsl": "hsl(200, 9%, 81%)",
+    "cmyk": "cmyk(4%,1%,0%,17%)",
+    "lightness": 81
+  },
+  {
+    "name": "蓮灰",
+    "pinyin": "lián hūi",
+    "hex": "#A8A6B9",
+    "rgb": "rgb(168,166,185)",
+    "hsl": "hsl(246, 12%, 69%)",
+    "cmyk": "cmyk(9%,10%,0%,27%)",
+    "lightness": 69
+  },
+  {
+    "name": "雪青灰",
+    "pinyin": "xuě qīng hūi",
+    "hex": "#9198AE",
+    "rgb": "rgb(145,152,174)",
+    "hsl": "hsl(226, 15%, 63%)",
+    "cmyk": "cmyk(17%,13%,0%,32%)",
+    "lightness": 63
+  },
+  {
+    "name": "紫藤灰",
+    "pinyin": "zǐ téng hūi",
+    "hex": "#857E95",
+    "rgb": "rgb(133,126,149)",
+    "hsl": "hsl(258, 10%, 54%)",
+    "cmyk": "cmyk(11%,15%,0%,42%)",
+    "lightness": 54
+  },
+  {
+    "name": "青灰色",
+    "pinyin": "qīng hūi sè",
+    "hex": "#575A5D",
+    "rgb": "rgb(87,90,93)",
+    "hsl": "hsl(210, 3%, 35%)",
+    "cmyk": "cmyk(6%,3%,0%,64%)",
+    "lightness": 35
+  },
+  {
+    "name": "承徳皀",
+    "pinyin": "chéng dé bī",
+    "hex": "#5A5C5B",
+    "rgb": "rgb(90,92,91)",
+    "hsl": "hsl(150, 1%, 36%)",
+    "cmyk": "cmyk(2%,0%,1%,64%)",
+    "lightness": 36
+  },
+  {
+    "name": "承徳灰",
+    "pinyin": "chéng dé hūi",
+    "hex": "#757570",
+    "rgb": "rgb(117,117,112)",
+    "hsl": "hsl(60, 2%, 45%)",
+    "cmyk": "cmyk(0%,0%,4%,54%)",
+    "lightness": 45
+  },
+  {
+    "name": "庭院瓦灰色",
+    "pinyin": "tíng yuàn wǎ hūi sè",
+    "hex": "#817C6E",
+    "rgb": "rgb(129,124,110)",
+    "hsl": "hsl(44, 8%, 47%)",
+    "cmyk": "cmyk(0%,4%,15%,49%)",
+    "lightness": 47
+  },
+  {
+    "name": "相思灰",
+    "pinyin": "xiāng sī hūi",
+    "hex": "#625C52",
+    "rgb": "rgb(98,92,82)",
+    "hsl": "hsl(38, 9%, 35%)",
+    "cmyk": "cmyk(0%,6%,16%,62%)",
+    "lightness": 35
+  },
+  {
+    "name": "銀鼠灰",
+    "pinyin": "yín shǔ hūi",
+    "hex": "#71727A",
+    "rgb": "rgb(113,114,122)",
+    "hsl": "hsl(233, 4%, 46%)",
+    "cmyk": "cmyk(7%,7%,0%,52%)",
+    "lightness": 46
+  },
+  {
+    "name": "正灰",
+    "pinyin": "zhèng hūi",
+    "hex": "#93A2A9",
+    "rgb": "rgb(147,162,169)",
+    "hsl": "hsl(199, 11%, 62%)",
+    "cmyk": "cmyk(13%,4%,0%,34%)",
+    "lightness": 62
+  },
+  {
+    "name": "織綿灰",
+    "pinyin": "zhī mián hūi",
+    "hex": "#748A8D",
+    "rgb": "rgb(116,138,141)",
+    "hsl": "hsl(187, 10%, 50%)",
+    "cmyk": "cmyk(18%,2%,0%,45%)",
+    "lightness": 50
+  },
+  {
+    "name": "石板灰",
+    "pinyin": "shí bǎn hūi",
+    "hex": "#6B7C87",
+    "rgb": "rgb(107,124,135)",
+    "hsl": "hsl(204, 12%, 47%)",
+    "cmyk": "cmyk(21%,8%,0%,47%)",
+    "lightness": 47
+  },
+  {
+    "name": "羅藍灰",
+    "pinyin": "luó lán hūi",
+    "hex": "#4F506D",
+    "rgb": "rgb(79,80,109)",
+    "hsl": "hsl(238, 16%, 37%)",
+    "cmyk": "cmyk(28%,27%,0%,57%)",
+    "lightness": 37
+  },
+  {
+    "name": "銀箔",
+    "pinyin": "yín bó",
+    "hex": "#585A57",
+    "rgb": "rgb(88,90,87)",
+    "hsl": "hsl(100, 2%, 35%)",
+    "cmyk": "cmyk(2%,0%,3%,65%)",
+    "lightness": 35
+  },
+  {
+    "name": "紅灰",
+    "pinyin": "hóng hūi",
+    "hex": "#82878C",
+    "rgb": "rgb(130,135,140)",
+    "hsl": "hsl(210, 4%, 53%)",
+    "cmyk": "cmyk(7%,4%,0%,45%)",
+    "lightness": 53
+  },
+  {
+    "name": "黄灰",
+    "pinyin": "huáng hūi",
+    "hex": "#B0B7AC",
+    "rgb": "rgb(176,183,172)",
+    "hsl": "hsl(98, 7%, 70%)",
+    "cmyk": "cmyk(4%,0%,6%,28%)",
+    "lightness": 70
+  },
+  {
+    "name": "灰色",
+    "pinyin": "huī sè",
+    "hex": "#808080",
+    "rgb": "rgb(128,128,128)",
+    "hsl": "hsl(0, 0%, 50%)",
+    "cmyk": "cmyk(0%,0%,0%,50%)",
+    "lightness": 50
+  },
+  {
+    "name": "鮫青",
+    "pinyin": "jiāo qīng",
+    "hex": "#87723E",
+    "rgb": "rgb(135,114,62)",
+    "hsl": "hsl(43, 37%, 39%)",
+    "cmyk": "cmyk(35%,44%,80%,30%)",
+    "lightness": 39
+  },
+  {
+    "name": "青蓮",
+    "pinyin": "qīng lián",
+    "hex": "#8B2671",
+    "rgb": "rgb(139,38,113)",
+    "hsl": "hsl(315, 57%, 35%)",
+    "cmyk": "cmyk(43%,97%,19%,8%)",
+    "lightness": 35
+  },
+  {
+    "name": "花青",
+    "pinyin": "huā qīng",
+    "hex": "#2376B7",
+    "rgb": "rgb(35,118,183)",
+    "hsl": "hsl(206, 68%, 43%)",
+    "cmyk": "cmyk(95%,45%,10%,1%)",
+    "lightness": 43
+  },
+  {
+    "name": "群青",
+    "pinyin": "qún qīng",
+    "hex": "#1772B4",
+    "rgb": "rgb(23,114,180)",
+    "hsl": "hsl(205, 77%, 40%)",
+    "cmyk": "cmyk(99%,48%,11%,1%)",
+    "lightness": 40
+  },
+  {
+    "name": "霽青",
+    "pinyin": "jì qīng",
+    "hex": "#63BBD0",
+    "rgb": "rgb(99,187,208)",
+    "hsl": "hsl(192, 54%, 60%)",
+    "cmyk": "cmyk(74%,2%,24%,0%)",
+    "lightness": 60
+  },
+  {
+    "name": "碧青",
+    "pinyin": "bì qīng",
+    "hex": "#5CB3CC",
+    "rgb": "rgb(92,179,204)",
+    "hsl": "hsl(193, 52%, 58%)",
+    "cmyk": "cmyk(77%,7%,24%,0%)",
+    "lightness": 58
+  },
+  {
+    "name": "海青",
+    "pinyin": "hǎi qīng",
+    "hex": "#22A2C3",
+    "rgb": "rgb(34,162,195)",
+    "hsl": "hsl(192, 70%, 45%)",
+    "cmyk": "cmyk(92%,10%,25%,1%)",
+    "lightness": 45
+  },
+  {
+    "name": "靛青",
+    "pinyin": "diàn qīng",
+    "hex": "#1661AB",
+    "rgb": "rgb(22,97,171)",
+    "hsl": "hsl(210, 77%, 38%)",
+    "cmyk": "cmyk(100%,60%,8%,1%)",
+    "lightness": 38
+  },
+  {
+    "name": "鋼青",
+    "pinyin": "gāng qīng",
+    "hex": "#142334",
+    "rgb": "rgb(20,35,52)",
+    "hsl": "hsl(212, 44%, 14%)",
+    "cmyk": "cmyk(100%,82%,51%,64%)",
+    "lightness": 14
+  },
+  {
+    "name": "蝦殼青",
+    "pinyin": "xiā ké qīng",
+    "hex": "#869D9D",
+    "rgb": "rgb(134,157,157)",
+    "hsl": "hsl(180, 11%, 57%)",
+    "cmyk": "cmyk(56%,26%,36%,7%)",
+    "lightness": 57
+  },
+  {
+    "name": "青豆色",
+    "pinyin": "qīng dòu sè",
+    "hex": "#9BAE86",
+    "rgb": "rgb(155,174,134)",
+    "hsl": "hsl(89, 20%, 60%)",
+    "cmyk": "cmyk(11%,0%,23%,32%)",
+    "lightness": 60
+  },
+  {
+    "name": "碧玉石",
+    "pinyin": "bì yù shí",
+    "hex": "#569597",
+    "rgb": "rgb(86,149,151)",
+    "hsl": "hsl(182, 27%, 46%)",
+    "cmyk": "cmyk(43%,1%,0%,41%)",
+    "lightness": 46
+  },
+  {
+    "name": "鴨蛋青",
+    "pinyin": "yā dàn qīng",
+    "hex": "#D1E3DB",
+    "rgb": "rgb(209,227,219)",
+    "hsl": "hsl(153, 24%, 85%)",
+    "cmyk": "cmyk(8%,0%,4%,11%)",
+    "lightness": 85
+  },
+  {
+    "name": "浅青瓷釉色",
+    "pinyin": "qiǎn qīng cí yòu sè",
+    "hex": "#CADDD5",
+    "rgb": "rgb(202,221,213)",
+    "hsl": "hsl(155, 22%, 83%)",
+    "cmyk": "cmyk(9%,0%,4%,13%)",
+    "lightness": 83
+  },
+  {
+    "name": "龍泉青瓷釉色",
+    "pinyin": "lóng quán qīng cí yòu sè",
+    "hex": "#B1C5B4",
+    "rgb": "rgb(177,197,180)",
+    "hsl": "hsl(129, 15%, 73%)",
+    "cmyk": "cmyk(10%,0%,9%,23%)",
+    "lightness": 73
+  },
+  {
+    "name": "蟹青",
+    "pinyin": "xiè qīng",
+    "hex": "#7A988E",
+    "rgb": "rgb(122,152,142)",
+    "hsl": "hsl(160, 13%, 54%)",
+    "cmyk": "cmyk(20%,0%,7%,40%)",
+    "lightness": 54
+  },
+  {
+    "name": "青蝦色",
+    "pinyin": "qīng xiā sè",
+    "hex": "#7A988B",
+    "rgb": "rgb(122,152,139)",
+    "hsl": "hsl(154, 13%, 54%)",
+    "cmyk": "cmyk(20%,0%,9%,40%)",
+    "lightness": 54
+  },
+  {
+    "name": "竹月色",
+    "pinyin": "zhú yuè sè",
+    "hex": "#5E90B8",
+    "rgb": "rgb(94,144,184)",
+    "hsl": "hsl(207, 39%, 55%)",
+    "cmyk": "cmyk(49%,22%,0%,28%)",
+    "lightness": 55
+  },
+  {
+    "name": "深竹月",
+    "pinyin": "shēn zhú yuè",
+    "hex": "#2578B5",
+    "rgb": "rgb(37,120,181)",
+    "hsl": "hsl(205, 66%, 43%)",
+    "cmyk": "cmyk(80%,34%,0%,29%)",
+    "lightness": 43
+  },
+  {
+    "name": "毛月色",
+    "pinyin": "máo yuè sè",
+    "hex": "#3A89B0",
+    "rgb": "rgb(58,137,176)",
+    "hsl": "hsl(200, 50%, 46%)",
+    "cmyk": "cmyk(67%,22%,0%,31%)",
+    "lightness": 46
+  },
+  {
+    "name": "深毛月色",
+    "pinyin": "shēn máo yuè sè",
+    "hex": "#2B5F8E",
+    "rgb": "rgb(43,95,142)",
+    "hsl": "hsl(208, 54%, 36%)",
+    "cmyk": "cmyk(70%,33%,0%,44%)",
+    "lightness": 36
+  },
+  {
+    "name": "群青",
+    "pinyin": "qún qīng",
+    "hex": "#084495",
+    "rgb": "rgb(8,68,149)",
+    "hsl": "hsl(214, 90%, 31%)",
+    "cmyk": "cmyk(95%,54%,0%,42%)",
+    "lightness": 31
+  },
+  {
+    "name": "紺青",
+    "pinyin": "gàn qīng",
+    "hex": "#3F486C",
+    "rgb": "rgb(63,72,108)",
+    "hsl": "hsl(228, 26%, 34%)",
+    "cmyk": "cmyk(42%,33%,0%,58%)",
+    "lightness": 34
+  },
+  {
+    "name": "元青",
+    "pinyin": "yuán qīng",
+    "hex": "#3E3C3D",
+    "rgb": "rgb(62,60,61)",
+    "hsl": "hsl(330, 2%, 24%)",
+    "cmyk": "cmyk(0%,3%,2%,76%)",
+    "lightness": 24
+  },
+  {
+    "name": "鉄青",
+    "pinyin": "tiě qīng",
+    "hex": "#404A57",
+    "rgb": "rgb(64,74,87)",
+    "hsl": "hsl(214, 15%, 30%)",
+    "cmyk": "cmyk(26%,15%,0%,66%)",
+    "lightness": 30
+  },
+  {
+    "name": "青金色",
+    "pinyin": "qīng jīn sè",
+    "hex": "#687FA5",
+    "rgb": "rgb(104,127,165)",
+    "hsl": "hsl(217, 25%, 53%)",
+    "cmyk": "cmyk(37%,23%,0%,35%)",
+    "lightness": 53
+  },
+  {
+    "name": "花青",
+    "pinyin": "huā qīng",
+    "hex": "#546B83",
+    "rgb": "rgb(84,107,131)",
+    "hsl": "hsl(211, 22%, 42%)",
+    "cmyk": "cmyk(36%,18%,0%,49%)",
+    "lightness": 42
+  },
+  {
+    "name": "沙青",
+    "pinyin": "shā qīng",
+    "hex": "#2B5E7D",
+    "rgb": "rgb(43,94,125)",
+    "hsl": "hsl(203, 49%, 33%)",
+    "cmyk": "cmyk(66%,25%,0%,51%)",
+    "lightness": 33
+  },
+  {
+    "name": "瑩白",
+    "pinyin": "yíng bái",
+    "hex": "#E3F9FD",
+    "rgb": "rgb(227,249,253)",
+    "hsl": "hsl(189, 87%, 94%)",
+    "cmyk": "cmyk(10%,2%,0%,1%)",
+    "lightness": 94
+  },
+  {
+    "name": "月白",
+    "pinyin": "yuè bái",
+    "hex": "#D6ECF0",
+    "rgb": "rgb(214,236,240)",
+    "hsl": "hsl(189, 46%, 89%)",
+    "cmyk": "cmyk(11%,2%,0%,6%)",
+    "lightness": 89
+  },
+  {
+    "name": "蒼色",
+    "pinyin": "cāng sè",
+    "hex": "#75878A",
+    "rgb": "rgb(117,135,138)",
+    "hsl": "hsl(189, 8%, 50%)",
+    "cmyk": "cmyk(15%,2%,0%,46%)",
+    "lightness": 50
+  },
+  {
+    "name": "水色",
+    "pinyin": "shuǐ sè",
+    "hex": "#88ADA6",
+    "rgb": "rgb(136,173,166)",
+    "hsl": "hsl(169, 18%, 61%)",
+    "cmyk": "cmyk(21%,0%,4%,32%)",
+    "lightness": 61
+  },
+  {
+    "name": "石青",
+    "pinyin": "shí qīng",
+    "hex": "#1685A9",
+    "rgb": "rgb(22,133,169)",
+    "hsl": "hsl(195, 77%, 37%)",
+    "cmyk": "cmyk(87%,21%,0%,34%)",
+    "lightness": 37
+  },
+  {
+    "name": "花青",
+    "pinyin": "huā qīng",
+    "hex": "#003472",
+    "rgb": "rgb(0,52,114)",
+    "hsl": "hsl(213, 100%, 22%)",
+    "cmyk": "cmyk(100%,54%,0%,55%)",
+    "lightness": 22
+  },
+  {
+    "name": "蒼青",
+    "pinyin": "cāng qīng",
+    "hex": "#7397AB",
+    "rgb": "rgb(115,151,171)",
+    "hsl": "hsl(201, 25%, 56%)",
+    "cmyk": "cmyk(33%,12%,0%,33%)",
+    "lightness": 56
+  },
+  {
+    "name": "蒼黑",
+    "pinyin": "cāng hēi",
+    "hex": "#395260",
+    "rgb": "rgb(57,82,96)",
+    "hsl": "hsl(202, 25%, 30%)",
+    "cmyk": "cmyk(41%,15%,0%,62%)",
+    "lightness": 30
+  },
+  {
+    "name": "淡青",
+    "pinyin": "dàn qīng",
+    "hex": "#D3E0F3",
+    "rgb": "rgb(211,224,243)",
+    "hsl": "hsl(216, 57%, 89%)",
+    "cmyk": "cmyk(13%,8%,0%,5%)",
+    "lightness": 89
+  },
+  {
+    "name": "駝色",
+    "pinyin": "tuó sè",
+    "hex": "#66462A",
+    "rgb": "rgb(102,70,42)",
+    "hsl": "hsl(28, 42%, 28%)",
+    "cmyk": "cmyk(37%,65%,84%,49%)",
+    "lightness": 28
+  },
+  {
+    "name": "茶褐",
+    "pinyin": "chá hè",
+    "hex": "#5D3D21",
+    "rgb": "rgb(93,61,33)",
+    "hsl": "hsl(28, 48%, 25%)",
+    "cmyk": "cmyk(38%,69%,90%,54%)",
+    "lightness": 25
+  },
+  {
+    "name": "古銅褐",
+    "pinyin": "gǔ tóng hè",
+    "hex": "#5C3719",
+    "rgb": "rgb(92,55,25)",
+    "hsl": "hsl(27, 57%, 23%)",
+    "cmyk": "cmyk(37%,74%,96%,55%)",
+    "lightness": 23
+  },
+  {
+    "name": "玫瑰粉",
+    "pinyin": "méi guī fěn",
+    "hex": "#F8B37F",
+    "rgb": "rgb(248,179,127)",
+    "hsl": "hsl(26, 90%, 74%)",
+    "cmyk": "cmyk(0%,40%,52%,0%)",
+    "lightness": 74
+  },
+  {
+    "name": "橘橙",
+    "pinyin": "jú chéng",
+    "hex": "#F97D1C",
+    "rgb": "rgb(249,125,28)",
+    "hsl": "hsl(26, 95%, 54%)",
+    "cmyk": "cmyk(0%,62%,88%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "美人焦橙",
+    "pinyin": "měi rén jiāo chéng",
+    "hex": "#FA7E23",
+    "rgb": "rgb(250,126,35)",
+    "hsl": "hsl(25, 96%, 56%)",
+    "cmyk": "cmyk(0%,62%,85%,0%)",
+    "lightness": 56
+  },
+  {
+    "name": "潤紅",
+    "pinyin": "rùn hóng",
+    "hex": "#F7CDBC",
+    "rgb": "rgb(247,205,188)",
+    "hsl": "hsl(17, 79%, 85%)",
+    "cmyk": "cmyk(0%,28%,25%,0%)",
+    "lightness": 85
+  },
+  {
+    "name": "淡桃紅",
+    "pinyin": "dàn táo hóng",
+    "hex": "#F6CEC1",
+    "rgb": "rgb(246,206,193)",
+    "hsl": "hsl(15, 75%, 86%)",
+    "cmyk": "cmyk(0%,28%,22%,0%)",
+    "lightness": 86
+  },
+  {
+    "name": "海螺橙",
+    "pinyin": "hǎi luó chéng",
+    "hex": "#F0945D",
+    "rgb": "rgb(240,148,93)",
+    "hsl": "hsl(22, 83%, 65%)",
+    "cmyk": "cmyk(0%,53%,65%,0%)",
+    "lightness": 65
+  },
+  {
+    "name": "桃紅",
+    "pinyin": "táo hóng",
+    "hex": "#F0ADA0",
+    "rgb": "rgb(240,173,160)",
+    "hsl": "hsl(10, 73%, 78%)",
+    "cmyk": "cmyk(0%,44%,32%,0%)",
+    "lightness": 78
+  },
+  {
+    "name": "頰紅",
+    "pinyin": "jiá hóng",
+    "hex": "#EEAA9C",
+    "rgb": "rgb(238,170,156)",
+    "hsl": "hsl(10, 71%, 77%)",
+    "cmyk": "cmyk(0%,45%,34%,0%)",
+    "lightness": 77
+  },
+  {
+    "name": "淡罌粟紅",
+    "pinyin": "dàn yīng sù hóng",
+    "hex": "#EEA08C",
+    "rgb": "rgb(238,160,140)",
+    "hsl": "hsl(12, 74%, 74%)",
+    "cmyk": "cmyk(0%,49%,41%,0%)",
+    "lightness": 74
+  },
+  {
+    "name": "晨曦紅",
+    "pinyin": "chén xī hóng",
+    "hex": "#EA8958",
+    "rgb": "rgb(234,137,88)",
+    "hsl": "hsl(20, 78%, 63%)",
+    "cmyk": "cmyk(0%,58%,67%,0%)",
+    "lightness": 63
+  },
+  {
+    "name": "蟹殼紅",
+    "pinyin": "xiè ké hóng",
+    "hex": "#F27635",
+    "rgb": "rgb(242,118,53)",
+    "hsl": "hsl(21, 88%, 58%)",
+    "cmyk": "cmyk(0%,65%,80%,0%)",
+    "lightness": 58
+  },
+  {
+    "name": "金蓮花橙",
+    "pinyin": "jīn lián huā chéng",
+    "hex": "#F86B1D",
+    "rgb": "rgb(248,107,29)",
+    "hsl": "hsl(21, 94%, 54%)",
+    "cmyk": "cmyk(0%,69%,86%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "草莓紅",
+    "pinyin": "cǎo méi hóng",
+    "hex": "#EF6F48",
+    "rgb": "rgb(239,111,72)",
+    "hsl": "hsl(14, 84%, 61%)",
+    "cmyk": "cmyk(0%,69%,70%,0%)",
+    "lightness": 61
+  },
+  {
+    "name": "龍睛魚紅",
+    "pinyin": "lóng jīng yú hóng",
+    "hex": "#EF632B",
+    "rgb": "rgb(239,99,43)",
+    "hsl": "hsl(17, 86%, 55%)",
+    "cmyk": "cmyk(0%,72%,82%,0%)",
+    "lightness": 55
+  },
+  {
+    "name": "蜻蜓紅",
+    "pinyin": "qīng tíng hóng",
+    "hex": "#F1441D",
+    "rgb": "rgb(241,68,29)",
+    "hsl": "hsl(11, 88%, 53%)",
+    "cmyk": "cmyk(0%,81%,84%,0%)",
+    "lightness": 53
+  },
+  {
+    "name": "大紅",
+    "pinyin": "dà hóng",
+    "hex": "#F04B22",
+    "rgb": "rgb(240,75,34)",
+    "hsl": "hsl(12, 87%, 54%)",
+    "cmyk": "cmyk(0%,80%,83%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "柿紅",
+    "pinyin": "shì hóng",
+    "hex": "#F2481B",
+    "rgb": "rgb(242,72,27)",
+    "hsl": "hsl(13, 89%, 53%)",
+    "cmyk": "cmyk(0%,80%,85%,0%)",
+    "lightness": 53
+  },
+  {
+    "name": "榴花紅",
+    "pinyin": "liú huā hóng",
+    "hex": "#F34718",
+    "rgb": "rgb(243,71,24)",
+    "hsl": "hsl(13, 90%, 52%)",
+    "cmyk": "cmyk(0%,80%,85%,0%)",
+    "lightness": 52
+  },
+  {
+    "name": "銀硃",
+    "pinyin": "yín zhū",
+    "hex": "#F43E06",
+    "rgb": "rgb(244,62,6)",
+    "hsl": "hsl(14, 95%, 49%)",
+    "cmyk": "cmyk(0%,83%,87%,0%)",
+    "lightness": 49
+  },
+  {
+    "name": "朱紅",
+    "pinyin": "zhū hóng",
+    "hex": "#ED5126",
+    "rgb": "rgb(237,81,38)",
+    "hsl": "hsl(13, 85%, 54%)",
+    "cmyk": "cmyk(0%,78%,83%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "鮭魚紅",
+    "pinyin": "guī yú hóng",
+    "hex": "#F09C5A",
+    "rgb": "rgb(240,156,90)",
+    "hsl": "hsl(26, 83%, 65%)",
+    "cmyk": "cmyk(0%,50%,68%,0%)",
+    "lightness": 65
+  },
+  {
+    "name": "鹿皮褐",
+    "pinyin": "lù pí hè",
+    "hex": "#D99156",
+    "rgb": "rgb(217,145,86)",
+    "hsl": "hsl(27, 63%, 59%)",
+    "cmyk": "cmyk(7%,52%,71%,1%)",
+    "lightness": 59
+  },
+  {
+    "name": "醉瓜肉",
+    "pinyin": "zuì guā ròu",
+    "hex": "#DB8540",
+    "rgb": "rgb(219,133,64)",
+    "hsl": "hsl(27, 68%, 55%)",
+    "cmyk": "cmyk(4%,57%,82%,1%)",
+    "lightness": 55
+  },
+  {
+    "name": "麂棕",
+    "pinyin": "jǐ zōng",
+    "hex": "#DE7622",
+    "rgb": "rgb(222,118,34)",
+    "hsl": "hsl(27, 74%, 50%)",
+    "cmyk": "cmyk(0%,64%,93%,0%)",
+    "lightness": 50
+  },
+  {
+    "name": "淡赭",
+    "pinyin": "dàn zhě",
+    "hex": "#BE7E4A",
+    "rgb": "rgb(190,126,74)",
+    "hsl": "hsl(27, 47%, 52%)",
+    "cmyk": "cmyk(18%,57%,76%,6%)",
+    "lightness": 52
+  },
+  {
+    "name": "檳榔綜",
+    "pinyin": "bīng láng zōng",
+    "hex": "#C1651A",
+    "rgb": "rgb(193,101,26)",
+    "hsl": "hsl(27, 76%, 43%)",
+    "cmyk": "cmyk(14%,69%,100%,4%)",
+    "lightness": 43
+  },
+  {
+    "name": "淡咖啡",
+    "pinyin": "dàn kā fēi",
+    "hex": "#945833",
+    "rgb": "rgb(148,88,51)",
+    "hsl": "hsl(23, 49%, 39%)",
+    "cmyk": "cmyk(27%,69%,85%,22%)",
+    "lightness": 39
+  },
+  {
+    "name": "岩石棕",
+    "pinyin": "yán shí zōng",
+    "hex": "#964D22",
+    "rgb": "rgb(150,77,34)",
+    "hsl": "hsl(22, 63%, 36%)",
+    "cmyk": "cmyk(26%,76%,97%,20%)",
+    "lightness": 36
+  },
+  {
+    "name": "芒果棕",
+    "pinyin": "máng guǒ zōng",
+    "hex": "#954416",
+    "rgb": "rgb(149,68,22)",
+    "hsl": "hsl(22, 74%, 34%)",
+    "cmyk": "cmyk(25%,80%,100%,20%)",
+    "lightness": 34
+  },
+  {
+    "name": "丁香棕",
+    "pinyin": "dīng xiāng zōng",
+    "hex": "#71361D",
+    "rgb": "rgb(113,54,29)",
+    "hsl": "hsl(18, 59%, 28%)",
+    "cmyk": "cmyk(32%,83%,96%,41%)",
+    "lightness": 28
+  },
+  {
+    "name": "咖啡",
+    "pinyin": "kā fēi",
+    "hex": "#753117",
+    "rgb": "rgb(117,49,23)",
+    "hsl": "hsl(17, 67%, 27%)",
+    "cmyk": "cmyk(30%,87%,100%,38%)",
+    "lightness": 27
+  },
+  {
+    "name": "筍皮棕",
+    "pinyin": "sǔn pí zōng",
+    "hex": "#732E12",
+    "rgb": "rgb(115,46,18)",
+    "hsl": "hsl(17, 73%, 26%)",
+    "cmyk": "cmyk(30%,89%,100%,39%)",
+    "lightness": 26
+  },
+  {
+    "name": "燕頷紅",
+    "pinyin": "yàn hàn hóng",
+    "hex": "#FC6315",
+    "rgb": "rgb(252,99,21)",
+    "hsl": "hsl(20, 97%, 54%)",
+    "cmyk": "cmyk(0%,72%,86%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "玉粉紅",
+    "pinyin": "yù fěn hóng",
+    "hex": "#E8B49A",
+    "rgb": "rgb(232,180,154)",
+    "hsl": "hsl(20, 63%, 76%)",
+    "cmyk": "cmyk(3%,38%,39%,0%)",
+    "lightness": 76
+  },
+  {
+    "name": "金駝",
+    "pinyin": "jīn tuó",
+    "hex": "#E46828",
+    "rgb": "rgb(228,104,40)",
+    "hsl": "hsl(20, 78%, 53%)",
+    "cmyk": "cmyk(0%,70%,87%,0%)",
+    "lightness": 53
+  },
+  {
+    "name": "鐵棕",
+    "pinyin": "tiě zōng",
+    "hex": "#D85916",
+    "rgb": "rgb(216,89,22)",
+    "hsl": "hsl(21, 82%, 47%)",
+    "cmyk": "cmyk(0%,76%,97%,0%)",
+    "lightness": 47
+  },
+  {
+    "name": "淡可可棕",
+    "pinyin": "dàn kě kě zōng",
+    "hex": "#B7511D",
+    "rgb": "rgb(183,81,29)",
+    "hsl": "hsl(20, 73%, 42%)",
+    "cmyk": "cmyk(16%,77%,100%,6%)",
+    "lightness": 42
+  },
+  {
+    "name": "淡豆沙",
+    "pinyin": "dàn dòu shā",
+    "hex": "#873D24",
+    "rgb": "rgb(135,61,36)",
+    "hsl": "hsl(15, 58%, 34%)",
+    "cmyk": "cmyk(28%,83%,92%,28%)",
+    "lightness": 34
+  },
+  {
+    "name": "椰殼棕",
+    "pinyin": "yē ké zōng",
+    "hex": "#883A1E",
+    "rgb": "rgb(136,58,30)",
+    "hsl": "hsl(16, 64%, 33%)",
+    "cmyk": "cmyk(27%,85%,98%,27%)",
+    "lightness": 33
+  },
+  {
+    "name": "淡慄棕",
+    "pinyin": "dàn lì zōng",
+    "hex": "#673424",
+    "rgb": "rgb(103,52,36)",
+    "hsl": "hsl(14, 48%, 27%)",
+    "cmyk": "cmyk(34%,82%,85%,47%)",
+    "lightness": 27
+  },
+  {
+    "name": "可可棕",
+    "pinyin": "kě kě zōng",
+    "hex": "#652B1C",
+    "rgb": "rgb(101,43,28)",
+    "hsl": "hsl(12, 57%, 25%)",
+    "cmyk": "cmyk(33%,89%,92%,48%)",
+    "lightness": 25
+  },
+  {
+    "name": "柞葉棕",
+    "pinyin": "zhà yè zōng",
+    "hex": "#692A1B",
+    "rgb": "rgb(105,42,27)",
+    "hsl": "hsl(12, 59%, 26%)",
+    "cmyk": "cmyk(32%,90%,95%,45%)",
+    "lightness": 26
+  },
+  {
+    "name": "野薔薇紅",
+    "pinyin": "yě qiáng wēi hóng",
+    "hex": "#FB9968",
+    "rgb": "rgb(251,153,104)",
+    "hsl": "hsl(20, 95%, 70%)",
+    "cmyk": "cmyk(0%,53%,59%,0%)",
+    "lightness": 70
+  },
+  {
+    "name": "菠蘿紅",
+    "pinyin": "bō luó hóng",
+    "hex": "#FC7930",
+    "rgb": "rgb(252,121,48)",
+    "hsl": "hsl(21, 97%, 59%)",
+    "cmyk": "cmyk(0%,65%,79%,0%)",
+    "lightness": 59
+  },
+  {
+    "name": "藕荷",
+    "pinyin": "ǒu hé",
+    "hex": "#EDC3AE",
+    "rgb": "rgb(237,195,174)",
+    "hsl": "hsl(20, 64%, 81%)",
+    "cmyk": "cmyk(2%,31%,31%,0%)",
+    "lightness": 81
+  },
+  {
+    "name": "陶瓷紅",
+    "pinyin": "táo cí hóng",
+    "hex": "#E16723",
+    "rgb": "rgb(225,103,35)",
+    "hsl": "hsl(21, 76%, 51%)",
+    "cmyk": "cmyk(0%,70%,91%,0%)",
+    "lightness": 51
+  },
+  {
+    "name": "餘燼紅",
+    "pinyin": "yú jìn hóng",
+    "hex": "#CF7543",
+    "rgb": "rgb(207,117,67)",
+    "hsl": "hsl(21, 59%, 54%)",
+    "cmyk": "cmyk(9%,64%,78%,1%)",
+    "lightness": 54
+  },
+  {
+    "name": "火磚紅",
+    "pinyin": "huǒ zhuān hóng",
+    "hex": "#CD6227",
+    "rgb": "rgb(205,98,39)",
+    "hsl": "hsl(21, 68%, 48%)",
+    "cmyk": "cmyk(8%,72%,93%,1%)",
+    "lightness": 48
+  },
+  {
+    "name": "紺紅",
+    "pinyin": "gàn hóng",
+    "hex": "#AA6A4C",
+    "rgb": "rgb(170,106,76)",
+    "hsl": "hsl(19, 38%, 48%)",
+    "cmyk": "cmyk(20%,76%,92%,9%)",
+    "lightness": 48
+  },
+  {
+    "name": "橡樹棕",
+    "pinyin": "xiàng shù zōng",
+    "hex": "#773D31",
+    "rgb": "rgb(119,61,49)",
+    "hsl": "hsl(10, 42%, 33%)",
+    "cmyk": "cmyk(31%,79%,77%,37%)",
+    "lightness": 33
+  },
+  {
+    "name": "火山棕",
+    "pinyin": "huǒ shān zōng",
+    "hex": "#482522",
+    "rgb": "rgb(72,37,34)",
+    "hsl": "hsl(5, 36%, 21%)",
+    "cmyk": "cmyk(41%,84%,71%,67%)",
+    "lightness": 21
+  },
+  {
+    "name": "豆沙",
+    "pinyin": "dòu shā",
+    "hex": "#481E1C",
+    "rgb": "rgb(72,30,28)",
+    "hsl": "hsl(3, 44%, 20%)",
+    "cmyk": "cmyk(40%,92%,78%,66%)",
+    "lightness": 20
+  },
+  {
+    "name": "初桃粉紅",
+    "pinyin": "chū táo fěn hóng",
+    "hex": "#F6DCCE",
+    "rgb": "rgb(246,220,206)",
+    "hsl": "hsl(21, 69%, 89%)",
+    "cmyk": "cmyk(0%,19%,19%,0%)",
+    "lightness": 89
+  },
+  {
+    "name": "介殼淡粉紅",
+    "pinyin": "jiè ké dàn fěn hóng",
+    "hex": "#F7CFBA",
+    "rgb": "rgb(247,207,186)",
+    "hsl": "hsl(21, 79%, 85%)",
+    "cmyk": "cmyk(0%,27%,27%,0%)",
+    "lightness": 85
+  },
+  {
+    "name": "淡藏花紅",
+    "pinyin": "dàn cáng huā hóng",
+    "hex": "#F6AD8F",
+    "rgb": "rgb(246,173,143)",
+    "hsl": "hsl(17, 85%, 76%)",
+    "cmyk": "cmyk(0%,43%,43%,0%)",
+    "lightness": 76
+  },
+  {
+    "name": "瓜瓤紅",
+    "pinyin": "guā ráng hóng",
+    "hex": "#F68C60",
+    "rgb": "rgb(246,140,96)",
+    "hsl": "hsl(18, 89%, 67%)",
+    "cmyk": "cmyk(0%,58%,61%,0%)",
+    "lightness": 67
+  },
+  {
+    "name": "芙蓉紅",
+    "pinyin": "fú róng hóng",
+    "hex": "#F9723D",
+    "rgb": "rgb(249,114,61)",
+    "hsl": "hsl(17, 94%, 61%)",
+    "cmyk": "cmyk(0%,67%,74%,0%)",
+    "lightness": 61
+  },
+  {
+    "name": "莓醬紅",
+    "pinyin": "méi jiàng hóng",
+    "hex": "#FA5D19",
+    "rgb": "rgb(250,93,25)",
+    "hsl": "hsl(18, 96%, 54%)",
+    "cmyk": "cmyk(0%,74%,85%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "法螺紅",
+    "pinyin": "fǎ luó hóng",
+    "hex": "#EE8055",
+    "rgb": "rgb(238,128,85)",
+    "hsl": "hsl(17, 82%, 63%)",
+    "cmyk": "cmyk(0%,62%,66%,0%)",
+    "lightness": 63
+  },
+  {
+    "name": "落霞紅",
+    "pinyin": "luò xiá hóng",
+    "hex": "#CF4813",
+    "rgb": "rgb(207,72,19)",
+    "hsl": "hsl(17, 83%, 44%)",
+    "cmyk": "cmyk(4%,82%,99%,0%)",
+    "lightness": 44
+  },
+  {
+    "name": "蟹蝥紅",
+    "pinyin": "xiè máo hóng",
+    "hex": "#B14B28",
+    "rgb": "rgb(177,75,40)",
+    "hsl": "hsl(15, 63%, 43%)",
+    "cmyk": "cmyk(18%,80%,92%,7%)",
+    "lightness": 43
+  },
+  {
+    "name": "火岩棕",
+    "pinyin": "huǒ yán zōng",
+    "hex": "#863020",
+    "rgb": "rgb(134,48,32)",
+    "hsl": "hsl(9, 61%, 33%)",
+    "cmyk": "cmyk(27%,91%,95%,28%)",
+    "lightness": 33
+  },
+  {
+    "name": "赭石",
+    "pinyin": "zhě shí",
+    "hex": "#862617",
+    "rgb": "rgb(134,38,23)",
+    "hsl": "hsl(8, 71%, 31%)",
+    "cmyk": "cmyk(27%,96%,100%,27%)",
+    "lightness": 31
+  },
+  {
+    "name": "暗駝棕",
+    "pinyin": "àn tuó zōng",
+    "hex": "#592620",
+    "rgb": "rgb(89,38,32)",
+    "hsl": "hsl(6, 47%, 24%)",
+    "cmyk": "cmyk(36%,90%,82%,56%)",
+    "lightness": 24
+  },
+  {
+    "name": "醬棕",
+    "pinyin": "jiàng zōng",
+    "hex": "#5A1F1B",
+    "rgb": "rgb(90,31,27)",
+    "hsl": "hsl(4, 54%, 23%)",
+    "cmyk": "cmyk(35%,96%,88%,55%)",
+    "lightness": 23
+  },
+  {
+    "name": "慄棕",
+    "pinyin": "lì zōng",
+    "hex": "#5C1E19",
+    "rgb": "rgb(92,30,25)",
+    "hsl": "hsl(4, 57%, 23%)",
+    "cmyk": "cmyk(34%,98%,91%,53%)",
+    "lightness": 23
+  },
+  {
+    "name": "谷鞘紅",
+    "pinyin": "gǔ qiào hóng",
+    "hex": "#F17666",
+    "rgb": "rgb(241,118,102)",
+    "hsl": "hsl(7, 83%, 67%)",
+    "cmyk": "cmyk(0%,67%,55%,0%)",
+    "lightness": 67
+  },
+  {
+    "name": "蘋果紅",
+    "pinyin": "píng guǒ hóng",
+    "hex": "#F15642",
+    "rgb": "rgb(241,86,66)",
+    "hsl": "hsl(7, 86%, 60%)",
+    "cmyk": "cmyk(0%,77%,69%,0%)",
+    "lightness": 60
+  },
+  {
+    "name": "鐵水紅",
+    "pinyin": "tiě shuǐ hóng",
+    "hex": "#F5391C",
+    "rgb": "rgb(245,57,28)",
+    "hsl": "hsl(8, 92%, 54%)",
+    "cmyk": "cmyk(0%,84%,82%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "桂紅",
+    "pinyin": "guì hóng",
+    "hex": "#F25A47",
+    "rgb": "rgb(242,90,71)",
+    "hsl": "hsl(7, 87%, 61%)",
+    "cmyk": "cmyk(0%,76%,67%,0%)",
+    "lightness": 61
+  },
+  {
+    "name": "極光紅",
+    "pinyin": "jí guāng hóng",
+    "hex": "#F33B1F",
+    "rgb": "rgb(243,59,31)",
+    "hsl": "hsl(8, 90%, 54%)",
+    "cmyk": "cmyk(0%,84%,82%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "舌紅",
+    "pinyin": "shé hóng",
+    "hex": "#F19790",
+    "rgb": "rgb(241,151,144)",
+    "hsl": "hsl(4, 78%, 75%)",
+    "cmyk": "cmyk(0%,53%,36%,0%)",
+    "lightness": 75
+  },
+  {
+    "name": "曲紅",
+    "pinyin": "qū hóng",
+    "hex": "#F05A46",
+    "rgb": "rgb(240,90,70)",
+    "hsl": "hsl(7, 85%, 61%)",
+    "cmyk": "cmyk(0%,76%,68%,0%)",
+    "lightness": 61
+  },
+  {
+    "name": "紅汞紅",
+    "pinyin": "hóng gǒng hóng",
+    "hex": "#F23E23",
+    "rgb": "rgb(242,62,35)",
+    "hsl": "hsl(8, 89%, 54%)",
+    "cmyk": "cmyk(0%,83%,81%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "淡緋",
+    "pinyin": "dàn fēi",
+    "hex": "#F2CAC9",
+    "rgb": "rgb(242,202,201)",
+    "hsl": "hsl(1, 61%, 87%)",
+    "cmyk": "cmyk(0%,29%,16%,0%)",
+    "lightness": 87
+  },
+  {
+    "name": "無花果紅",
+    "pinyin": "wú huā guǒ hóng",
+    "hex": "#EFAFAD",
+    "rgb": "rgb(239,175,173)",
+    "hsl": "hsl(2, 67%, 81%)",
+    "cmyk": "cmyk(0%,43%,24%,0%)",
+    "lightness": 81
+  },
+  {
+    "name": "榴子紅",
+    "pinyin": "liú zi hóng",
+    "hex": "#F1908C",
+    "rgb": "rgb(241,144,140)",
+    "hsl": "hsl(2, 78%, 75%)",
+    "cmyk": "cmyk(0%,57%,36%,0%)",
+    "lightness": 75
+  },
+  {
+    "name": "胭脂紅",
+    "pinyin": "yān zhī hóng",
+    "hex": "#F03F24",
+    "rgb": "rgb(240,63,36)",
+    "hsl": "hsl(8, 87%, 54%)",
+    "cmyk": "cmyk(0%,83%,81%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "合歡紅",
+    "pinyin": "hé huān hóng",
+    "hex": "#F0A1A8",
+    "rgb": "rgb(240,161,168)",
+    "hsl": "hsl(355, 72%, 79%)",
+    "cmyk": "cmyk(0%,50%,23%,0%)",
+    "lightness": 79
+  },
+  {
+    "name": "春梅紅",
+    "pinyin": "chūn méi hóng",
+    "hex": "#F1939C",
+    "rgb": "rgb(241,147,156)",
+    "hsl": "hsl(354, 77%, 76%)",
+    "cmyk": "cmyk(0%,56%,27%,0%)",
+    "lightness": 76
+  },
+  {
+    "name": "香葉紅",
+    "pinyin": "xiāng yè hóng",
+    "hex": "#F07C82",
+    "rgb": "rgb(240,124,130)",
+    "hsl": "hsl(357, 79%, 71%)",
+    "cmyk": "cmyk(0%,65%,38%,0%)",
+    "lightness": 71
+  },
+  {
+    "name": "珊瑚紅",
+    "pinyin": "shān hú hóng",
+    "hex": "#F04A3A",
+    "rgb": "rgb(240,74,58)",
+    "hsl": "hsl(5, 86%, 58%)",
+    "cmyk": "cmyk(0%,80%,72%,0%)",
+    "lightness": 58
+  },
+  {
+    "name": "蘿蔔紅",
+    "pinyin": "luó bo hóng",
+    "hex": "#F13C22",
+    "rgb": "rgb(241,60,34)",
+    "hsl": "hsl(8, 88%, 54%)",
+    "cmyk": "cmyk(0%,84%,82%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "淡茜紅",
+    "pinyin": "dàn qiàn hóng",
+    "hex": "#E77C8E",
+    "rgb": "rgb(231,124,142)",
+    "hsl": "hsl(350, 69%, 70%)",
+    "cmyk": "cmyk(0%,65%,29%,0%)",
+    "lightness": 70
+  },
+  {
+    "name": "艷紅",
+    "pinyin": "yàn hóng",
+    "hex": "#ED5A65",
+    "rgb": "rgb(237,90,101)",
+    "hsl": "hsl(356, 80%, 64%)",
+    "cmyk": "cmyk(0%,77%,49%,0%)",
+    "lightness": 64
+  },
+  {
+    "name": "淡菽紅",
+    "pinyin": "dàn shū hóng",
+    "hex": "#ED4845",
+    "rgb": "rgb(237,72,69)",
+    "hsl": "hsl(1, 82%, 60%)",
+    "cmyk": "cmyk(0%,81%,66%,0%)",
+    "lightness": 60
+  },
+  {
+    "name": "魚鰓紅",
+    "pinyin": "yú sāi hóng",
+    "hex": "#ED3B2F",
+    "rgb": "rgb(237,59,47)",
+    "hsl": "hsl(4, 84%, 56%)",
+    "cmyk": "cmyk(0%,84%,76%,0%)",
+    "lightness": 56
+  },
+  {
+    "name": "櫻桃紅",
+    "pinyin": "yīng táo hóng",
+    "hex": "#ED3321",
+    "rgb": "rgb(237,51,33)",
+    "hsl": "hsl(5, 85%, 53%)",
+    "cmyk": "cmyk(0%,86%,82%,0%)",
+    "lightness": 53
+  },
+  {
+    "name": "淡蕊香紅",
+    "pinyin": "dàn ruǐ xiāng hóng",
+    "hex": "#EE4866",
+    "rgb": "rgb(238,72,102)",
+    "hsl": "hsl(349, 83%, 61%)",
+    "cmyk": "cmyk(0%,82%,44%,0%)",
+    "lightness": 61
+  },
+  {
+    "name": "石竹紅",
+    "pinyin": "shí zhú hóng",
+    "hex": "#EE4863",
+    "rgb": "rgb(238,72,99)",
+    "hsl": "hsl(350, 83%, 61%)",
+    "cmyk": "cmyk(0%,82%,46%,0%)",
+    "lightness": 61
+  },
+  {
+    "name": "草茉莉紅",
+    "pinyin": "cǎo mò lì hóng",
+    "hex": "#EF475D",
+    "rgb": "rgb(239,71,93)",
+    "hsl": "hsl(352, 84%, 61%)",
+    "cmyk": "cmyk(0%,82%,50%,0%)",
+    "lightness": 61
+  },
+  {
+    "name": "茶花紅",
+    "pinyin": "chá huā hóng",
+    "hex": "#EE3F4D",
+    "rgb": "rgb(238,63,77)",
+    "hsl": "hsl(355, 84%, 59%)",
+    "cmyk": "cmyk(0%,84%,60%,0%)",
+    "lightness": 59
+  },
+  {
+    "name": "枸樞紅",
+    "pinyin": "gǒu shū hóng",
+    "hex": "#ED3333",
+    "rgb": "rgb(237,51,51)",
+    "hsl": "hsl(0, 84%, 56%)",
+    "cmyk": "cmyk(0%,86%,74%,0%)",
+    "lightness": 56
+  },
+  {
+    "name": "秋海棠紅",
+    "pinyin": "qiū hǎi táng hóng",
+    "hex": "#EC2B24",
+    "rgb": "rgb(236,43,36)",
+    "hsl": "hsl(2, 84%, 53%)",
+    "cmyk": "cmyk(0%,88%,81%,0%)",
+    "lightness": 53
+  },
+  {
+    "name": "麗春紅",
+    "pinyin": "lì chūn hóng",
+    "hex": "#EB261A",
+    "rgb": "rgb(235,38,26)",
+    "hsl": "hsl(3, 84%, 51%)",
+    "cmyk": "cmyk(0%,89%,84%,0%)",
+    "lightness": 51
+  },
+  {
+    "name": "夕陽紅",
+    "pinyin": "xī yáng hóng",
+    "hex": "#DE2A18",
+    "rgb": "rgb(222,42,24)",
+    "hsl": "hsl(5, 80%, 48%)",
+    "cmyk": "cmyk(0%,90%,90%,0%)",
+    "lightness": 48
+  },
+  {
+    "name": "鶴頂紅",
+    "pinyin": "hè dǐng hóng",
+    "hex": "#D42517",
+    "rgb": "rgb(212,37,23)",
+    "hsl": "hsl(4, 80%, 46%)",
+    "cmyk": "cmyk(0%,92%,95%,0%)",
+    "lightness": 46
+  },
+  {
+    "name": "鵝血石紅",
+    "pinyin": "é xuè shí hóng",
+    "hex": "#AB372F",
+    "rgb": "rgb(171,55,47)",
+    "hsl": "hsl(4, 57%, 43%)",
+    "cmyk": "cmyk(19%,89%,85%,9%)",
+    "lightness": 43
+  },
+  {
+    "name": "覆盆子紅",
+    "pinyin": "fù pén zi hóng",
+    "hex": "#AC1F18",
+    "rgb": "rgb(172,31,24)",
+    "hsl": "hsl(3, 76%, 38%)",
+    "cmyk": "cmyk(17%,98%,100%,8%)",
+    "lightness": 38
+  },
+  {
+    "name": "牡丹粉紅",
+    "pinyin": "mǔ dān fěn hóng",
+    "hex": "#EEA2A4",
+    "rgb": "rgb(238,162,164)",
+    "hsl": "hsl(358, 69%, 78%)",
+    "cmyk": "cmyk(0%,49%,27%,0%)",
+    "lightness": 78
+  },
+  {
+    "name": "山茶紅",
+    "pinyin": "shān chá hóng",
+    "hex": "#ED556A",
+    "rgb": "rgb(237,85,106)",
+    "hsl": "hsl(352, 81%, 63%)",
+    "cmyk": "cmyk(0%,78%,44%,0%)",
+    "lightness": 63
+  },
+  {
+    "name": "海棠紅",
+    "pinyin": "hǎi táng hóng",
+    "hex": "#F03752",
+    "rgb": "rgb(240,55,82)",
+    "hsl": "hsl(351, 86%, 58%)",
+    "cmyk": "cmyk(0%,86%,55%,0%)",
+    "lightness": 58
+  },
+  {
+    "name": "玉紅",
+    "pinyin": "yù hóng",
+    "hex": "#C04851",
+    "rgb": "rgb(192,72,81)",
+    "hsl": "hsl(356, 49%, 52%)",
+    "cmyk": "cmyk(13%,83%,62%,3%)",
+    "lightness": 52
+  },
+  {
+    "name": "高粱紅",
+    "pinyin": "gāo liáng hóng",
+    "hex": "#C02C38",
+    "rgb": "rgb(192,44,56)",
+    "hsl": "hsl(355, 63%, 46%)",
+    "cmyk": "cmyk(11%,93%,77%,2%)",
+    "lightness": 46
+  },
+  {
+    "name": "滿江紅",
+    "pinyin": "mǎn jiāng hóng",
+    "hex": "#A7535A",
+    "rgb": "rgb(167,83,90)",
+    "hsl": "hsl(355, 34%, 49%)",
+    "cmyk": "cmyk(22%,76%,54%,12%)",
+    "lightness": 49
+  },
+  {
+    "name": "棗紅",
+    "pinyin": "zǎo hóng",
+    "hex": "#7C1823",
+    "rgb": "rgb(124,24,35)",
+    "hsl": "hsl(353, 68%, 29%)",
+    "cmyk": "cmyk(28%,100%,86%,33%)",
+    "lightness": 29
+  },
+  {
+    "name": "淡曙紅",
+    "pinyin": "dàn shǔ hóng",
+    "hex": "#EE2746",
+    "rgb": "rgb(238,39,70)",
+    "hsl": "hsl(351, 85%, 54%)",
+    "cmyk": "cmyk(0%,89%,62%,0%)",
+    "lightness": 54
+  },
+  {
+    "name": "唐菖蒲紅",
+    "pinyin": "táng chāng pú hóng",
+    "hex": "#DE1C31",
+    "rgb": "rgb(222,28,49)",
+    "hsl": "hsl(354, 78%, 49%)",
+    "cmyk": "cmyk(0%,93%,76%,0%)",
+    "lightness": 49
+  },
+  {
+    "name": "鵝冠紅",
+    "pinyin": "é guān hóng",
+    "hex": "#D11A2D",
+    "rgb": "rgb(209,26,45)",
+    "hsl": "hsl(354, 78%, 46%)",
+    "cmyk": "cmyk(1%,95%,82%,0%)",
+    "lightness": 46
+  },
+  {
+    "name": "莓紅",
+    "pinyin": "méi hóng",
+    "hex": "#C45A65",
+    "rgb": "rgb(196,90,101)",
+    "hsl": "hsl(354, 47%, 56%)",
+    "cmyk": "cmyk(13%,76%,50%,2%)",
+    "lightness": 56
+  },
+  {
+    "name": "楓葉紅",
+    "pinyin": "fēng yè hóng",
+    "hex": "#C21F30",
+    "rgb": "rgb(194,31,48)",
+    "hsl": "hsl(354, 72%, 44%)",
+    "cmyk": "cmyk(10%,96%,82%,2%)",
+    "lightness": 44
+  },
+  {
+    "name": "莧菜紅",
+    "pinyin": "xiàn cài hóng",
+    "hex": "#A61B29",
+    "rgb": "rgb(166,27,41)",
+    "hsl": "hsl(354, 72%, 38%)",
+    "cmyk": "cmyk(19%,99%,86%,11%)",
+    "lightness": 38
+  },
+  {
+    "name": "煙紅",
+    "pinyin": "yān hóng",
+    "hex": "#894E54",
+    "rgb": "rgb(137,78,84)",
+    "hsl": "hsl(354, 27%, 42%)",
+    "cmyk": "cmyk(29%,73%,51%,28%)",
+    "lightness": 42
+  },
+  {
+    "name": "暗紫苑紅",
+    "pinyin": "àn zǐ yuàn hóng",
+    "hex": "#82202B",
+    "rgb": "rgb(130,32,43)",
+    "hsl": "hsl(353, 60%, 32%)",
+    "cmyk": "cmyk(27%,98%,79%,30%)",
+    "lightness": 32
+  },
+  {
+    "name": "殷紅",
+    "pinyin": "yān hóng",
+    "hex": "#82111F",
+    "rgb": "rgb(130,17,31)",
+    "hsl": "hsl(353, 77%, 29%)",
+    "cmyk": "cmyk(27%,100%,90%,29%)",
+    "lightness": 29
+  },
+  {
+    "name": "淡絳紅",
+    "pinyin": "dàn jiàng hóng",
+    "hex": "#EC7696",
+    "rgb": "rgb(236,118,150)",
+    "hsl": "hsl(344, 76%, 69%)",
+    "cmyk": "cmyk(0%,68%,21%,0%)",
+    "lightness": 69
+  },
+  {
+    "name": "品紅",
+    "pinyin": "pǐn hóng",
+    "hex": "#EF3473",
+    "rgb": "rgb(239,52,115)",
+    "hsl": "hsl(340, 85%, 57%)",
+    "cmyk": "cmyk(0%,86%,30%,0%)",
+    "lightness": 57
+  },
+  {
+    "name": "鳳仙花紅",
+    "pinyin": "fèng xiān huā hóng",
+    "hex": "#EA7293",
+    "rgb": "rgb(234,114,147)",
+    "hsl": "hsl(344, 74%, 68%)",
+    "cmyk": "cmyk(0%,69%,22%,0%)",
+    "lightness": 68
+  },
+  {
+    "name": "粉團花紅",
+    "pinyin": "fěn tuán huā hóng",
+    "hex": "#EC9BAD",
+    "rgb": "rgb(236,155,173)",
+    "hsl": "hsl(347, 68%, 77%)",
+    "cmyk": "cmyk(0%,52%,18%,0%)",
+    "lightness": 77
+  },
+  {
+    "name": "夾竹桃紅",
+    "pinyin": "jiā zhú táo hóng",
+    "hex": "#EB507E",
+    "rgb": "rgb(235,80,126)",
+    "hsl": "hsl(342, 79%, 62%)",
+    "cmyk": "cmyk(0%,80%,28%,0%)",
+    "lightness": 62
+  },
+  {
+    "name": "榲桲舡",
+    "pinyin": "wēn po chuán",
+    "hex": "#ED2F6A",
+    "rgb": "rgb(237,47,106)",
+    "hsl": "hsl(341, 84%, 56%)",
+    "cmyk": "cmyk(0%,88%,36%,0%)",
+    "lightness": 56
+  },
+  {
+    "name": "薑紅",
+    "pinyin": "jiāng hóng",
+    "hex": "#EEB8C3",
+    "rgb": "rgb(238,184,195)",
+    "hsl": "hsl(348, 61%, 83%)",
+    "cmyk": "cmyk(0%,39%,14%,0%)",
+    "lightness": 83
+  },
+  {
+    "name": "蓮瓣紅",
+    "pinyin": "lián bàn hóng",
+    "hex": "#EA517F",
+    "rgb": "rgb(234,81,127)",
+    "hsl": "hsl(342, 78%, 62%)",
+    "cmyk": "cmyk(0%,80%,27%,0%)",
+    "lightness": 62
+  },
+  {
+    "name": "水紅",
+    "pinyin": "shuǐ hóng",
+    "hex": "#F1C4CD",
+    "rgb": "rgb(241,196,205)",
+    "hsl": "hsl(348, 62%, 86%)",
+    "cmyk": "cmyk(0%,33%,11%,0%)",
+    "lightness": 86
+  },
+  {
+    "name": "報春紅",
+    "pinyin": "bào chūn hóng",
+    "hex": "#EC8AA4",
+    "rgb": "rgb(236,138,164)",
+    "hsl": "hsl(344, 72%, 73%)",
+    "cmyk": "cmyk(0%,60%,18%,0%)",
+    "lightness": 73
+  },
+  {
+    "name": "月季紅",
+    "pinyin": "yuè jì hóng",
+    "hex": "#CE5777",
+    "rgb": "rgb(206,87,109)",
+    "hsl": "hsl(344, 55%, 57%)",
+    "cmyk": "cmyk(8%,78%,35%,1%)",
+    "lightness": 57
+  },
+  {
+    "name": "豇豆紅",
+    "pinyin": "jiāng dòu hóng",
+    "hex": "#ED9DB2",
+    "rgb": "rgb(237,157,178)",
+    "hsl": "hsl(344, 69%, 77%)",
+    "cmyk": "cmyk(0%,52%,15%,0%)",
+    "lightness": 77
+  },
+  {
+    "name": "霞光紅",
+    "pinyin": "xiá guāng hóng",
+    "hex": "#EF82A0",
+    "rgb": "rgb(239,130,160)",
+    "hsl": "hsl(343, 77%, 72%)",
+    "cmyk": "cmyk(0%,63%,18%,0%)",
+    "lightness": 72
+  },
+  {
+    "name": "松葉牡丹紅",
+    "pinyin": "sōng yè mǔ dān hóng",
+    "hex": "#EB3C70",
+    "rgb": "rgb(235,60,112)",
+    "hsl": "hsl(342, 81%, 58%)",
+    "cmyk": "cmyk(0%,85%,33%,0%)",
+    "lightness": 58
+  },
+  {
+    "name": "喜蛋紅",
+    "pinyin": "xǐ dàn hóng",
+    "hex": "#EC2C64",
+    "rgb": "rgb(236,44,100)",
+    "hsl": "hsl(343, 83%, 55%)",
+    "cmyk": "cmyk(0%,88%,40%,0%)",
+    "lightness": 55
+  },
+  {
+    "name": "鼠鼻紅",
+    "pinyin": "shǔ bí hóng",
+    "hex": "#E3B4B8",
+    "rgb": "rgb(227,180,184)",
+    "hsl": "hsl(355, 46%, 80%)",
+    "cmyk": "cmyk(5%,38%,20%,0%)",
+    "lightness": 80
+  },
+  {
+    "name": "尖晶玉紅",
+    "pinyin": "jiān jīng yù hóng",
+    "hex": "#CC163A",
+    "rgb": "rgb(204,22,58)",
+    "hsl": "hsl(348, 81%, 44%)",
+    "cmyk": "cmyk(5%,96%,73%,1%)",
+    "lightness": 44
+  },
+  {
+    "name": "山黎豆紅",
+    "pinyin": "shān lí dòu hóng",
+    "hex": "#C27C88",
+    "rgb": "rgb(194,124,136)",
+    "hsl": "hsl(350, 36%, 62%)",
+    "cmyk": "cmyk(16%,61%,34%,4%)",
+    "lightness": 62
+  },
+  {
+    "name": "錦葵紅",
+    "pinyin": "jǐn kuí hóng",
+    "hex": "#BF3553",
+    "rgb": "rgb(191,53,83)",
+    "hsl": "hsl(347, 57%, 48%)",
+    "cmyk": "cmyk(13%,90%,56%,3%)",
+    "lightness": 48
+  },
+  {
+    "name": "吊鐘花紅",
+    "pinyin": "diào zhōng huā hóng",
+    "hex": "#2D0C13",
+    "rgb": "rgb(45,12,19)",
+    "hsl": "hsl(347, 58%, 11%)",
+    "cmyk": "cmyk(0%,76%,16%,0%)",
+    "lightness": 11
+  },
+  {
+    "name": "兔眼紅",
+    "pinyin": "tù yǎn hóng",
+    "hex": "#EC4E8A",
+    "rgb": "rgb(236,78,138)",
+    "hsl": "hsl(337, 81%, 62%)",
+    "cmyk": "cmyk(0%,81%,18%,0%)",
+    "lightness": 62
+  },
+  {
+    "name": "紫荊紅",
+    "pinyin": "zǐ jīng hóng",
+    "hex": "#EE2C79",
+    "rgb": "rgb(238,44,121)",
+    "hsl": "hsl(336, 85%, 55%)",
+    "cmyk": "cmyk(0%,87%,24%,0%)",
+    "lightness": 55
+  },
+  {
+    "name": "葡萄酒紅",
+    "pinyin": "pú táo jiǔ hóng",
+    "hex": "#62102E",
+    "rgb": "rgb(98,16,46)",
+    "hsl": "hsl(338, 72%, 22%)",
+    "cmyk": "cmyk(33%,100%,58%,60%)",
+    "lightness": 22
+  },
+  {
+    "name": "晶紅",
+    "pinyin": "jīng hóng",
+    "hex": "#EEA6B7",
+    "rgb": "rgb(238,166,183)",
+    "hsl": "hsl(346, 68%, 79%)",
+    "cmyk": "cmyk(0%,48%,15%,0%)",
+    "lightness": 79
+  },
+  {
+    "name": "扁豆花紅",
+    "pinyin": "biǎn dòu huā hóng",
+    "hex": "#EF498B",
+    "rgb": "rgb(239,73,139)",
+    "hsl": "hsl(336, 84%, 61%)",
+    "cmyk": "cmyk(0%,82%,16%,0%)",
+    "lightness": 61
+  },
+  {
+    "name": "白芨紅",
+    "pinyin": "bái jī hóng",
+    "hex": "#DE7897",
+    "rgb": "rgb(222,120,151)",
+    "hsl": "hsl(342, 61%, 67%)",
+    "cmyk": "cmyk(2%,66%,22%,0%)",
+    "lightness": 67
+  },
+  {
+    "name": "嫩菱紅",
+    "pinyin": "nèn líng hóng",
+    "hex": "#DE3F7C",
+    "rgb": "rgb(222,63,124)",
+    "hsl": "hsl(337, 71%, 56%)",
+    "cmyk": "cmyk(0%,85%,24%,0%)",
+    "lightness": 56
+  },
+  {
+    "name": "菠根紅",
+    "pinyin": "bō gēn hóng",
+    "hex": "#D13C74",
+    "rgb": "rgb(209,60,116)",
+    "hsl": "hsl(337, 62%, 53%)",
+    "cmyk": "cmyk(5%,87%,30%,1%)",
+    "lightness": 53
+  },
+  {
+    "name": "酢醬草紅",
+    "pinyin": "cù jiàng cǎo hóng",
+    "hex": "#C5708B",
+    "rgb": "rgb(197,112,139)",
+    "hsl": "hsl(341, 42%, 61%)",
+    "cmyk": "cmyk(15%,68%,28%,2%)",
+    "lightness": 61
+  },
+  {
+    "name": "芍藥耕紅",
+    "pinyin": "sháo yào gēng hóng",
+    "hex": "#EBA0B3",
+    "rgb": "rgb(235,160,179)",
+    "hsl": "hsl(345, 65%, 77%)",
+    "cmyk": "cmyk(0%,50%,16%,0%)",
+    "lightness": 77
+  },
+  {
+    "name": "藏花紅",
+    "pinyin": "cáng huā hóng",
+    "hex": "#EC2D7A",
+    "rgb": "rgb(236,45,122)",
+    "hsl": "hsl(336, 83%, 55%)",
+    "cmyk": "cmyk(0%,88%,23%,0%)",
+    "lightness": 55
+  },
+  {
+    "name": "初荷紅",
+    "pinyin": "chū hé hóng",
+    "hex": "#E16C96",
+    "rgb": "rgb(225,108,150)",
+    "hsl": "hsl(338, 66%, 65%)",
+    "cmyk": "cmyk(0%,71%,18%,0%)",
+    "lightness": 65
+  },
+  {
+    "name": "丹紫紅",
+    "pinyin": "dān zǐ hóng",
+    "hex": "#D2568C",
+    "rgb": "rgb(210,86,140)",
+    "hsl": "hsl(334, 58%, 58%)",
+    "cmyk": "cmyk(7%,79%,18%,0%)",
+    "lightness": 58
+  },
+  {
+    "name": "玫瑰紅",
+    "pinyin": "méi guī hóng",
+    "hex": "#D2357D",
+    "rgb": "rgb(210,53,125)",
+    "hsl": "hsl(332, 64%, 52%)",
+    "cmyk": "cmyk(4%,89%,21%,0%)",
+    "lightness": 52
+  },
+  {
+    "name": "菱錳紅",
+    "pinyin": "líng měng hóng",
+    "hex": "#D276A3",
+    "rgb": "rgb(210,118,163)",
+    "hsl": "hsl(331, 51%, 64%)",
+    "cmyk": "cmyk(10%,67%,12%,0%)",
+    "lightness": 64
+  },
+  {
+    "name": "龍鬚紅",
+    "pinyin": "lóng xū hóng",
+    "hex": "#CC5595",
+    "rgb": "rgb(204,85,149)",
+    "hsl": "hsl(328, 54%, 57%)",
+    "cmyk": "cmyk(11%,97%,10%,0%)",
+    "lightness": 57
+  },
+  {
+    "name": "電氣石紅",
+    "pinyin": "diàn qì shí hóng",
+    "hex": "#C35691",
+    "rgb": "rgb(195,86,145)",
+    "hsl": "hsl(328, 48%, 55%)",
+    "cmyk": "cmyk(16%,79%,14%,1%)",
+    "lightness": 55
+  },
+  {
+    "name": "粉鳳仙",
+    "pinyin": "fěn fèng xiān",
+    "hex": "#EAC0CE",
+    "rgb": "rgb(234,192,206)",
+    "hsl": "hsl(340, 50%, 84%)",
+    "cmyk": "cmyk(0%,18%,12%,8%)",
+    "lightness": 84
+  },
+  {
+    "name": "浅粉",
+    "pinyin": "qiǎn fěn",
+    "hex": "#E5B8C3",
+    "rgb": "rgb(229,184,195)",
+    "hsl": "hsl(345, 46%, 81%)",
+    "cmyk": "cmyk(0%,20%,15%,10%)",
+    "lightness": 81
+  },
+  {
+    "name": "淡粉",
+    "pinyin": "dàn fěn",
+    "hex": "#E8AFC5",
+    "rgb": "rgb(232,175,197)",
+    "hsl": "hsl(337, 55%, 80%)",
+    "cmyk": "cmyk(0%,25%,15%,9%)",
+    "lightness": 80
+  },
+  {
+    "name": "暗粉",
+    "pinyin": "àn fěn",
+    "hex": "#E18DAC",
+    "rgb": "rgb(225,141,172)",
+    "hsl": "hsl(338, 58%, 72%)",
+    "cmyk": "cmyk(0%,37%,24%,12%)",
+    "lightness": 72
+  },
+  {
+    "name": "荷花紅",
+    "pinyin": "hé huā hóng",
+    "hex": "#EB7FAF",
+    "rgb": "rgb(235,127,175)",
+    "hsl": "hsl(333, 73%, 71%)",
+    "cmyk": "cmyk(0%,46%,26%,8%)",
+    "lightness": 71
+  },
+  {
+    "name": "艶粉",
+    "pinyin": "yàn fěn",
+    "hex": "#D3547E",
+    "rgb": "rgb(211,84,126)",
+    "hsl": "hsl(340, 59%, 58%)",
+    "cmyk": "cmyk(0%,60%,40%,17%)",
+    "lightness": 58
+  },
+  {
+    "name": "鶏冠花紅",
+    "pinyin": "jī guān huā hóng",
+    "hex": "#A52664",
+    "rgb": "rgb(165,38,100)",
+    "hsl": "hsl(331, 63%, 40%)",
+    "cmyk": "cmyk(0%,77%,39%,35%)",
+    "lightness": 40
+  },
+  {
+    "name": "品紅",
+    "pinyin": "pǐn hóng",
+    "hex": "#A71368",
+    "rgb": "rgb(167,19,104)",
+    "hsl": "hsl(326, 80%, 36%)",
+    "cmyk": "cmyk(0%,89%,38%,35%)",
+    "lightness": 36
+  },
+  {
+    "name": "蘇木色",
+    "pinyin": "sū mù sè",
+    "hex": "#AE506B",
+    "rgb": "rgb(174,80,107)",
+    "hsl": "hsl(343, 37%, 50%)",
+    "cmyk": "cmyk(0%,54%,39%,32%)",
+    "lightness": 50
+  },
+  {
+    "name": "玫瑰紅",
+    "pinyin": "méi gūi hóng",
+    "hex": "#973444",
+    "rgb": "rgb(151,52,68)",
+    "hsl": "hsl(350, 49%, 40%)",
+    "cmyk": "cmyk(0%,66%,55%,41%)",
+    "lightness": 40
+  },
+  {
+    "name": "臙脂",
+    "pinyin": "yān zhī",
+    "hex": "#952E3A",
+    "rgb": "rgb(149,46,58)",
+    "hsl": "hsl(353, 53%, 38%)",
+    "cmyk": "cmyk(0%,69%,61%,42%)",
+    "lightness": 38
+  },
+  {
+    "name": "辰沙",
+    "pinyin": "chén shā",
+    "hex": "#AF5E53",
+    "rgb": "rgb(175,94,83)",
+    "hsl": "hsl(7, 37%, 51%)",
+    "cmyk": "cmyk(0%,46%,53%,31%)",
+    "lightness": 51
+  },
+  {
+    "name": "磚紅",
+    "pinyin": "zhuān hóng",
+    "hex": "#AA4D3D",
+    "rgb": "rgb(170,77,61)",
+    "hsl": "hsl(9, 47%, 45%)",
+    "cmyk": "cmyk(0%,55%,64%,33%)",
+    "lightness": 45
+  },
+  {
+    "name": "殷紅",
+    "pinyin": "yīn hóng",
+    "hex": "#A4414F",
+    "rgb": "rgb(164,65,79)",
+    "hsl": "hsl(352, 43%, 45%)",
+    "cmyk": "cmyk(0%,60%,52%,36%)",
+    "lightness": 45
+  },
+  {
+    "name": "銀紅",
+    "pinyin": "yín hóng",
+    "hex": "#C56978",
+    "rgb": "rgb(197,105,120)",
+    "hsl": "hsl(350, 44%, 59%)",
+    "cmyk": "cmyk(0%,47%,39%,23%)",
+    "lightness": 59
+  },
+  {
+    "name": "肉紅",
+    "pinyin": "ròu hóng",
+    "hex": "#C17886",
+    "rgb": "rgb(193,120,134)",
+    "hsl": "hsl(348, 37%, 61%)",
+    "cmyk": "cmyk(0%,38%,31%,24%)",
+    "lightness": 61
+  },
+  {
+    "name": "妃紅",
+    "pinyin": "fēi hóng",
+    "hex": "#C35655",
+    "rgb": "rgb(195,86,85)",
+    "hsl": "hsl(1, 48%, 55%)",
+    "cmyk": "cmyk(0%,56%,56%,24%)",
+    "lightness": 55
+  },
+  {
+    "name": "猩紅",
+    "pinyin": "xīng hóng",
+    "hex": "#C43739",
+    "rgb": "rgb(196,55,57)",
+    "hsl": "hsl(359, 56%, 49%)",
+    "cmyk": "cmyk(0%,72%,71%,23%)",
+    "lightness": 49
+  },
+  {
+    "name": "血紅",
+    "pinyin": "xiě hóng",
+    "hex": "#A03E28",
+    "rgb": "rgb(160,62,40)",
+    "hsl": "hsl(11, 60%, 39%)",
+    "cmyk": "cmyk(0%,61%,75%,37%)",
+    "lightness": 39
+  },
+  {
+    "name": "月季紅",
+    "pinyin": "yuè jì hóng",
+    "hex": "#BB1C33",
+    "rgb": "rgb(187,28,51)",
+    "hsl": "hsl(351, 74%, 42%)",
+    "cmyk": "cmyk(0%,85%,73%,27%)",
+    "lightness": 42
+  },
+  {
+    "name": "茉莉花紅",
+    "pinyin": "mò lì huā hóng",
+    "hex": "#B31F45",
+    "rgb": "rgb(179,31,69)",
+    "hsl": "hsl(345, 70%, 41%)",
+    "cmyk": "cmyk(0%,83%,61%,30%)",
+    "lightness": 41
+  },
+  {
+    "name": "烏羅松紅",
+    "pinyin": "wū luó sōng hóng",
+    "hex": "#C5283D",
+    "rgb": "rgb(197,40,61)",
+    "hsl": "hsl(352, 66%, 46%)",
+    "cmyk": "cmyk(0%,80%,69%,23%)",
+    "lightness": 46
+  },
+  {
+    "name": "銀星海棠",
+    "pinyin": "yín xīng hǎi táng",
+    "hex": "#D13559",
+    "rgb": "rgb(209,53,89)",
+    "hsl": "hsl(346, 63%, 51%)",
+    "cmyk": "cmyk(0%,75%,57%,18%)",
+    "lightness": 51
+  },
+  {
+    "name": "象牙紅",
+    "pinyin": "xiàng yá hóng",
+    "hex": "#BC343C",
+    "rgb": "rgb(188,52,60)",
+    "hsl": "hsl(356, 57%, 47%)",
+    "cmyk": "cmyk(0%,72%,68%,26%)",
+    "lightness": 47
+  },
+  {
+    "name": "曙紅",
+    "pinyin": "shù hóng",
+    "hex": "#935458",
+    "rgb": "rgb(147,84,88)",
+    "hsl": "hsl(356, 27%, 45%)",
+    "cmyk": "cmyk(0%,43%,40%,42%)",
+    "lightness": 45
+  },
+  {
+    "name": "牡丹紅",
+    "pinyin": "mǔ dān hóng",
+    "hex": "#B80233",
+    "rgb": "rgb(184,2,51)",
+    "hsl": "hsl(344, 98%, 36%)",
+    "cmyk": "cmyk(0%,99%,72%,28%)",
+    "lightness": 36
+  },
+  {
+    "name": "艶紅",
+    "pinyin": "yàn hóng",
+    "hex": "#CC3536",
+    "rgb": "rgb(204,53,54)",
+    "hsl": "hsl(360, 60%, 50%)",
+    "cmyk": "cmyk(0%,74%,74%,20%)",
+    "lightness": 50
+  },
+  {
+    "name": "蕉紅色",
+    "pinyin": "jiāo hóng sè",
+    "hex": "#CF292F",
+    "rgb": "rgb(207,41,47)",
+    "hsl": "hsl(358, 67%, 49%)",
+    "cmyk": "cmyk(0%,80%,77%,19%)",
+    "lightness": 49
+  },
+  {
+    "name": "銀朱",
+    "pinyin": "yín zhū",
+    "hex": "#D15D5E",
+    "rgb": "rgb(209,93,94)",
+    "hsl": "hsl(359, 56%, 59%)",
+    "cmyk": "cmyk(0%,56%,55%,18%)",
+    "lightness": 59
+  },
+  {
+    "name": "硃砂",
+    "pinyin": "zhū shā",
+    "hex": "#B84B48",
+    "rgb": "rgb(184,75,72)",
+    "hsl": "hsl(2, 44%, 50%)",
+    "cmyk": "cmyk(0%,59%,61%,28%)",
+    "lightness": 50
+  },
+  {
+    "name": "二硃",
+    "pinyin": "èr zhū",
+    "hex": "#C6574B",
+    "rgb": "rgb(198,87,75)",
+    "hsl": "hsl(6, 52%, 54%)",
+    "cmyk": "cmyk(0%,56%,62%,22%)",
+    "lightness": 54
+  },
+  {
+    "name": "硃膘",
+    "pinyin": "zhū piǎo",
+    "hex": "#E35C3E",
+    "rgb": "rgb(227,92,62)",
+    "hsl": "hsl(11, 75%, 57%)",
+    "cmyk": "cmyk(0%,59%,73%,11%)",
+    "lightness": 57
+  },
+  {
+    "name": "章丹",
+    "pinyin": "zhāng dān",
+    "hex": "#EB652D",
+    "rgb": "rgb(235,101,45)",
+    "hsl": "hsl(18, 83%, 55%)",
+    "cmyk": "cmyk(0%,57%,81%,8%)",
+    "lightness": 55
+  },
+  {
+    "name": "蕃茄紅",
+    "pinyin": "fán qié hóng",
+    "hex": "#C4473D",
+    "rgb": "rgb(196,71,61)",
+    "hsl": "hsl(4, 53%, 50%)",
+    "cmyk": "cmyk(0%,64%,69%,23%)",
+    "lightness": 50
+  },
+  {
+    "name": "榴花紅",
+    "pinyin": "líu huā hóng",
+    "hex": "#D54B44",
+    "rgb": "rgb(213,75,68)",
+    "hsl": "hsl(3, 63%, 55%)",
+    "cmyk": "cmyk(0%,65%,68%,16%)",
+    "lightness": 55
+  },
+  {
+    "name": "柿子色",
+    "pinyin": "shì zǐ sè",
+    "hex": "#ED7A3D",
+    "rgb": "rgb(237,122,61)",
+    "hsl": "hsl(21, 83%, 58%)",
+    "cmyk": "cmyk(0%,49%,74%,7%)",
+    "lightness": 58
+  },
+  {
+    "name": "桔紅",
+    "pinyin": "jié hóng",
+    "hex": "#E7693F",
+    "rgb": "rgb(231,105,63)",
+    "hsl": "hsl(15, 78%, 58%)",
+    "cmyk": "cmyk(0%,55%,73%,9%)",
+    "lightness": 58
+  },
+  {
+    "name": "紅扇貝色",
+    "pinyin": "hóng shàn bèi sè",
+    "hex": "#E9745A",
+    "rgb": "rgb(233,116,90)",
+    "hsl": "hsl(11, 76%, 63%)",
+    "cmyk": "cmyk(0%,50%,61%,9%)",
+    "lightness": 63
+  },
+  {
+    "name": "粉橙色",
+    "pinyin": "fěn chéng sè",
+    "hex": "#F89155",
+    "rgb": "rgb(248,145,85)",
+    "hsl": "hsl(22, 92%, 65%)",
+    "cmyk": "cmyk(0%,42%,66%,3%)",
+    "lightness": 65
+  },
+  {
+    "name": "金紅",
+    "pinyin": "jīn hóng",
+    "hex": "#F07544",
+    "rgb": "rgb(240,117,68)",
+    "hsl": "hsl(17, 85%, 60%)",
+    "cmyk": "cmyk(0%,51%,72%,6%)",
+    "lightness": 60
+  },
+  {
+    "name": "雄精",
+    "pinyin": "xióng jīng",
+    "hex": "#E47542",
+    "rgb": "rgb(228,117,66)",
+    "hsl": "hsl(19, 75%, 58%)",
+    "cmyk": "cmyk(0%,49%,71%,11%)",
+    "lightness": 58
+  },
+  {
+    "name": "十様錦",
+    "pinyin": "shí yàng jǐn",
+    "hex": "#FCB1AA",
+    "rgb": "rgb(252,177,170)",
+    "hsl": "hsl(5, 93%, 83%)",
+    "cmyk": "cmyk(0%,30%,33%,1%)",
+    "lightness": 83
+  },
+  {
+    "name": "鳳仙粉",
+    "pinyin": "fèng xiān fěn",
+    "hex": "#F4A9AA",
+    "rgb": "rgb(244,169,170)",
+    "hsl": "hsl(359, 77%, 81%)",
+    "cmyk": "cmyk(0%,31%,30%,4%)",
+    "lightness": 81
+  },
+  {
+    "name": "肉粉",
+    "pinyin": "ròu fěn",
+    "hex": "#F1C7BE",
+    "rgb": "rgb(241,199,190)",
+    "hsl": "hsl(11, 65%, 85%)",
+    "cmyk": "cmyk(0%,17%,21%,5%)",
+    "lightness": 85
+  },
+  {
+    "name": "釉紅",
+    "pinyin": "yòu hóng",
+    "hex": "#B65B46",
+    "rgb": "rgb(182,91,70)",
+    "hsl": "hsl(11, 44%, 49%)",
+    "cmyk": "cmyk(0%,50%,62%,29%)",
+    "lightness": 49
+  },
+  {
+    "name": "蛤蜊粉",
+    "pinyin": "há lí fěn",
+    "hex": "#DA9583",
+    "rgb": "rgb(218,149,131)",
+    "hsl": "hsl(12, 54%, 68%)",
+    "cmyk": "cmyk(0%,32%,40%,15%)",
+    "lightness": 68
+  },
+  {
+    "name": "銹紅",
+    "pinyin": "xìu hóng",
+    "hex": "#4D1919",
+    "rgb": "rgb(77,25,25)",
+    "hsl": "hsl(0, 51%, 20%)",
+    "cmyk": "cmyk(0%,68%,68%,70%)",
+    "lightness": 20
+  },
+  {
+    "name": "土紅",
+    "pinyin": "tǔ hóng",
+    "hex": "#A95352",
+    "rgb": "rgb(169,83,82)",
+    "hsl": "hsl(1, 35%, 49%)",
+    "cmyk": "cmyk(0%,51%,51%,34%)",
+    "lightness": 49
+  },
+  {
+    "name": "瑪瑙色",
+    "pinyin": "mǎ nǎo sè",
+    "hex": "#C06B49",
+    "rgb": "rgb(192,107,73)",
+    "hsl": "hsl(17, 49%, 52%)",
+    "cmyk": "cmyk(0%,44%,62%,25%)",
+    "lightness": 52
+  },
+  {
+    "name": "赭石色",
+    "pinyin": "zhě shí sè",
+    "hex": "#C37E5F",
+    "rgb": "rgb(195,126,95)",
+    "hsl": "hsl(19, 45%, 57%)",
+    "cmyk": "cmyk(0%,35%,51%,24%)",
+    "lightness": 57
+  },
+  {
+    "name": "赭紅",
+    "pinyin": "zhě hóng",
+    "hex": "#B56F58",
+    "rgb": "rgb(181,111,88)",
+    "hsl": "hsl(15, 39%, 53%)",
+    "cmyk": "cmyk(0%,39%,51%,29%)",
+    "lightness": 53
+  },
+  {
+    "name": "紅狐色",
+    "pinyin": "hóng hú sè",
+    "hex": "#C18453",
+    "rgb": "rgb(193,132,83)",
+    "hsl": "hsl(27, 47%, 54%)",
+    "cmyk": "cmyk(0%,32%,57%,24%)",
+    "lightness": 54
+  },
+  {
+    "name": "中駝",
+    "pinyin": "zhōng tuó",
+    "hex": "#9B7E62",
+    "rgb": "rgb(155,126,98)",
+    "hsl": "hsl(29, 23%, 50%)",
+    "cmyk": "cmyk(0%,19%,37%,39%)",
+    "lightness": 50
+  },
+  {
+    "name": "樹皮色",
+    "pinyin": "shù pí sè",
+    "hex": "#B37349",
+    "rgb": "rgb(179,115,73)",
+    "hsl": "hsl(24, 42%, 49%)",
+    "cmyk": "cmyk(0%,36%,59%,30%)",
+    "lightness": 49
+  },
+  {
+    "name": "桂皮色",
+    "pinyin": "gùi pí sè",
+    "hex": "#BB855D",
+    "rgb": "rgb(187,133,93)",
+    "hsl": "hsl(26, 41%, 55%)",
+    "cmyk": "cmyk(0%,29%,50%,27%)",
+    "lightness": 55
+  },
+  {
+    "name": "土布色",
+    "pinyin": "tǔ bù sè",
+    "hex": "#E3B587",
+    "rgb": "rgb(227,181,135)",
+    "hsl": "hsl(30, 62%, 71%)",
+    "cmyk": "cmyk(0%,20%,41%,11%)",
+    "lightness": 71
+  },
+  {
+    "name": "米紅",
+    "pinyin": "mǐ hóng",
+    "hex": "#E1BDA2",
+    "rgb": "rgb(225,189,162)",
+    "hsl": "hsl(26, 51%, 76%)",
+    "cmyk": "cmyk(0%,16%,28%,12%)",
+    "lightness": 76
+  },
+  {
+    "name": "瑪瑙粉",
+    "pinyin": "mǎ nǎo fěn",
+    "hex": "#D79B75",
+    "rgb": "rgb(215,155,117)",
+    "hsl": "hsl(23, 55%, 65%)",
+    "cmyk": "cmyk(0%,28%,46%,16%)",
+    "lightness": 65
+  },
+  {
+    "name": "駱駝色",
+    "pinyin": "luò tuó sè",
+    "hex": "#D8AD85",
+    "rgb": "rgb(216,173,133)",
+    "hsl": "hsl(29, 52%, 68%)",
+    "cmyk": "cmyk(0%,20%,38%,15%)",
+    "lightness": 68
+  },
+  {
+    "name": "浅血牙",
+    "pinyin": "qiǎn xiě yá",
+    "hex": "#EACDD1",
+    "rgb": "rgb(234,205,209)",
+    "hsl": "hsl(352, 41%, 86%)",
+    "cmyk": "cmyk(0%,12%,11%,8%)",
+    "lightness": 86
+  },
+  {
+    "name": "粉棕",
+    "pinyin": "fěn zōng",
+    "hex": "#DAC5B3",
+    "rgb": "rgb(218,197,179)",
+    "hsl": "hsl(28, 35%, 78%)",
+    "cmyk": "cmyk(0%,10%,18%,15%)",
+    "lightness": 78
+  },
+  {
+    "name": "肉棕",
+    "pinyin": "ròu zōng",
+    "hex": "#D2AE8C",
+    "rgb": "rgb(210,174,140)",
+    "hsl": "hsl(29, 44%, 69%)",
+    "cmyk": "cmyk(0%,17%,33%,18%)",
+    "lightness": 69
+  },
+  {
+    "name": "珈琲棕",
+    "pinyin": "jiā bèi zōng",
+    "hex": "#896C50",
+    "rgb": "rgb(137,108,80)",
+    "hsl": "hsl(29, 26%, 43%)",
+    "cmyk": "cmyk(0%,21%,42%,46%)",
+    "lightness": 43
+  },
+  {
+    "name": "煙色",
+    "pinyin": "yān sè",
+    "hex": "#6E4D40",
+    "rgb": "rgb(110,77,64)",
+    "hsl": "hsl(17, 26%, 34%)",
+    "cmyk": "cmyk(0%,30%,42%,57%)",
+    "lightness": 34
+  },
+  {
+    "name": "朱古力色",
+    "pinyin": "zhū gǔ lì sè",
+    "hex": "#84624E",
+    "rgb": "rgb(132,98,78)",
+    "hsl": "hsl(22, 26%, 41%)",
+    "cmyk": "cmyk(0%,26%,41%,48%)",
+    "lightness": 41
+  },
+  {
+    "name": "棗紅",
+    "pinyin": "zǎo hóng",
+    "hex": "#89303F",
+    "rgb": "rgb(137,48,63)",
+    "hsl": "hsl(350, 48%, 36%)",
+    "cmyk": "cmyk(0%,65%,54%,46%)",
+    "lightness": 36
+  },
+  {
+    "name": "棕紅",
+    "pinyin": "zōng hóng",
+    "hex": "#7C4B40",
+    "rgb": "rgb(124,75,64)",
+    "hsl": "hsl(11, 32%, 37%)",
+    "cmyk": "cmyk(0%,40%,48%,51%)",
+    "lightness": 37
+  },
+  {
+    "name": "深釉紅",
+    "pinyin": "shēn yòu hóng",
+    "hex": "#773D38",
+    "rgb": "rgb(119,61,56)",
+    "hsl": "hsl(5, 36%, 34%)",
+    "cmyk": "cmyk(0%,49%,53%,53%)",
+    "lightness": 34
+  },
+  {
+    "name": "深煙紅",
+    "pinyin": "shēn yān hóng",
+    "hex": "#643441",
+    "rgb": "rgb(100,52,65)",
+    "hsl": "hsl(344, 32%, 30%)",
+    "cmyk": "cmyk(0%,48%,35%,61%)",
+    "lightness": 30
+  },
+  {
+    "name": "珈琲色",
+    "pinyin": "jiā bèi sè",
+    "hex": "#7B5650",
+    "rgb": "rgb(123,86,80)",
+    "hsl": "hsl(8, 21%, 40%)",
+    "cmyk": "cmyk(0%,30%,35%,52%)",
+    "lightness": 40
+  },
+  {
+    "name": "豆棕",
+    "pinyin": "dòu zōng",
+    "hex": "#795253",
+    "rgb": "rgb(121,82,83)",
+    "hsl": "hsl(358, 19%, 40%)",
+    "cmyk": "cmyk(0%,32%,31%,53%)",
+    "lightness": 40
+  },
+  {
+    "name": "羅漢果色",
+    "pinyin": "luó hàn guǒ sè",
+    "hex": "#7B563F",
+    "rgb": "rgb(123,86,63)",
+    "hsl": "hsl(23, 32%, 36%)",
+    "cmyk": "cmyk(0%,30%,49%,52%)",
+    "lightness": 36
+  },
+  {
+    "name": "深栗色",
+    "pinyin": "shēn lì sè",
+    "hex": "#6F5750",
+    "rgb": "rgb(111,87,80)",
+    "hsl": "hsl(14, 16%, 37%)",
+    "cmyk": "cmyk(0%,22%,28%,56%)",
+    "lightness": 37
+  },
+  {
+    "name": "醤色",
+    "pinyin": "jiàng sè",
+    "hex": "#725338",
+    "rgb": "rgb(114,83,56)",
+    "hsl": "hsl(28, 34%, 33%)",
+    "cmyk": "cmyk(0%,27%,51%,55%)",
+    "lightness": 33
+  },
+  {
+    "name": "深褐色",
+    "pinyin": "shēn hé sè",
+    "hex": "#55473B",
+    "rgb": "rgb(85,71,59)",
+    "hsl": "hsl(28, 18%, 28%)",
+    "cmyk": "cmyk(0%,16%,31%,67%)",
+    "lightness": 28
+  },
+  {
+    "name": "深煙",
+    "pinyin": "shēn yān",
+    "hex": "#5A4C4C",
+    "rgb": "rgb(90,76,76)",
+    "hsl": "hsl(0, 8%, 33%)",
+    "cmyk": "cmyk(0%,16%,16%,65%)",
+    "lightness": 33
+  },
+  {
+    "name": "煙栗色",
+    "pinyin": "yān lì sè",
+    "hex": "#544847",
+    "rgb": "rgb(84,72,71)",
+    "hsl": "hsl(5, 8%, 30%)",
+    "cmyk": "cmyk(0%,14%,15%,67%)",
+    "lightness": 30
+  },
+  {
+    "name": "紅皀",
+    "pinyin": "hóng bī",
+    "hex": "#4F5355",
+    "rgb": "rgb(79,83,85)",
+    "hsl": "hsl(200, 4%, 32%)",
+    "cmyk": "cmyk(7%,2%,0%,67%)",
+    "lightness": 32
+  },
+  {
+    "name": "橙色",
+    "pinyin": "chéng sè",
+    "hex": "#E67A2A",
+    "rgb": "rgb(230,122,42)",
+    "hsl": "hsl(26, 79%, 53%)",
+    "cmyk": "cmyk(0%,47%,82%,10%)",
+    "lightness": 53
+  },
+  {
+    "name": "蝶粉",
+    "pinyin": "dié fěn",
+    "hex": "#F5C19B",
+    "rgb": "rgb(245,193,155)",
+    "hsl": "hsl(25, 82%, 78%)",
+    "cmyk": "cmyk(0%,21%,37%,4%)",
+    "lightness": 78
+  },
+  {
+    "name": "果肉色",
+    "pinyin": "guǒ ròu sè",
+    "hex": "#F5CEBE",
+    "rgb": "rgb(245,206,190)",
+    "hsl": "hsl(17, 73%, 85%)",
+    "cmyk": "cmyk(0%,16%,22%,4%)",
+    "lightness": 85
+  },
+  {
+    "name": "紙棕",
+    "pinyin": "zhǐ zōng",
+    "hex": "#BCA590",
+    "rgb": "rgb(188,165,144)",
+    "hsl": "hsl(29, 25%, 65%)",
+    "cmyk": "cmyk(0%,12%,23%,26%)",
+    "lightness": 65
+  },
+  {
+    "name": "奶棕",
+    "pinyin": "nǎi zōng",
+    "hex": "#C1A299",
+    "rgb": "rgb(193,162,153)",
+    "hsl": "hsl(14, 24%, 68%)",
+    "cmyk": "cmyk(0%,16%,21%,24%)",
+    "lightness": 68
+  },
+  {
+    "name": "赭石",
+    "pinyin": "zhě shí",
+    "hex": "#845A33",
+    "rgb": "rgb(132,90,51)",
+    "hsl": "hsl(29, 44%, 36%)",
+    "cmyk": "cmyk(0%,32%,61%,48%)",
+    "lightness": 36
+  },
+  {
+    "name": "硃砂",
+    "pinyin": "zhū shā",
+    "hex": "#FF461F",
+    "rgb": "rgb(255,70,31)",
+    "hsl": "hsl(10, 100%, 56%)",
+    "cmyk": "cmyk(0%,73%,88%,0%)",
+    "lightness": 56
+  },
+  {
+    "name": "火紅",
+    "pinyin": "huǒ hóng",
+    "hex": "#FF2D51",
+    "rgb": "rgb(255,45,81)",
+    "hsl": "hsl(350, 100%, 59%)",
+    "cmyk": "cmyk(0%,82%,68%,0%)",
+    "lightness": 59
+  },
+  {
+    "name": "朱磦",
+    "pinyin": "zhū biāo",
+    "hex": "#F36838",
+    "rgb": "rgb(243,104,56)",
+    "hsl": "hsl(15, 89%, 59%)",
+    "cmyk": "cmyk(0%,57%,77%,5%)",
+    "lightness": 59
+  },
+  {
+    "name": "妃色",
+    "pinyin": "fēi sè",
+    "hex": "#ED5736",
+    "rgb": "rgb(237,87,54)",
+    "hsl": "hsl(11, 84%, 57%)",
+    "cmyk": "cmyk(0%,63%,77%,7%)",
+    "lightness": 57
+  },
+  {
+    "name": "洋粉",
+    "pinyin": "yáng fěn",
+    "hex": "#FF4777",
+    "rgb": "rgb(255,71,119)",
+    "hsl": "hsl(344, 100%, 64%)",
+    "cmyk": "cmyk(0%,72%,53%,0%)",
+    "lightness": 64
+  },
+  {
+    "name": "品紅",
+    "pinyin": "pǐn hóng",
+    "hex": "#F00056",
+    "rgb": "rgb(240,0,86)",
+    "hsl": "hsl(339, 100%, 47%)",
+    "cmyk": "cmyk(0%,100%,64%,6%)",
+    "lightness": 47
+  },
+  {
+    "name": "粉紅",
+    "pinyin": "fěn hóng",
+    "hex": "#FFB3A7",
+    "rgb": "rgb(255,179,167)",
+    "hsl": "hsl(8, 100%, 83%)",
+    "cmyk": "cmyk(0%,30%,35%,0%)",
+    "lightness": 83
+  },
+  {
+    "name": "桃紅",
+    "pinyin": "táo hóng",
+    "hex": "#F47983",
+    "rgb": "rgb(244,121,131)",
+    "hsl": "hsl(355, 85%, 72%)",
+    "cmyk": "cmyk(0%,50%,46%,4%)",
+    "lightness": 72
+  },
+  {
+    "name": "海棠紅",
+    "pinyin": "hǎi táng hóng",
+    "hex": "#DB5A6B",
+    "rgb": "rgb(219,90,107)",
+    "hsl": "hsl(352, 64%, 61%)",
+    "cmyk": "cmyk(0%,59%,51%,14%)",
+    "lightness": 61
+  },
+  {
+    "name": "櫻桃色",
+    "pinyin": "yīng táo sè",
+    "hex": "#C93756",
+    "rgb": "rgb(201,55,86)",
+    "hsl": "hsl(347, 57%, 50%)",
+    "cmyk": "cmyk(0%,73%,57%,21%)",
+    "lightness": 50
+  },
+  {
+    "name": "酡顏",
+    "pinyin": "tuó yán",
+    "hex": "#F9906F",
+    "rgb": "rgb(249,144,111)",
+    "hsl": "hsl(14, 92%, 71%)",
+    "cmyk": "cmyk(0%,42%,55%,2%)",
+    "lightness": 71
+  },
+  {
+    "name": "銀紅",
+    "pinyin": "yín hóng",
+    "hex": "#F05654",
+    "rgb": "rgb(240,86,84)",
+    "hsl": "hsl(1, 84%, 64%)",
+    "cmyk": "cmyk(0%,64%,65%,6%)",
+    "lightness": 64
+  },
+  {
+    "name": "大紅",
+    "pinyin": "dà hóng",
+    "hex": "#FF2121",
+    "rgb": "rgb(255,33,33)",
+    "hsl": "hsl(0, 100%, 56%)",
+    "cmyk": "cmyk(0%,87%,87%,0%)",
+    "lightness": 56
+  },
+  {
+    "name": "石榴紅",
+    "pinyin": "shí liú hóng",
+    "hex": "#F20C00",
+    "rgb": "rgb(242,12,0)",
+    "hsl": "hsl(3, 100%, 47%)",
+    "cmyk": "cmyk(0%,95%,100%,5%)",
+    "lightness": 47
+  },
+  {
+    "name": "絳紫",
+    "pinyin": "jiàng zǐ",
+    "hex": "#8C4356",
+    "rgb": "rgb(140,67,86)",
+    "hsl": "hsl(344, 35%, 41%)",
+    "cmyk": "cmyk(0%,52%,39%,45%)",
+    "lightness": 41
+  },
+  {
+    "name": "緋紅",
+    "pinyin": "fēi hóng",
+    "hex": "#C83C23",
+    "rgb": "rgb(200,60,35)",
+    "hsl": "hsl(9, 70%, 46%)",
+    "cmyk": "cmyk(0%,70%,82%,22%)",
+    "lightness": 46
+  },
+  {
+    "name": "朱紅",
+    "pinyin": "zhū hóng",
+    "hex": "#FF4C00",
+    "rgb": "rgb(255,76,0)",
+    "hsl": "hsl(18, 100%, 50%)",
+    "cmyk": "cmyk(0%,70%,100%,0%)",
+    "lightness": 50
+  },
+  {
+    "name": "丹",
+    "pinyin": "dān",
+    "hex": "#FF4E20",
+    "rgb": "rgb(255,78,32)",
+    "hsl": "hsl(12, 100%, 56%)",
+    "cmyk": "cmyk(0%,69%,87%,0%)",
+    "lightness": 56
+  },
+  {
+    "name": "彤",
+    "pinyin": "tóng",
+    "hex": "#F35336",
+    "rgb": "rgb(243,83,54)",
+    "hsl": "hsl(9, 89%, 58%)",
+    "cmyk": "cmyk(0%,66%,78%,5%)",
+    "lightness": 58
+  },
+  {
+    "name": "酡紅",
+    "pinyin": "tuó hóng",
+    "hex": "#DC3023",
+    "rgb": "rgb(220,48,35)",
+    "hsl": "hsl(4, 73%, 50%)",
+    "cmyk": "cmyk(0%,78%,84%,14%)",
+    "lightness": 50
+  },
+  {
+    "name": "炎",
+    "pinyin": "yán",
+    "hex": "#FF3300",
+    "rgb": "rgb(255,51,0)",
+    "hsl": "hsl(12, 100%, 50%)",
+    "cmyk": "cmyk(0%,80%,100%,0%)",
+    "lightness": 50
+  },
+  {
+    "name": "茜色",
+    "pinyin": "qiàn sè",
+    "hex": "#CB3A56",
+    "rgb": "rgb(203,58,86)",
+    "hsl": "hsl(348, 58%, 51%)",
+    "cmyk": "cmyk(0%,71%,58%,20%)",
+    "lightness": 51
+  },
+  {
+    "name": "綰",
+    "pinyin": "wǎn",
+    "hex": "#A98175",
+    "rgb": "rgb(169,129,117)",
+    "hsl": "hsl(14, 23%, 56%)",
+    "cmyk": "cmyk(0%,24%,31%,34%)",
+    "lightness": 56
+  },
+  {
+    "name": "檀",
+    "pinyin": "tán",
+    "hex": "#B36D61",
+    "rgb": "rgb(179,109,97)",
+    "hsl": "hsl(9, 35%, 54%)",
+    "cmyk": "cmyk(0%,39%,46%,30%)",
+    "lightness": 54
+  },
+  {
+    "name": "嫣紅",
+    "pinyin": "yān hóng",
+    "hex": "#EF7A82",
+    "rgb": "rgb(239,122,130)",
+    "hsl": "hsl(356, 79%, 71%)",
+    "cmyk": "cmyk(0%,49%,46%,6%)",
+    "lightness": 71
+  },
+  {
+    "name": "洋紅",
+    "pinyin": "yáng hóng",
+    "hex": "#FF0097",
+    "rgb": "rgb(255,0,151)",
+    "hsl": "hsl(324, 100%, 50%)",
+    "cmyk": "cmyk(0%,100%,41%,0%)",
+    "lightness": 50
+  },
+  {
+    "name": "棗紅",
+    "pinyin": "zǎo hóng",
+    "hex": "#C32136",
+    "rgb": "rgb(195,33,54)",
+    "hsl": "hsl(352, 71%, 45%)",
+    "cmyk": "cmyk(0%,83%,72%,24%)",
+    "lightness": 45
+  },
+  {
+    "name": "殷紅",
+    "pinyin": "yān hóng",
+    "hex": "#BE0027",
+    "rgb": "rgb(190,0,39)",
+    "hsl": "hsl(348, 100%, 37%)",
+    "cmyk": "cmyk(0%,100%,79%,25%)",
+    "lightness": 37
+  },
+  {
+    "name": "赫赤",
+    "pinyin": "hè chì",
+    "hex": "#C91F37",
+    "rgb": "rgb(201,31,55)",
+    "hsl": "hsl(352, 73%, 45%)",
+    "cmyk": "cmyk(0%,85%,73%,21%)",
+    "lightness": 45
+  },
+  {
+    "name": "銀硃",
+    "pinyin": "yín zhū",
+    "hex": "#BF242A",
+    "rgb": "rgb(191,36,42)",
+    "hsl": "hsl(358, 68%, 45%)",
+    "cmyk": "cmyk(0%,81%,78%,25%)",
+    "lightness": 45
+  },
+  {
+    "name": "赤",
+    "pinyin": "chì",
+    "hex": "#C3272B",
+    "rgb": "rgb(195,39,43)",
+    "hsl": "hsl(358, 67%, 46%)",
+    "cmyk": "cmyk(0%,80%,78%,24%)",
+    "lightness": 46
+  },
+  {
+    "name": "胭脂",
+    "pinyin": "yān zhī",
+    "hex": "#9D2933",
+    "rgb": "rgb(157,41,51)",
+    "hsl": "hsl(355, 59%, 39%)",
+    "cmyk": "cmyk(0%,74%,68%,38%)",
+    "lightness": 39
+  },
+  {
+    "name": "殷紅",
+    "pinyin": "yān hóng",
+    "hex": "#BE002F",
+    "rgb": "rgb(190,0,47)",
+    "hsl": "hsl(345, 100%, 37%)",
+    "cmyk": "cmyk(0%,100%,75%,25%)",
+    "lightness": 37
+  },
+  {
+    "name": "水紅",
+    "pinyin": "shuǐ hóng",
+    "hex": "#F3D3E7",
+    "rgb": "rgb(243,211,231)",
+    "hsl": "hsl(323, 57%, 89%)",
+    "cmyk": "cmyk(0%,13%,5%,5%)",
+    "lightness": 89
+  },
+  {
+    "name": "貂紫",
+    "pinyin": "diāo zǐ",
+    "hex": "#5D3131",
+    "rgb": "rgb(93,49,49)",
+    "hsl": "hsl(0, 31%, 28%)",
+    "cmyk": "cmyk(36%,81%,64%,54%)",
+    "lightness": 28
+  },
+  {
+    "name": "暗玉紫",
+    "pinyin": "àn yù zǐ",
+    "hex": "#5C2223",
+    "rgb": "rgb(92,34,35)",
+    "hsl": "hsl(359, 46%, 25%)",
+    "cmyk": "cmyk(35%,94%,77%,53%)",
+    "lightness": 25
+  },
+  {
+    "name": "慄紫",
+    "pinyin": "lì zǐ",
+    "hex": "#5A191B",
+    "rgb": "rgb(90,25,27)",
+    "hsl": "hsl(358, 57%, 23%)",
+    "cmyk": "cmyk(35%,100%,85%,54%)",
+    "lightness": 23
+  },
+  {
+    "name": "葡萄醬紫",
+    "pinyin": "pú táo jiàng zǐ",
+    "hex": "#5A1216",
+    "rgb": "rgb(90,18,22)",
+    "hsl": "hsl(357, 67%, 21%)",
+    "cmyk": "cmyk(35%,100%,80%,54%)",
+    "lightness": 21
+  },
+  {
+    "name": "葡萄紫",
+    "pinyin": "pú táo zǐ",
+    "hex": "#4C1F24",
+    "rgb": "rgb(76,31,36)",
+    "hsl": "hsl(353, 42%, 21%)",
+    "cmyk": "cmyk(39%,92%,67%,64%)",
+    "lightness": 21
+  },
+  {
+    "name": "醬紫",
+    "pinyin": "jiàng zǐ",
+    "hex": "#4D1018",
+    "rgb": "rgb(77,16,24)",
+    "hsl": "hsl(352, 66%, 18%)",
+    "cmyk": "cmyk(39%,100%,79%,63%)",
+    "lightness": 18
+  },
+  {
+    "name": "豬肝紫",
+    "pinyin": "zhū gān zǐ",
+    "hex": "#541E24",
+    "rgb": "rgb(84,30,36)",
+    "hsl": "hsl(353, 47%, 22%)",
+    "cmyk": "cmyk(36%,95%,71%,59%)",
+    "lightness": 22
+  },
+  {
+    "name": "金魚紫",
+    "pinyin": "jīn yú zǐ",
+    "hex": "#500A16",
+    "rgb": "rgb(80,10,22)",
+    "hsl": "hsl(350, 78%, 18%)",
+    "cmyk": "cmyk(38%,100%,81%,61%)",
+    "lightness": 18
+  },
+  {
+    "name": "甘蔗紫",
+    "pinyin": "gān zhè zǐ",
+    "hex": "#621624",
+    "rgb": "rgb(98,22,36)",
+    "hsl": "hsl(349, 63%, 24%)",
+    "cmyk": "cmyk(33%,100%,75%,49%)",
+    "lightness": 24
+  },
+  {
+    "name": "石竹紫",
+    "pinyin": "shí zhú zǐ",
+    "hex": "#63071C",
+    "rgb": "rgb(99,7,28)",
+    "hsl": "hsl(346, 87%, 21%)",
+    "cmyk": "cmyk(32%,100%,84%,49%)",
+    "lightness": 21
+  },
+  {
+    "name": "卵石紫",
+    "pinyin": "luǎn shí zǐ",
+    "hex": "#30161C",
+    "rgb": "rgb(48,22,28)",
+    "hsl": "hsl(346, 37%, 14%)",
+    "cmyk": "cmyk(52%,88%,58%,81%)",
+    "lightness": 14
+  },
+  {
+    "name": "李紫",
+    "pinyin": "lǐ zǐ",
+    "hex": "#2B1216",
+    "rgb": "rgb(43,18,22)",
+    "hsl": "hsl(350, 41%, 12%)",
+    "cmyk": "cmyk(56%,88%,62%,84%)",
+    "lightness": 12
+  },
+  {
+    "name": "菜頭紫",
+    "pinyin": "cài tóu zǐ",
+    "hex": "#951C48",
+    "rgb": "rgb(149,28,72)",
+    "hsl": "hsl(338, 68%, 35%)",
+    "cmyk": "cmyk(24%,99%,52%,19%)",
+    "lightness": 35
+  },
+  {
+    "name": "鷂冠紫",
+    "pinyin": "yào guān zǐ",
+    "hex": "#621D34",
+    "rgb": "rgb(98,29,52)",
+    "hsl": "hsl(340, 54%, 25%)",
+    "cmyk": "cmyk(34%,97%,54%,50%)",
+    "lightness": 25
+  },
+  {
+    "name": "磨石紫",
+    "pinyin": "mó shí zǐ",
+    "hex": "#382129",
+    "rgb": "rgb(56,33,41)",
+    "hsl": "hsl(339, 26%, 17%)",
+    "cmyk": "cmyk(53%,81%,50%,74%)",
+    "lightness": 17
+  },
+  {
+    "name": "檀紫",
+    "pinyin": "tán zǐ",
+    "hex": "#381924",
+    "rgb": "rgb(56,25,36)",
+    "hsl": "hsl(339, 38%, 16%)",
+    "cmyk": "cmyk(48%,90%,50%,76%)",
+    "lightness": 16
+  },
+  {
+    "name": "火鵝紫",
+    "pinyin": "huǒ é zǐ",
+    "hex": "#33141E",
+    "rgb": "rgb(51,20,30)",
+    "hsl": "hsl(341, 44%, 14%)",
+    "cmyk": "cmyk(50%,91%,54%,79%)",
+    "lightness": 14
+  },
+  {
+    "name": "墨紫",
+    "pinyin": "mò zǐ",
+    "hex": "#310F1B",
+    "rgb": "rgb(49,15,27)",
+    "hsl": "hsl(339, 53%, 13%)",
+    "cmyk": "cmyk(53%,92%,55%,81%)",
+    "lightness": 13
+  },
+  {
+    "name": "洋蔥紫",
+    "pinyin": "yáng cōng zǐ",
+    "hex": "#A8456B",
+    "rgb": "rgb(168,69,107)",
+    "hsl": "hsl(337, 42%, 46%)",
+    "cmyk": "cmyk(22%,83%,34%,11%)",
+    "lightness": 46
+  },
+  {
+    "name": "海象紫",
+    "pinyin": "hǎi xiàng zǐ",
+    "hex": "#4B1E2F",
+    "rgb": "rgb(75,30,47)",
+    "hsl": "hsl(337, 43%, 21%)",
+    "cmyk": "cmyk(40%,92%,47%,64%)",
+    "lightness": 21
+  },
+  {
+    "name": "紺紫",
+    "pinyin": "gàn zǐ",
+    "hex": "#461629",
+    "rgb": "rgb(70,22,41)",
+    "hsl": "hsl(336, 52%, 18%)",
+    "cmyk": "cmyk(41%,97%,49%,68%)",
+    "lightness": 18
+  },
+  {
+    "name": "古銅紫",
+    "pinyin": "gǔ tóng zǐ",
+    "hex": "#440E25",
+    "rgb": "rgb(68,14,37)",
+    "hsl": "hsl(334, 66%, 16%)",
+    "cmyk": "cmyk(42%,99%,51%,69%)",
+    "lightness": 16
+  },
+  {
+    "name": "丁香淡紫",
+    "pinyin": "dīng xiāng dàn zǐ",
+    "hex": "#E9D7DF",
+    "rgb": "rgb(233,215,223)",
+    "hsl": "hsl(333, 29%, 88%)",
+    "cmyk": "cmyk(7%,20%,8%,0%)",
+    "lightness": 88
+  },
+  {
+    "name": "淡牽牛紫",
+    "pinyin": "dàn qiān niú zǐ",
+    "hex": "#D1C2D3",
+    "rgb": "rgb(209,194,211)",
+    "hsl": "hsl(293, 16%, 79%)",
+    "cmyk": "cmyk(19%,27%,9%,0%)",
+    "lightness": 79
+  },
+  {
+    "name": "鳳信紫",
+    "pinyin": "fèng xìn zǐ",
+    "hex": "#C8ADC4",
+    "rgb": "rgb(200,173,196)",
+    "hsl": "hsl(309, 20%, 73%)",
+    "cmyk": "cmyk(21%,37%,12%,0%)",
+    "lightness": 73
+  },
+  {
+    "name": "蘿蘭紫",
+    "pinyin": "luó lán zǐ",
+    "hex": "#C08EAF",
+    "rgb": "rgb(192,142,175)",
+    "hsl": "hsl(320, 28%, 65%)",
+    "cmyk": "cmyk(23%,53%,14%,1%)",
+    "lightness": 65
+  },
+  {
+    "name": "玫瑰紫",
+    "pinyin": "méi guī zǐ",
+    "hex": "#BA2F7B",
+    "rgb": "rgb(186,47,123)",
+    "hsl": "hsl(327, 60%, 46%)",
+    "cmyk": "cmyk(18%,91%,18%,2%)",
+    "lightness": 46
+  },
+  {
+    "name": "藤蘿紫",
+    "pinyin": "téng luó zǐ",
+    "hex": "#8076A3",
+    "rgb": "rgb(128,118,163)",
+    "hsl": "hsl(253, 20%, 55%)",
+    "cmyk": "cmyk(58%,56%,17%,2%)",
+    "lightness": 55
+  },
+  {
+    "name": "槿紫",
+    "pinyin": "jǐn zǐ",
+    "hex": "#806D9E",
+    "rgb": "rgb(128,109,158)",
+    "hsl": "hsl(263, 20%, 52%)",
+    "cmyk": "cmyk(57%,62%,16%,2%)",
+    "lightness": 52
+  },
+  {
+    "name": "蕈紫",
+    "pinyin": "xùn zǐ",
+    "hex": "#815C94",
+    "rgb": "rgb(129,92,148)",
+    "hsl": "hsl(280, 23%, 47%)",
+    "cmyk": "cmyk(56%,72%,15%,1%)",
+    "lightness": 47
+  },
+  {
+    "name": "桔梗紫",
+    "pinyin": "jié gěng zǐ",
+    "hex": "#813C85",
+    "rgb": "rgb(129,60,133)",
+    "hsl": "hsl(297, 38%, 38%)",
+    "cmyk": "cmyk(54%,89%,12%,1%)",
+    "lightness": 38
+  },
+  {
+    "name": "芝蘭紫",
+    "pinyin": "zhī lán zǐ",
+    "hex": "#7E1671",
+    "rgb": "rgb(126,22,113)",
+    "hsl": "hsl(308, 70%, 29%)",
+    "cmyk": "cmyk(3%,26%,10%,0%)",
+    "lightness": 29
+  },
+  {
+    "name": "櫻草紫",
+    "pinyin": "yīng cǎo zǐ",
+    "hex": "#C06F98",
+    "rgb": "rgb(192,111,152)",
+    "hsl": "hsl(330, 39%, 59%)",
+    "cmyk": "cmyk(19%,68%,18%,1%)",
+    "lightness": 59
+  },
+  {
+    "name": "莧菜紫",
+    "pinyin": "xiàn cài zǐ",
+    "hex": "#9B1E64",
+    "rgb": "rgb(155,30,100)",
+    "hsl": "hsl(326, 68%, 36%)",
+    "cmyk": "cmyk(27%,97%,27%,14%)",
+    "lightness": 36
+  },
+  {
+    "name": "淡青紫",
+    "pinyin": "dàn qīng zǐ",
+    "hex": "#E0C8D1",
+    "rgb": "rgb(224,200,209)",
+    "hsl": "hsl(338, 28%, 83%)",
+    "cmyk": "cmyk(10%,27%,11%,0%)",
+    "lightness": 83
+  },
+  {
+    "name": "青蛤殼紫",
+    "pinyin": "qīng há ké zǐ",
+    "hex": "#BC84A8",
+    "rgb": "rgb(188,132,168)",
+    "hsl": "hsl(321, 29%, 63%)",
+    "cmyk": "cmyk(24%,58%,15%,1%)",
+    "lightness": 63
+  },
+  {
+    "name": "豆蔻紫",
+    "pinyin": "dòu kòu zǐ",
+    "hex": "#AD6598",
+    "rgb": "rgb(173,101,152)",
+    "hsl": "hsl(318, 31%, 54%)",
+    "cmyk": "cmyk(31%,71%,15%,1%)",
+    "lightness": 54
+  },
+  {
+    "name": "扁豆紫",
+    "pinyin": "biǎn dòu zǐ",
+    "hex": "#A35C8F",
+    "rgb": "rgb(163,92,143)",
+    "hsl": "hsl(317, 28%, 50%)",
+    "cmyk": "cmyk(35%,75%,18%,2%)",
+    "lightness": 50
+  },
+  {
+    "name": "芥花紫",
+    "pinyin": "jiè huā zǐ",
+    "hex": "#983680",
+    "rgb": "rgb(152,54,128)",
+    "hsl": "hsl(315, 48%, 40%)",
+    "cmyk": "cmyk(39%,91%,15%,3%)",
+    "lightness": 40
+  },
+  {
+    "name": "芓紫",
+    "pinyin": "zì zǐ",
+    "hex": "#894276",
+    "rgb": "rgb(137,66,118)",
+    "hsl": "hsl(316, 35%, 40%)",
+    "cmyk": "cmyk(44%,85%,24%,10%)",
+    "lightness": 40
+  },
+  {
+    "name": "葛巾紫",
+    "pinyin": "gé jīn zǐ",
+    "hex": "#7E2065",
+    "rgb": "rgb(126,32,101)",
+    "hsl": "hsl(316, 59%, 31%)",
+    "cmyk": "cmyk(45%,99%,24%,16%)",
+    "lightness": 31
+  },
+  {
+    "name": "牽牛紫",
+    "pinyin": "qiān niú zǐ",
+    "hex": "#681752",
+    "rgb": "rgb(104,23,82)",
+    "hsl": "hsl(316, 64%, 25%)",
+    "cmyk": "cmyk(49%,100%,29%,32%)",
+    "lightness": 25
+  },
+  {
+    "name": "龍睛魚紫",
+    "pinyin": "lóng jīng yú zǐ",
+    "hex": "#4E2A40",
+    "rgb": "rgb(78,42,64)",
+    "hsl": "hsl(323, 30%, 24%)",
+    "cmyk": "cmyk(55%,87%,41%,52%)",
+    "lightness": 24
+  },
+  {
+    "name": "荸薺紫",
+    "pinyin": "bí qí zǐ",
+    "hex": "#411C35",
+    "rgb": "rgb(65,28,53)",
+    "hsl": "hsl(319, 40%, 18%)",
+    "cmyk": "cmyk(58%,96%,40%,61%)",
+    "lightness": 18
+  },
+  {
+    "name": "鳥梅紫",
+    "pinyin": "niǎo méi zǐ",
+    "hex": "#1E131D",
+    "rgb": "rgb(30,19,29)",
+    "hsl": "hsl(305, 22%, 10%)",
+    "cmyk": "cmyk(81%,87%,54%,84%)",
+    "lightness": 10
+  },
+  {
+    "name": "深牽牛紫",
+    "pinyin": "shēn qiān niú zǐ",
+    "hex": "#1C0D1A",
+    "rgb": "rgb(28,13,26)",
+    "hsl": "hsl(308, 37%, 8%)",
+    "cmyk": "cmyk(83%,87%,55%,86%)",
+    "lightness": 8
+  },
+  {
+    "name": "遠山紫",
+    "pinyin": "yuǎn shān zǐ",
+    "hex": "#CCCCD6",
+    "rgb": "rgb(204,204,214)",
+    "hsl": "hsl(240, 11%, 82%)",
+    "cmyk": "cmyk(23%,18%,12%,1%)",
+    "lightness": 82
+  },
+  {
+    "name": "淡藍紫",
+    "pinyin": "dàn lán zǐ",
+    "hex": "#A7A8BD",
+    "rgb": "rgb(167,168,189)",
+    "hsl": "hsl(237, 14%, 70%)",
+    "cmyk": "cmyk(39%,31%,17%,2%)",
+    "lightness": 70
+  },
+  {
+    "name": "山梗紫",
+    "pinyin": "shān gěng zǐ",
+    "hex": "#61649F",
+    "rgb": "rgb(97,100,159)",
+    "hsl": "hsl(237, 24%, 50%)",
+    "cmyk": "cmyk(74%,64%,14%,1%)",
+    "lightness": 50
+  },
+  {
+    "name": "螺甸紫",
+    "pinyin": "luó diān zǐ",
+    "hex": "#74759B",
+    "rgb": "rgb(116,117,155)",
+    "hsl": "hsl(238, 16%, 53%)",
+    "cmyk": "cmyk(63%,53%,22%,5%)",
+    "lightness": 53
+  },
+  {
+    "name": "野菊紫",
+    "pinyin": "yě jú zǐ",
+    "hex": "#525288",
+    "rgb": "rgb(82,82,136)",
+    "hsl": "hsl(240, 25%, 43%)",
+    "cmyk": "cmyk(80%,73%,21%,6%)",
+    "lightness": 43
+  },
+  {
+    "name": "滿天星紫",
+    "pinyin": "mǎn tiān xīng zǐ",
+    "hex": "#2E317C",
+    "rgb": "rgb(46,49,124)",
+    "hsl": "hsl(238, 46%, 33%)",
+    "cmyk": "cmyk(100%,93%,21%,5%)",
+    "lightness": 33
+  },
+  {
+    "name": "野葡萄紫",
+    "pinyin": "yě pú táo zǐ",
+    "hex": "#302F4B",
+    "rgb": "rgb(48,47,75)",
+    "hsl": "hsl(242, 23%, 24%)",
+    "cmyk": "cmyk(91%,84%,40%,43%)",
+    "lightness": 24
+  },
+  {
+    "name": "劍鋒紫",
+    "pinyin": "jiàn fēng zǐ",
+    "hex": "#3E3841",
+    "rgb": "rgb(62,56,65)",
+    "hsl": "hsl(280, 7%, 24%)",
+    "cmyk": "cmyk(70%,69%,49%,56%)",
+    "lightness": 24
+  },
+  {
+    "name": "龍葵紫",
+    "pinyin": "lóng kuí zǐ",
+    "hex": "#322F3B",
+    "rgb": "rgb(50,47,59)",
+    "hsl": "hsl(255, 11%, 21%)",
+    "cmyk": "cmyk(79%,74%,49%,60%)",
+    "lightness": 21
+  },
+  {
+    "name": "暗龍膽紫",
+    "pinyin": "àn lóng dǎn zǐ",
+    "hex": "#22202E",
+    "rgb": "rgb(34,32,46)",
+    "hsl": "hsl(249, 18%, 15%)",
+    "cmyk": "cmyk(90%,84%,50%,69%)",
+    "lightness": 15
+  },
+  {
+    "name": "晶石紫",
+    "pinyin": "jīng shí zǐ",
+    "hex": "#1F2040",
+    "rgb": "rgb(31,32,64)",
+    "hsl": "hsl(238, 35%, 19%)",
+    "cmyk": "cmyk(98%,93%,48%,73%)",
+    "lightness": 19
+  },
+  {
+    "name": "暗藍紫",
+    "pinyin": "àn lán zǐ",
+    "hex": "#131124",
+    "rgb": "rgb(19,17,36)",
+    "hsl": "hsl(246, 36%, 10%)",
+    "cmyk": "cmyk(100%,94%,52%,77%)",
+    "lightness": 10
+  },
+  {
+    "name": "紫薇花",
+    "pinyin": "zǐ wéi huā",
+    "hex": "#EEA5D1",
+    "rgb": "rgb(238,165,209)",
+    "hsl": "hsl(324, 68%, 79%)",
+    "cmyk": "cmyk(0%,31%,12%,7%)",
+    "lightness": 79
+  },
+  {
+    "name": "紫水晶",
+    "pinyin": "zǐ shǔi jīng",
+    "hex": "#C3A6CB",
+    "rgb": "rgb(195,166,203)",
+    "hsl": "hsl(287, 26%, 72%)",
+    "cmyk": "cmyk(4%,18%,0%,20%)",
+    "lightness": 72
+  },
+  {
+    "name": "浅石英紫",
+    "pinyin": "qiǎn shí yīng zǐ",
+    "hex": "#AB96C5",
+    "rgb": "rgb(171,150,197)",
+    "hsl": "hsl(267, 29%, 68%)",
+    "cmyk": "cmyk(13%,24%,0%,23%)",
+    "lightness": 68
+  },
+  {
+    "name": "浅鳳仙紫",
+    "pinyin": "qiǎn fèng xiān zǐ",
+    "hex": "#D294D3",
+    "rgb": "rgb(210,148,211)",
+    "hsl": "hsl(299, 42%, 70%)",
+    "cmyk": "cmyk(0%,30%,0%,17%)",
+    "lightness": 70
+  },
+  {
+    "name": "木槿紫",
+    "pinyin": "mù jǐn zǐ",
+    "hex": "#A381BA",
+    "rgb": "rgb(163,129,186)",
+    "hsl": "hsl(276, 29%, 62%)",
+    "cmyk": "cmyk(12%,31%,0%,27%)",
+    "lightness": 62
+  },
+  {
+    "name": "長春花色",
+    "pinyin": "cháng chūn huā sè",
+    "hex": "#DE7AB1",
+    "rgb": "rgb(222,122,177)",
+    "hsl": "hsl(327, 60%, 67%)",
+    "cmyk": "cmyk(0%,45%,20%,13%)",
+    "lightness": 67
+  },
+  {
+    "name": "洋葱紫",
+    "pinyin": "yáng cōng zǐ",
+    "hex": "#9C6680",
+    "rgb": "rgb(156,102,128)",
+    "hsl": "hsl(331, 21%, 51%)",
+    "cmyk": "cmyk(0%,35%,18%,39%)",
+    "lightness": 51
+  },
+  {
+    "name": "龍胆紫",
+    "pinyin": "lóng dǎn zǐ",
+    "hex": "#423171",
+    "rgb": "rgb(66,49,113)",
+    "hsl": "hsl(256, 40%, 32%)",
+    "cmyk": "cmyk(42%,57%,0%,56%)",
+    "lightness": 32
+  },
+  {
+    "name": "雪紫",
+    "pinyin": "xuě zǐ",
+    "hex": "#79485A",
+    "rgb": "rgb(121,72,90)",
+    "hsl": "hsl(338, 25%, 38%)",
+    "cmyk": "cmyk(0%,40%,26%,53%)",
+    "lightness": 38
+  },
+  {
+    "name": "紫粉",
+    "pinyin": "zǐ fěn",
+    "hex": "#A54358",
+    "rgb": "rgb(165,67,88)",
+    "hsl": "hsl(347, 42%, 45%)",
+    "cmyk": "cmyk(0%,59%,47%,35%)",
+    "lightness": 45
+  },
+  {
+    "name": "青蓮紫",
+    "pinyin": "qīng lián zǐ",
+    "hex": "#95509F",
+    "rgb": "rgb(149,80,159)",
+    "hsl": "hsl(292, 33%, 47%)",
+    "cmyk": "cmyk(6%,50%,0%,38%)",
+    "lightness": 47
+  },
+  {
+    "name": "牽牛紫",
+    "pinyin": "qiān níu zǐ",
+    "hex": "#A22076",
+    "rgb": "rgb(162,32,118)",
+    "hsl": "hsl(320, 67%, 38%)",
+    "cmyk": "cmyk(0%,80%,27%,36%)",
+    "lightness": 38
+  },
+  {
+    "name": "紫絳色",
+    "pinyin": "zǐ jiàng sè",
+    "hex": "#722E41",
+    "rgb": "rgb(114,46,65)",
+    "hsl": "hsl(343, 43%, 31%)",
+    "cmyk": "cmyk(0%,60%,43%,55%)",
+    "lightness": 31
+  },
+  {
+    "name": "紫銅色",
+    "pinyin": "zǐ tóng sè",
+    "hex": "#723D45",
+    "rgb": "rgb(114,61,69)",
+    "hsl": "hsl(351, 30%, 34%)",
+    "cmyk": "cmyk(0%,46%,39%,55%)",
+    "lightness": 34
+  },
+  {
+    "name": "棗紫",
+    "pinyin": "zǎo zǐ",
+    "hex": "#69282B",
+    "rgb": "rgb(105,40,43)",
+    "hsl": "hsl(357, 45%, 28%)",
+    "cmyk": "cmyk(0%,62%,59%,59%)",
+    "lightness": 28
+  },
+  {
+    "name": "黒紫",
+    "pinyin": "hēi zǐ",
+    "hex": "#50262B",
+    "rgb": "rgb(80,38,43)",
+    "hsl": "hsl(353, 36%, 23%)",
+    "cmyk": "cmyk(0%,52%,46%,69%)",
+    "lightness": 23
+  },
+  {
+    "name": "紫扇貝色",
+    "pinyin": "zǐ shàn bèi sè",
+    "hex": "#875A72",
+    "rgb": "rgb(135,90,114)",
+    "hsl": "hsl(328, 20%, 44%)",
+    "cmyk": "cmyk(0%,33%,16%,47%)",
+    "lightness": 44
+  },
+  {
+    "name": "絳紫",
+    "pinyin": "jiàng zǐ",
+    "hex": "#704D4E",
+    "rgb": "rgb(112,77,78)",
+    "hsl": "hsl(358, 19%, 37%)",
+    "cmyk": "cmyk(0%,31%,30%,56%)",
+    "lightness": 37
+  },
+  {
+    "name": "茄皮紫",
+    "pinyin": "qié pí zǐ",
+    "hex": "#674950",
+    "rgb": "rgb(103,73,80)",
+    "hsl": "hsl(346, 17%, 35%)",
+    "cmyk": "cmyk(0%,29%,22%,60%)",
+    "lightness": 35
+  },
+  {
+    "name": "浅藤紫",
+    "pinyin": "qiǎn téng zǐ",
+    "hex": "#C4C3CB",
+    "rgb": "rgb(196,195,203)",
+    "hsl": "hsl(248, 7%, 78%)",
+    "cmyk": "cmyk(3%,4%,0%,20%)",
+    "lightness": 78
+  },
+  {
+    "name": "鳳仙紫",
+    "pinyin": "fèng xiān zǐ",
+    "hex": "#8B658B",
+    "rgb": "rgb(139,101,139)",
+    "hsl": "hsl(300, 16%, 47%)",
+    "cmyk": "cmyk(0%,27%,0%,45%)",
+    "lightness": 47
+  },
+  {
+    "name": "丁香紫",
+    "pinyin": "dīng xiāng zǐ",
+    "hex": "#695776",
+    "rgb": "rgb(105,87,118)",
+    "hsl": "hsl(275, 15%, 40%)",
+    "cmyk": "cmyk(11%,26%,0%,54%)",
+    "lightness": 40
+  },
+  {
+    "name": "閃蝶紫",
+    "pinyin": "shǎn dié zǐ",
+    "hex": "#8C90B9",
+    "rgb": "rgb(140,144,185)",
+    "hsl": "hsl(235, 24%, 64%)",
+    "cmyk": "cmyk(24%,22%,0%,27%)",
+    "lightness": 64
+  },
+  {
+    "name": "芡食白",
+    "pinyin": "qiàn shí bái",
+    "hex": "#E2E1E4",
+    "rgb": "rgb(226,225,228)",
+    "hsl": "hsl(260, 5%, 89%)",
+    "cmyk": "cmyk(13%,10%,9%,0%)",
+    "lightness": 89
+  },
+  {
+    "name": "月影白",
+    "pinyin": "yuè yǐng bái",
+    "hex": "#C0C4C3",
+    "rgb": "rgb(192,196,195)",
+    "hsl": "hsl(165, 3%, 76%)",
+    "cmyk": "cmyk(29%,18%,21%,2%)",
+    "lightness": 76
+  },
+  {
+    "name": "甘石粉",
+    "pinyin": "gān shí fěn",
+    "hex": "#EADCD6",
+    "rgb": "rgb(234,220,214)",
+    "hsl": "hsl(18, 32%, 88%)",
+    "cmyk": "cmyk(0%,6%,9%,8%)",
+    "lightness": 88
+  },
+  {
+    "name": "胡粉",
+    "pinyin": "hú fěn",
+    "hex": "#EBE8DB",
+    "rgb": "rgb(235,232,219)",
+    "hsl": "hsl(49, 29%, 89%)",
+    "cmyk": "cmyk(0%,1%,7%,8%)",
+    "lightness": 89
+  },
+  {
+    "name": "蛤粉",
+    "pinyin": "há fěn",
+    "hex": "#EDEADC",
+    "rgb": "rgb(237,234,220)",
+    "hsl": "hsl(49, 32%, 90%)",
+    "cmyk": "cmyk(0%,1%,7%,7%)",
+    "lightness": 90
+  },
+  {
+    "name": "立徳粉",
+    "pinyin": "lì dé fěn",
+    "hex": "#EDEBE0",
+    "rgb": "rgb(237,235,224)",
+    "hsl": "hsl(51, 27%, 90%)",
+    "cmyk": "cmyk(0%,1%,5%,7%)",
+    "lightness": 90
+  },
+  {
+    "name": "月白色",
+    "pinyin": "yuè bái sè",
+    "hex": "#D1E2DE",
+    "rgb": "rgb(209,226,222)",
+    "hsl": "hsl(166, 23%, 85%)",
+    "cmyk": "cmyk(8%,0%,2%,11%)",
+    "lightness": 85
+  },
+  {
+    "name": "蝋白",
+    "pinyin": "là bái",
+    "hex": "#E7E5D0",
+    "rgb": "rgb(231,229,208)",
+    "hsl": "hsl(55, 32%, 86%)",
+    "cmyk": "cmyk(0%,1%,10%,9%)",
+    "lightness": 86
+  },
+  {
+    "name": "大理石色",
+    "pinyin": "dà lǐ shí sè",
+    "hex": "#A2B2A9",
+    "rgb": "rgb(162,178,169)",
+    "hsl": "hsl(146, 9%, 67%)",
+    "cmyk": "cmyk(9%,0%,5%,30%)",
+    "lightness": 67
+  },
+  {
+    "name": "淡藕合",
+    "pinyin": "dàn ǒu hé",
+    "hex": "#D5CCD3",
+    "rgb": "rgb(213,204,211)",
+    "hsl": "hsl(313, 10%, 82%)",
+    "cmyk": "cmyk(0%,4%,1%,16%)",
+    "lightness": 82
+  },
+  {
+    "name": "銀白色",
+    "pinyin": "yín bái sè",
+    "hex": "#EBE5D5",
+    "rgb": "rgb(235,229,213)",
+    "hsl": "hsl(44, 35%, 88%)",
+    "cmyk": "cmyk(0%,3%,9%,8%)",
+    "lightness": 88
+  },
+  {
+    "name": "精白",
+    "pinyin": "jīng bái",
+    "hex": "#FFFFFF",
+    "rgb": "rgb(255,255,255)",
+    "hsl": "hsl(0, 0%, 100%)",
+    "cmyk": "cmyk(0%,0%,0%,0%)",
+    "lightness": 100
+  },
+  {
+    "name": "銀白",
+    "pinyin": "yín bái",
+    "hex": "#E9E7EF",
+    "rgb": "rgb(233,231,239)",
+    "hsl": "hsl(255, 20%, 92%)",
+    "cmyk": "cmyk(3%,3%,0%,6%)",
+    "lightness": 92
+  },
+  {
+    "name": "鉛白",
+    "pinyin": "qiān bái",
+    "hex": "#F0F0F4",
+    "rgb": "rgb(240,240,244)",
+    "hsl": "hsl(240, 15%, 95%)",
+    "cmyk": "cmyk(2%,2%,0%,4%)",
+    "lightness": 95
+  },
+  {
+    "name": "霜色",
+    "pinyin": "shuāng sè",
+    "hex": "#E9F1F6",
+    "rgb": "rgb(233,241,246)",
+    "hsl": "hsl(203, 42%, 94%)",
+    "cmyk": "cmyk(5%,2%,0%,4%)",
+    "lightness": 94
+  },
+  {
+    "name": "雪白",
+    "pinyin": "xuě bái",
+    "hex": "#F0FCFF",
+    "rgb": "rgb(240,252,255)",
+    "hsl": "hsl(192, 100%, 97%)",
+    "cmyk": "cmyk(6%,1%,0%,0%)",
+    "lightness": 97
+  },
+  {
+    "name": "象牙白",
+    "pinyin": "xiàng yá bái",
+    "hex": "#FFFBF0",
+    "rgb": "rgb(255,251,240)",
+    "hsl": "hsl(44, 100%, 97%)",
+    "cmyk": "cmyk(0%,2%,6%,0%)",
+    "lightness": 97
+  },
+  {
+    "name": "縞",
+    "pinyin": "gǎo",
+    "hex": "#F2ECDE",
+    "rgb": "rgb(242,236,222)",
+    "hsl": "hsl(42, 43%, 91%)",
+    "cmyk": "cmyk(0%,2%,8%,5%)",
+    "lightness": 91
+  },
+  {
+    "name": "魚肚白",
+    "pinyin": "yú dǔ bái",
+    "hex": "#FCEFE8",
+    "rgb": "rgb(252,239,232)",
+    "hsl": "hsl(21, 77%, 95%)",
+    "cmyk": "cmyk(0%,5%,8%,1%)",
+    "lightness": 95
+  },
+  {
+    "name": "白粉",
+    "pinyin": "bái fěn",
+    "hex": "#FFF2FD",
+    "rgb": "rgb(255,242,253)",
+    "hsl": "hsl(309, 100%, 97%)",
+    "cmyk": "cmyk(0%,5%,1%,0%)",
+    "lightness": 97
+  },
+  {
+    "name": "荼白",
+    "pinyin": "tú bái",
+    "hex": "#F3F9F1",
+    "rgb": "rgb(243,249,241)",
+    "hsl": "hsl(105, 40%, 96%)",
+    "cmyk": "cmyk(2%,0%,3%,2%)",
+    "lightness": 96
+  },
+  {
+    "name": "素",
+    "pinyin": "sù",
+    "hex": "#E0F0E9",
+    "rgb": "rgb(224,240,233)",
+    "hsl": "hsl(154, 35%, 91%)",
+    "cmyk": "cmyk(7%,0%,3%,6%)",
+    "lightness": 91
+  },
+  {
+    "name": "花白",
+    "pinyin": "huā bái",
+    "hex": "#C2CCD0",
+    "rgb": "rgb(194,204,208)",
+    "hsl": "hsl(197, 13%, 79%)",
+    "cmyk": "cmyk(7%,2%,0%,18%)",
+    "lightness": 79
+  },
+  {
+    "name": "老銀",
+    "pinyin": "lǎo yín",
+    "hex": "#BACAC6",
+    "rgb": "rgb(186,202,198)",
+    "hsl": "hsl(165, 13%, 76%)",
+    "cmyk": "cmyk(8%,0%,2%,21%)",
+    "lightness": 76
+  },
+  {
+    "name": "蒼白",
+    "pinyin": "cāng bái",
+    "hex": "#D1D9E0",
+    "rgb": "rgb(209,217,224)",
+    "hsl": "hsl(208, 19%, 85%)",
+    "cmyk": "cmyk(7%,3%,0%,12%)",
+    "lightness": 85
+  },
+  {
+    "name": "雪白",
+    "pinyin": "xuě bái",
+    "hex": "#F2FDFF",
+    "rgb": "rgb(242,253,255)",
+    "hsl": "hsl(189, 100%, 97%)",
+    "cmyk": "cmyk(5%,1%,0%,0%)",
+    "lightness": 97
+  },
+  {
+    "name": "景泰藍",
+    "pinyin": "jǐng tài lán",
+    "hex": "#2775B6",
+    "rgb": "rgb(39,117,182)",
+    "hsl": "hsl(207, 65%, 43%)",
+    "cmyk": "cmyk(95%,46%,10%,1%)",
+    "lightness": 43
+  },
+  {
+    "name": "尼羅藍",
+    "pinyin": "ní luó lán",
+    "hex": "#2474B5",
+    "rgb": "rgb(36,116,181)",
+    "hsl": "hsl(207, 67%, 43%)",
+    "cmyk": "cmyk(96%,47%,11%,1%)",
+    "lightness": 43
+  },
+  {
+    "name": "星藍",
+    "pinyin": "xīng lán",
+    "hex": "#93B5CF",
+    "rgb": "rgb(147,181,207)",
+    "hsl": "hsl(206, 38%, 69%)",
+    "cmyk": "cmyk(53%,19%,15%,1%)",
+    "lightness": 69
+  },
+  {
+    "name": "羽扇豆藍",
+    "pinyin": "yǔ shàn dòu lán",
+    "hex": "#619AC3",
+    "rgb": "rgb(97,154,195)",
+    "hsl": "hsl(205, 45%, 57%)",
+    "cmyk": "cmyk(74%,27%,16%,2%)",
+    "lightness": 57
+  },
+  {
+    "name": "睛藍",
+    "pinyin": "jīng lán",
+    "hex": "#5698C3",
+    "rgb": "rgb(86,152,195)",
+    "hsl": "hsl(204, 48%, 55%)",
+    "cmyk": "cmyk(78%,27%,17%,2%)",
+    "lightness": 55
+  },
+  {
+    "name": "虹藍",
+    "pinyin": "hóng lán",
+    "hex": "#2177B8",
+    "rgb": "rgb(33,119,184)",
+    "hsl": "hsl(206, 70%, 43%)",
+    "cmyk": "cmyk(99%,44%,10%,1%)",
+    "lightness": 43
+  },
+  {
+    "name": "湖水藍",
+    "pinyin": "hú shuǐ lán",
+    "hex": "#B0D5DF",
+    "rgb": "rgb(176,213,223)",
+    "hsl": "hsl(193, 42%, 78%)",
+    "cmyk": "cmyk(43%,4%,16%,0%)",
+    "lightness": 78
+  },
+  {
+    "name": "秋波藍",
+    "pinyin": "qiū bō lán",
+    "hex": "#8ABCD1",
+    "rgb": "rgb(138,188,209)",
+    "hsl": "hsl(198, 44%, 68%)",
+    "cmyk": "cmyk(59%,12%,19%,0%)",
+    "lightness": 68
+  },
+  {
+    "name": "澗石藍",
+    "pinyin": "jiàn shí lán",
+    "hex": "#66A9C9",
+    "rgb": "rgb(102,169,201)",
+    "hsl": "hsl(199, 48%, 59%)",
+    "cmyk": "cmyk(73%,17%,20%,1%)",
+    "lightness": 59
+  },
+  {
+    "name": "潮藍",
+    "pinyin": "cháo lán",
+    "hex": "#2983BB",
+    "rgb": "rgb(41,131,187)",
+    "hsl": "hsl(203, 64%, 45%)",
+    "cmyk": "cmyk(93%,36%,15%,2%)",
+    "lightness": 45
+  },
+  {
+    "name": "寶石藍",
+    "pinyin": "bǎo shí lán",
+    "hex": "#2486B9",
+    "rgb": "rgb(36,134,185)",
+    "hsl": "hsl(201, 67%, 43%)",
+    "cmyk": "cmyk(94%,32%,17%,3%)",
+    "lightness": 43
+  },
+  {
+    "name": "天藍",
+    "pinyin": "tiān lán",
+    "hex": "#1677B3",
+    "rgb": "rgb(22,119,179)",
+    "hsl": "hsl(203, 78%, 39%)",
+    "cmyk": "cmyk(98%,43%,14%,2%)",
+    "lightness": 39
+  },
+  {
+    "name": "柏林藍",
+    "pinyin": "bó lín lán",
+    "hex": "#126BAE",
+    "rgb": "rgb(18,107,174)",
+    "hsl": "hsl(206, 81%, 38%)",
+    "cmyk": "cmyk(100%,52%,11%,1%)",
+    "lightness": 38
+  },
+  {
+    "name": "鈷藍",
+    "pinyin": "gǔ lán",
+    "hex": "#1A94BC",
+    "rgb": "rgb(26,148,188)",
+    "hsl": "hsl(195, 76%, 42%)",
+    "cmyk": "cmyk(94%,16%,23%,3%)",
+    "lightness": 42
+  },
+  {
+    "name": "鳶尾藍",
+    "pinyin": "yuān wěi lán",
+    "hex": "#158BB8",
+    "rgb": "rgb(21,139,184)",
+    "hsl": "hsl(197, 80%, 40%)",
+    "cmyk": "cmyk(95%,25%,20%,4%)",
+    "lightness": 40
+  },
+  {
+    "name": "牽牛花藍",
+    "pinyin": "qiān niú huā lán",
+    "hex": "#1177B0",
+    "rgb": "rgb(17,119,176)",
+    "hsl": "hsl(202, 82%, 38%)",
+    "cmyk": "cmyk(98%,42%,16%,3%)",
+    "lightness": 38
+  },
+  {
+    "name": "飛燕草藍",
+    "pinyin": "fēi yàn cǎo lán",
+    "hex": "#0F59A4",
+    "rgb": "rgb(15,89,164)",
+    "hsl": "hsl(210, 83%, 35%)",
+    "cmyk": "cmyk(100%,65%,11%,1%)",
+    "lightness": 35
+  },
+  {
+    "name": "品藍",
+    "pinyin": "pǐn lán",
+    "hex": "#2B73AF",
+    "rgb": "rgb(43,115,175)",
+    "hsl": "hsl(207, 61%, 43%)",
+    "cmyk": "cmyk(95%,47%,14%,2%)",
+    "lightness": 43
+  },
+  {
+    "name": "安安藍",
+    "pinyin": "ān ān lán",
+    "hex": "#3170A7",
+    "rgb": "rgb(49,112,167)",
+    "hsl": "hsl(208, 55%, 42%)",
+    "cmyk": "cmyk(93%,49%,17%,3%)",
+    "lightness": 42
+  },
+  {
+    "name": "鋼藍",
+    "pinyin": "gāng lán",
+    "hex": "#0F1423",
+    "rgb": "rgb(15,20,35)",
+    "hsl": "hsl(225, 40%, 10%)",
+    "cmyk": "cmyk(100%,89%,54%,79%)",
+    "lightness": 10
+  },
+  {
+    "name": "雲水藍",
+    "pinyin": "yún shuǐ lán",
+    "hex": "#BACCD9",
+    "rgb": "rgb(186,204,217)",
+    "hsl": "hsl(205, 29%, 79%)",
+    "cmyk": "cmyk(35%,13%,13%,0%)",
+    "lightness": 79
+  },
+  {
+    "name": "晴山藍",
+    "pinyin": "qíng shān lán",
+    "hex": "#8FB2C9",
+    "rgb": "rgb(143,178,201)",
+    "hsl": "hsl(204, 35%, 67%)",
+    "cmyk": "cmyk(55%,20%,18%,1%)",
+    "lightness": 67
+  },
+  {
+    "name": "海濤藍",
+    "pinyin": "hǎi tāo lán",
+    "hex": "#15559A",
+    "rgb": "rgb(21,85,154)",
+    "hsl": "hsl(211, 76%, 34%)",
+    "cmyk": "cmyk(100%,67%,16%,3%)",
+    "lightness": 34
+  },
+  {
+    "name": "蝶翅藍",
+    "pinyin": "dié chì lán",
+    "hex": "#4E7CA1",
+    "rgb": "rgb(78,124,161)",
+    "hsl": "hsl(207, 35%, 47%)",
+    "cmyk": "cmyk(81%,41%,24%,8%)",
+    "lightness": 47
+  },
+  {
+    "name": "海軍藍",
+    "pinyin": "hǎi jūn lán",
+    "hex": "#346C9C",
+    "rgb": "rgb(52,108,156)",
+    "hsl": "hsl(208, 50%, 41%)",
+    "cmyk": "cmyk(93%,50%,21%,6%)",
+    "lightness": 41
+  },
+  {
+    "name": "燕頷藍",
+    "pinyin": "yàn hàn lán",
+    "hex": "#131824",
+    "rgb": "rgb(19,24,36)",
+    "hsl": "hsl(222, 31%, 11%)",
+    "cmyk": "cmyk(100%,86%,54%,78%)",
+    "lightness": 11
+  },
+  {
+    "name": "井天藍",
+    "pinyin": "jǐng tiān lán",
+    "hex": "#C3D7DF",
+    "rgb": "rgb(195,215,223)",
+    "hsl": "hsl(197, 30%, 82%)",
+    "cmyk": "cmyk(32%,8%,13%,0%)",
+    "lightness": 82
+  },
+  {
+    "name": "雲山藍",
+    "pinyin": "yún shān lán",
+    "hex": "#2F90B9",
+    "rgb": "rgb(47,144,185)",
+    "hsl": "hsl(198, 59%, 45%)",
+    "cmyk": "cmyk(91%,24%,22%,4%)",
+    "lightness": 45
+  },
+  {
+    "name": "釉藍",
+    "pinyin": "yòu lán",
+    "hex": "#1781B5",
+    "rgb": "rgb(23,129,181)",
+    "hsl": "hsl(200, 77%, 40%)",
+    "cmyk": "cmyk(96%,34%,18%,4%)",
+    "lightness": 40
+  },
+  {
+    "name": "搪磁藍",
+    "pinyin": "táng cí lán",
+    "hex": "#11659A",
+    "rgb": "rgb(17,101,154)",
+    "hsl": "hsl(203, 80%, 34%)",
+    "cmyk": "cmyk(100%,53%,21%,6%)",
+    "lightness": 34
+  },
+  {
+    "name": "鷃藍",
+    "pinyin": "yàn lán",
+    "hex": "#144A74",
+    "rgb": "rgb(20,74,116)",
+    "hsl": "hsl(206, 71%, 27%)",
+    "cmyk": "cmyk(100%,68%,32%,20%)",
+    "lightness": 27
+  },
+  {
+    "name": "鴿藍",
+    "pinyin": "gē lán",
+    "hex": "#1C2938",
+    "rgb": "rgb(28,41,56)",
+    "hsl": "hsl(212, 33%, 16%)",
+    "cmyk": "cmyk(100%,77%,50%,62%)",
+    "lightness": 16
+  },
+  {
+    "name": "暗藍",
+    "pinyin": "àn lán",
+    "hex": "#101F30",
+    "rgb": "rgb(16,31,48)",
+    "hsl": "hsl(212, 50%, 13%)",
+    "cmyk": "cmyk(100%,84%,51%,68%)",
+    "lightness": 13
+  },
+  {
+    "name": "海天藍",
+    "pinyin": "hǎi tiān lán",
+    "hex": "#C6E6E8",
+    "rgb": "rgb(198,230,232)",
+    "hsl": "hsl(184, 42%, 84%)",
+    "cmyk": "cmyk(33%,0%,14%,0%)",
+    "lightness": 84
+  },
+  {
+    "name": "清水藍",
+    "pinyin": "qīng shuǐ lán",
+    "hex": "#93D5DC",
+    "rgb": "rgb(147,213,220)",
+    "hsl": "hsl(186, 51%, 72%)",
+    "cmyk": "cmyk(57%,0%,22%,0%)",
+    "lightness": 72
+  },
+  {
+    "name": "瀑布藍",
+    "pinyin": "pù bù lán",
+    "hex": "#51C4D3",
+    "rgb": "rgb(81,196,211)",
+    "hsl": "hsl(187, 60%, 57%)",
+    "cmyk": "cmyk(79%,0%,27%,0%)",
+    "lightness": 57
+  },
+  {
+    "name": "蔚藍",
+    "pinyin": "wèi lán",
+    "hex": "#29B7CB",
+    "rgb": "rgb(41,183,203)",
+    "hsl": "hsl(187, 66%, 48%)",
+    "cmyk": "cmyk(89%,0%,29%,0%)",
+    "lightness": 48
+  },
+  {
+    "name": "孔雀藍",
+    "pinyin": "kǒng què lán",
+    "hex": "#0EB0C9",
+    "rgb": "rgb(14,176,201)",
+    "hsl": "hsl(188, 87%, 42%)",
+    "cmyk": "cmyk(92%,0%,28%,0%)",
+    "lightness": 42
+  },
+  {
+    "name": "甸子藍",
+    "pinyin": "diàn zǐ lán",
+    "hex": "#10AEC2",
+    "rgb": "rgb(16,174,194)",
+    "hsl": "hsl(187, 85%, 41%)",
+    "cmyk": "cmyk(93%,0%,31%,0%)",
+    "lightness": 41
+  },
+  {
+    "name": "翠藍",
+    "pinyin": "cuì lán",
+    "hex": "#1E9EB3",
+    "rgb": "rgb(30,158,179)",
+    "hsl": "hsl(188, 71%, 41%)",
+    "cmyk": "cmyk(94%,11%,33%,1%)",
+    "lightness": 41
+  },
+  {
+    "name": "膽礬藍",
+    "pinyin": "dǎn fán lán",
+    "hex": "#0F95B0",
+    "rgb": "rgb(15,149,176)",
+    "hsl": "hsl(190, 84%, 37%)",
+    "cmyk": "cmyk(96%,16%,31%,3%)",
+    "lightness": 37
+  },
+  {
+    "name": "樫鳥藍",
+    "pinyin": "jiān niǎo lán",
+    "hex": "#1491A8",
+    "rgb": "rgb(20,145,168)",
+    "hsl": "hsl(189, 79%, 37%)",
+    "cmyk": "cmyk(96%,18%,34%,4%)",
+    "lightness": 37
+  },
+  {
+    "name": "閃藍",
+    "pinyin": "shǎn lán",
+    "hex": "#7CABB1",
+    "rgb": "rgb(124,171,177)",
+    "hsl": "hsl(187, 25%, 59%)",
+    "cmyk": "cmyk(64%,18%,32%,2%)",
+    "lightness": 59
+  },
+  {
+    "name": "冰山藍",
+    "pinyin": "bīng shān lán",
+    "hex": "#A4ACA7",
+    "rgb": "rgb(164,172,167)",
+    "hsl": "hsl(142, 5%, 66%)",
+    "cmyk": "cmyk(40%,24%,32%,6%)",
+    "lightness": 66
+  },
+  {
+    "name": "晚波藍",
+    "pinyin": "wǎn bō lán",
+    "hex": "#648E93",
+    "rgb": "rgb(100,142,147)",
+    "hsl": "hsl(186, 19%, 48%)",
+    "cmyk": "cmyk(71%,28%,39%,10%)",
+    "lightness": 48
+  },
+  {
+    "name": "蜻蜓藍",
+    "pinyin": "qīng tíng lán",
+    "hex": "#3B818C",
+    "rgb": "rgb(59,129,140)",
+    "hsl": "hsl(188, 41%, 39%)",
+    "cmyk": "cmyk(89%,27%,41%,13%)",
+    "lightness": 39
+  },
+  {
+    "name": "玉鈫藍",
+    "pinyin": "yù qín lán",
+    "hex": "#126E82",
+    "rgb": "rgb(18,110,130)",
+    "hsl": "hsl(191, 76%, 29%)",
+    "cmyk": "cmyk(99%,33%,38%,21%)",
+    "lightness": 29
+  },
+  {
+    "name": "蒼藍",
+    "pinyin": "cāng lán",
+    "hex": "#134857",
+    "rgb": "rgb(19,72,87)",
+    "hsl": "hsl(193, 64%, 21%)",
+    "cmyk": "cmyk(100%,52%,46%,43%)",
+    "lightness": 21
+  },
+  {
+    "name": "灰藍",
+    "pinyin": "huī lán",
+    "hex": "#21373D",
+    "rgb": "rgb(33,55,61)",
+    "hsl": "hsl(193, 30%, 18%)",
+    "cmyk": "cmyk(94%,58%,54%,60%)",
+    "lightness": 18
+  },
+  {
+    "name": "深灰藍",
+    "pinyin": "shēn huī lán",
+    "hex": "#132C33",
+    "rgb": "rgb(19,44,51)",
+    "hsl": "hsl(193, 46%, 14%)",
+    "cmyk": "cmyk(100%,64%,56%,68%)",
+    "lightness": 14
+  },
+  {
+    "name": "紫羅藍",
+    "pinyin": "zǐ luó lán",
+    "hex": "#732E7E",
+    "rgb": "rgb(115,46,126)",
+    "hsl": "hsl(292, 47%, 34%)",
+    "cmyk": "cmyk(9%,63%,0%,51%)",
+    "lightness": 34
+  },
+  {
+    "name": "玉石藍",
+    "pinyin": "yù shí lán",
+    "hex": "#507883",
+    "rgb": "rgb(80,120,131)",
+    "hsl": "hsl(193, 24%, 41%)",
+    "cmyk": "cmyk(39%,8%,0%,49%)",
+    "lightness": 41
+  },
+  {
+    "name": "蟹藍",
+    "pinyin": "xiè lán",
+    "hex": "#658A98",
+    "rgb": "rgb(101,138,152)",
+    "hsl": "hsl(196, 20%, 50%)",
+    "cmyk": "cmyk(34%,9%,0%,40%)",
+    "lightness": 50
+  },
+  {
+    "name": "春藍",
+    "pinyin": "chūn lán",
+    "hex": "#7BA1A8",
+    "rgb": "rgb(123,161,168)",
+    "hsl": "hsl(189, 21%, 57%)",
+    "cmyk": "cmyk(27%,4%,0%,34%)",
+    "lightness": 57
+  },
+  {
+    "name": "灰藍",
+    "pinyin": "hūi lán",
+    "hex": "#5D828A",
+    "rgb": "rgb(93,130,138)",
+    "hsl": "hsl(191, 19%, 45%)",
+    "cmyk": "cmyk(33%,6%,0%,46%)",
+    "lightness": 45
+  },
+  {
+    "name": "鈷藍",
+    "pinyin": "gǔ lán",
+    "hex": "#6493AF",
+    "rgb": "rgb(100,147,175)",
+    "hsl": "hsl(202, 32%, 54%)",
+    "cmyk": "cmyk(43%,16%,0%,31%)",
+    "lightness": 54
+  },
+  {
+    "name": "琉璃藍",
+    "pinyin": "líu lí lán",
+    "hex": "#1A638A",
+    "rgb": "rgb(26,99,138)",
+    "hsl": "hsl(201, 68%, 32%)",
+    "cmyk": "cmyk(81%,28%,0%,46%)",
+    "lightness": 32
+  },
+  {
+    "name": "柏坊灰藍",
+    "pinyin": "bǎi fāng hūi lán",
+    "hex": "#4E1892",
+    "rgb": "rgb(78,24,146)",
+    "hsl": "hsl(267, 72%, 33%)",
+    "cmyk": "cmyk(47%,84%,0%,43%)",
+    "lightness": 33
+  },
+  {
+    "name": "浅土藍",
+    "pinyin": "qiǎn tǔ lán",
+    "hex": "#1F5574",
+    "rgb": "rgb(31,85,116)",
+    "hsl": "hsl(202, 58%, 29%)",
+    "cmyk": "cmyk(73%,27%,0%,55%)",
+    "lightness": 29
+  },
+  {
+    "name": "北京毛藍",
+    "pinyin": "běi jīng máo lán",
+    "hex": "#276893",
+    "rgb": "rgb(39,104,147)",
+    "hsl": "hsl(204, 58%, 36%)",
+    "cmyk": "cmyk(73%,29%,0%,42%)",
+    "lightness": 36
+  },
+  {
+    "name": "絨藍",
+    "pinyin": "róng lán",
+    "hex": "#31678D",
+    "rgb": "rgb(49,103,141)",
+    "hsl": "hsl(205, 48%, 37%)",
+    "cmyk": "cmyk(65%,27%,0%,45%)",
+    "lightness": 37
+  },
+  {
+    "name": "浅海昌藍",
+    "pinyin": "qiǎn hǎi chāng lán",
+    "hex": "#3C5E91",
+    "rgb": "rgb(60,94,145)",
+    "hsl": "hsl(216, 41%, 40%)",
+    "cmyk": "cmyk(59%,35%,0%,43%)",
+    "lightness": 40
+  },
+  {
+    "name": "海藍",
+    "pinyin": "hǎi lán",
+    "hex": "#17507D",
+    "rgb": "rgb(23,80,125)",
+    "hsl": "hsl(206, 69%, 29%)",
+    "cmyk": "cmyk(82%,36%,0%,51%)",
+    "lightness": 29
+  },
+  {
+    "name": "深毛藍",
+    "pinyin": "shēn máo lán",
+    "hex": "#244462",
+    "rgb": "rgb(36,68,98)",
+    "hsl": "hsl(209, 46%, 26%)",
+    "cmyk": "cmyk(63%,31%,0%,62%)",
+    "lightness": 26
+  },
+  {
+    "name": "深藍",
+    "pinyin": "shēn lán",
+    "hex": "#213D62",
+    "rgb": "rgb(33,61,98)",
+    "hsl": "hsl(214, 50%, 26%)",
+    "cmyk": "cmyk(66%,38%,0%,62%)",
+    "lightness": 26
+  },
+  {
+    "name": "靛藍",
+    "pinyin": "diàn lán",
+    "hex": "#293150",
+    "rgb": "rgb(41,49,80)",
+    "hsl": "hsl(228, 32%, 24%)",
+    "cmyk": "cmyk(49%,39%,0%,69%)",
+    "lightness": 24
+  },
+  {
+    "name": "労働布色",
+    "pinyin": "láo dòng bù sè",
+    "hex": "#25446B",
+    "rgb": "rgb(37,68,107)",
+    "hsl": "hsl(213, 49%, 28%)",
+    "cmyk": "cmyk(65%,36%,0%,58%)",
+    "lightness": 28
+  },
+  {
+    "name": "黛藍",
+    "pinyin": "dài lán",
+    "hex": "#304758",
+    "rgb": "rgb(48,71,88)",
+    "hsl": "hsl(206, 29%, 27%)",
+    "cmyk": "cmyk(45%,19%,0%,65%)",
+    "lightness": 27
+  },
+  {
+    "name": "蔵藍",
+    "pinyin": "zāng lán",
+    "hex": "#25386B",
+    "rgb": "rgb(37,56,107)",
+    "hsl": "hsl(224, 49%, 28%)",
+    "cmyk": "cmyk(65%,48%,0%,58%)",
+    "lightness": 28
+  },
+  {
+    "name": "鮮藍",
+    "pinyin": "xiān lán",
+    "hex": "#004DB5",
+    "rgb": "rgb(0,77,181)",
+    "hsl": "hsl(214, 100%, 35%)",
+    "cmyk": "cmyk(100%,57%,0%,29%)",
+    "lightness": 35
+  },
+  {
+    "name": "孔雀藍",
+    "pinyin": "kǒng què lán",
+    "hex": "#0041A5",
+    "rgb": "rgb(0,65,165)",
+    "hsl": "hsl(216, 100%, 32%)",
+    "cmyk": "cmyk(100%,61%,0%,35%)",
+    "lightness": 32
+  },
+  {
+    "name": "宝石藍",
+    "pinyin": "bǎo shí lán",
+    "hex": "#1F3696",
+    "rgb": "rgb(31,54,150)",
+    "hsl": "hsl(228, 66%, 35%)",
+    "cmyk": "cmyk(79%,64%,0%,41%)",
+    "lightness": 35
+  },
+  {
+    "name": "鈦鉄",
+    "pinyin": "tài tiě",
+    "hex": "#282E55",
+    "rgb": "rgb(40,46,85)",
+    "hsl": "hsl(232, 36%, 25%)",
+    "cmyk": "cmyk(53%,46%,0%,67%)",
+    "lightness": 25
+  },
+  {
+    "name": "蔵黒藍",
+    "pinyin": "zāng hēi lán",
+    "hex": "#37344C",
+    "rgb": "rgb(55,52,76)",
+    "hsl": "hsl(248, 19%, 25%)",
+    "cmyk": "cmyk(28%,32%,0%,70%)",
+    "lightness": 25
+  },
+  {
+    "name": "銀藍",
+    "pinyin": "yín lán",
+    "hex": "#B5C1CF",
+    "rgb": "rgb(181,193,207)",
+    "hsl": "hsl(212, 21%, 76%)",
+    "cmyk": "cmyk(13%,7%,0%,19%)",
+    "lightness": 76
+  },
+  {
+    "name": "雪藍",
+    "pinyin": "xuě lán",
+    "hex": "#7991D1",
+    "rgb": "rgb(121,145,209)",
+    "hsl": "hsl(224, 49%, 65%)",
+    "cmyk": "cmyk(42%,31%,0%,18%)",
+    "lightness": 65
+  },
+  {
+    "name": "蔚藍",
+    "pinyin": "wèi lán",
+    "hex": "#70F3FF",
+    "rgb": "rgb(112,243,255)",
+    "hsl": "hsl(185, 100%, 72%)",
+    "cmyk": "cmyk(56%,5%,0%,0%)",
+    "lightness": 72
+  },
+  {
+    "name": "藍",
+    "pinyin": "lán",
+    "hex": "#44CEF6",
+    "rgb": "rgb(68,206,246)",
+    "hsl": "hsl(193, 91%, 62%)",
+    "cmyk": "cmyk(72%,16%,0%,4%)",
+    "lightness": 62
+  },
+  {
+    "name": "碧藍",
+    "pinyin": "bì lán",
+    "hex": "#3EEDE7",
+    "rgb": "rgb(62,237,231)",
+    "hsl": "hsl(178, 83%, 59%)",
+    "cmyk": "cmyk(74%,0%,3%,7%)",
+    "lightness": 59
+  },
+  {
+    "name": "靛青",
+    "pinyin": "diàn qīng",
+    "hex": "#177CB0",
+    "rgb": "rgb(23,124,176)",
+    "hsl": "hsl(200, 77%, 39%)",
+    "cmyk": "cmyk(87%,30%,0%,31%)",
+    "lightness": 39
+  },
+  {
+    "name": "靛藍",
+    "pinyin": "diàn lán",
+    "hex": "#065279",
+    "rgb": "rgb(6,82,121)",
+    "hsl": "hsl(200, 91%, 25%)",
+    "cmyk": "cmyk(95%,32%,0%,53%)",
+    "lightness": 25
+  },
+  {
+    "name": "寶藍",
+    "pinyin": "bǎo lán",
+    "hex": "#4B5CC4",
+    "rgb": "rgb(75,92,196)",
+    "hsl": "hsl(232, 51%, 53%)",
+    "cmyk": "cmyk(62%,53%,0%,23%)",
+    "lightness": 53
+  },
+  {
+    "name": "藍灰色",
+    "pinyin": "lán huī sè",
+    "hex": "#A1AFC9",
+    "rgb": "rgb(161,175,201)",
+    "hsl": "hsl(219, 27%, 71%)",
+    "cmyk": "cmyk(20%,13%,0%,21%)",
+    "lightness": 71
+  },
+  {
+    "name": "藏青",
+    "pinyin": "zàng qīng",
+    "hex": "#2E4E7E",
+    "rgb": "rgb(46,78,126)",
+    "hsl": "hsl(216, 47%, 34%)",
+    "cmyk": "cmyk(63%,38%,0%,51%)",
+    "lightness": 34
+  },
+  {
+    "name": "藏藍",
+    "pinyin": "zàng lán",
+    "hex": "#3B2E7E",
+    "rgb": "rgb(59,46,126)",
+    "hsl": "hsl(250, 47%, 34%)",
+    "cmyk": "cmyk(53%,63%,0%,51%)",
+    "lightness": 34
+  },
+  {
+    "name": "黛",
+    "pinyin": "dài",
+    "hex": "#4A4266",
+    "rgb": "rgb(74,66,102)",
+    "hsl": "hsl(253, 21%, 33%)",
+    "cmyk": "cmyk(27%,35%,0%,60%)",
+    "lightness": 33
+  },
+  {
+    "name": "黛綠",
+    "pinyin": "dài lǜ",
+    "hex": "#426666",
+    "rgb": "rgb(66,102,102)",
+    "hsl": "hsl(180, 21%, 33%)",
+    "cmyk": "cmyk(35%,0%,0%,60%)",
+    "lightness": 33
+  },
+  {
+    "name": "黛藍",
+    "pinyin": "dài lán",
+    "hex": "#425066",
+    "rgb": "rgb(66,80,102)",
+    "hsl": "hsl(217, 21%, 33%)",
+    "cmyk": "cmyk(35%,22%,0%,60%)",
+    "lightness": 33
+  },
+  {
+    "name": "黛紫",
+    "pinyin": "dài zǐ",
+    "hex": "#574266",
+    "rgb": "rgb(87,66,102)",
+    "hsl": "hsl(275, 21%, 33%)",
+    "cmyk": "cmyk(15%,35%,0%,60%)",
+    "lightness": 33
+  },
+  {
+    "name": "紫色",
+    "pinyin": "zǐ sè",
+    "hex": "#8D4BBB",
+    "rgb": "rgb(141,75,187)",
+    "hsl": "hsl(275, 45%, 51%)",
+    "cmyk": "cmyk(25%,60%,0%,27%)",
+    "lightness": 51
+  },
+  {
+    "name": "紫醬",
+    "pinyin": "zǐ jiàng",
+    "hex": "#815463",
+    "rgb": "rgb(129,84,99)",
+    "hsl": "hsl(340, 21%, 42%)",
+    "cmyk": "cmyk(0%,35%,23%,49%)",
+    "lightness": 42
+  },
+  {
+    "name": "醬紫",
+    "pinyin": "jiàng zǐ",
+    "hex": "#815476",
+    "rgb": "rgb(129,84,118)",
+    "hsl": "hsl(315, 21%, 42%)",
+    "cmyk": "cmyk(0%,35%,9%,49%)",
+    "lightness": 42
+  },
+  {
+    "name": "紫檀",
+    "pinyin": "zǐ tán",
+    "hex": "#4C221B",
+    "rgb": "rgb(76,34,27)",
+    "hsl": "hsl(9, 48%, 20%)",
+    "cmyk": "cmyk(0%,55%,64%,70%)",
+    "lightness": 20
+  },
+  {
+    "name": "紺青紺紫",
+    "pinyin": "gàn qīng gàn zǐ",
+    "hex": "#003371",
+    "rgb": "rgb(0,51,113)",
+    "hsl": "hsl(213, 100%, 22%)",
+    "cmyk": "cmyk(100%,55%,0%,56%)",
+    "lightness": 22
+  },
+  {
+    "name": "紫棠",
+    "pinyin": "zǐ táng",
+    "hex": "#56004F",
+    "rgb": "rgb(86,0,79)",
+    "hsl": "hsl(305, 100%, 17%)",
+    "cmyk": "cmyk(0%,100%,8%,66%)",
+    "lightness": 17
+  },
+  {
+    "name": "青蓮",
+    "pinyin": "qīng lián",
+    "hex": "#801DAE",
+    "rgb": "rgb(128,29,174)",
+    "hsl": "hsl(281, 71%, 40%)",
+    "cmyk": "cmyk(26%,83%,0%,32%)",
+    "lightness": 40
+  },
+  {
+    "name": "群青",
+    "pinyin": "qún qīng",
+    "hex": "#4C8DAE",
+    "rgb": "rgb(76,141,174)",
+    "hsl": "hsl(200, 39%, 49%)",
+    "cmyk": "cmyk(56%,19%,0%,32%)",
+    "lightness": 49
+  },
+  {
+    "name": "雪青",
+    "pinyin": "xuě qīng",
+    "hex": "#B0A4E3",
+    "rgb": "rgb(176,164,227)",
+    "hsl": "hsl(251, 53%, 77%)",
+    "cmyk": "cmyk(22%,28%,0%,11%)",
+    "lightness": 77
+  },
+  {
+    "name": "丁香色",
+    "pinyin": "dīng xiāng sè",
+    "hex": "#CCA4E3",
+    "rgb": "rgb(204,164,227)",
+    "hsl": "hsl(278, 53%, 77%)",
+    "cmyk": "cmyk(10%,28%,0%,11%)",
+    "lightness": 77
+  },
+  {
+    "name": "藕色",
+    "pinyin": "ǒu sè",
+    "hex": "#EDD1D8",
+    "rgb": "rgb(237,209,216)",
+    "hsl": "hsl(345, 44%, 87%)",
+    "cmyk": "cmyk(0%,12%,9%,7%)",
+    "lightness": 87
+  },
+  {
+    "name": "藕荷色",
+    "pinyin": "ǒu hé sè",
+    "hex": "#E4C6D0",
+    "rgb": "rgb(228,198,208)",
+    "hsl": "hsl(340, 36%, 84%)",
+    "cmyk": "cmyk(0%,13%,9%,11%)",
+    "lightness": 84
+  },
+  {
+    "name": "水藍",
+    "pinyin": "shuǐ lán",
+    "hex": "#D2F0F4",
+    "rgb": "rgb(210,240,244)",
+    "hsl": "hsl(187, 61%, 89%)",
+    "cmyk": "cmyk(14%,2%,0%,4%)",
+    "lightness": 89
+  },
+  {
+    "name": "湖藍",
+    "pinyin": "hú lán",
+    "hex": "#30DFF3",
+    "rgb": "rgb(48,223,243)",
+    "hsl": "hsl(186, 89%, 57%)",
+    "cmyk": "cmyk(80%,8%,0%,5%)",
+    "lightness": 57
+  },
+  {
+    "name": "粗晶皀",
+    "pinyin": "cū jīng bī",
+    "hex": "#43454A",
+    "rgb": "rgb(67,69,74)",
+    "hsl": "hsl(223, 5%, 28%)",
+    "cmyk": "cmyk(9%,7%,0%,71%)",
+    "lightness": 28
+  },
+  {
+    "name": "百草霜",
+    "pinyin": "bǎi cǎo shuāng",
+    "hex": "#303030",
+    "rgb": "rgb(48,48,48)",
+    "hsl": "hsl(0, 0%, 19%)",
+    "cmyk": "cmyk(0%,0%,0%,81%)",
+    "lightness": 19
+  },
+  {
+    "name": "油煙墨",
+    "pinyin": "yóu yān mò",
+    "hex": "#3F3F3C",
+    "rgb": "rgb(63,63,60)",
+    "hsl": "hsl(60, 2%, 24%)",
+    "cmyk": "cmyk(0%,0%,5%,75%)",
+    "lightness": 24
+  },
+  {
+    "name": "黝",
+    "pinyin": "yǒu",
+    "hex": "#6B6882",
+    "rgb": "rgb(107,104,130)",
+    "hsl": "hsl(247, 11%, 46%)",
+    "cmyk": "cmyk(18%,20%,0%,49%)",
+    "lightness": 46
+  },
+  {
+    "name": "烏色",
+    "pinyin": "wū sè",
+    "hex": "#725E82",
+    "rgb": "rgb(114,94,130)",
+    "hsl": "hsl(273, 16%, 44%)",
+    "cmyk": "cmyk(12%,28%,0%,49%)",
+    "lightness": 44
+  },
+  {
+    "name": "玄青",
+    "pinyin": "xuán qīng",
+    "hex": "#3D3B4F",
+    "rgb": "rgb(61,59,79)",
+    "hsl": "hsl(246, 14%, 27%)",
+    "cmyk": "cmyk(23%,25%,0%,69%)",
+    "lightness": 27
+  },
+  {
+    "name": "烏黑",
+    "pinyin": "wū hēi",
+    "hex": "#392F41",
+    "rgb": "rgb(57,47,65)",
+    "hsl": "hsl(273, 16%, 22%)",
+    "cmyk": "cmyk(12%,28%,0%,75%)",
+    "lightness": 22
+  },
+  {
+    "name": "黎",
+    "pinyin": "lí",
+    "hex": "#75664D",
+    "rgb": "rgb(117,102,77)",
+    "hsl": "hsl(38, 21%, 38%)",
+    "cmyk": "cmyk(0%,13%,34%,54%)",
+    "lightness": 38
+  },
+  {
+    "name": "黧",
+    "pinyin": "lí",
+    "hex": "#5D513C",
+    "rgb": "rgb(93,81,60)",
+    "hsl": "hsl(38, 22%, 30%)",
+    "cmyk": "cmyk(0%,13%,35%,64%)",
+    "lightness": 30
+  },
+  {
+    "name": "黝黑",
+    "pinyin": "yǒu hēi",
+    "hex": "#665757",
+    "rgb": "rgb(102,87,87)",
+    "hsl": "hsl(0, 8%, 37%)",
+    "cmyk": "cmyk(0%,15%,15%,60%)",
+    "lightness": 37
+  },
+  {
+    "name": "緇色",
+    "pinyin": "zī sè",
+    "hex": "#493131",
+    "rgb": "rgb(73,49,49)",
+    "hsl": "hsl(0, 20%, 24%)",
+    "cmyk": "cmyk(0%,33%,33%,71%)",
+    "lightness": 24
+  },
+  {
+    "name": "煤黑",
+    "pinyin": "méi hēi",
+    "hex": "#312520",
+    "rgb": "rgb(49,37,32)",
+    "hsl": "hsl(18, 21%, 16%)",
+    "cmyk": "cmyk(0%,24%,35%,81%)",
+    "lightness": 16
+  },
+  {
+    "name": "漆黑",
+    "pinyin": "qī hēi",
+    "hex": "#161823",
+    "rgb": "rgb(22,24,35)",
+    "hsl": "hsl(231, 23%, 11%)",
+    "cmyk": "cmyk(37%,31%,0%,86%)",
+    "lightness": 11
+  },
+  {
+    "name": "黑色",
+    "pinyin": "hēi sè",
+    "hex": "#000000",
+    "rgb": "rgb(0,0,0)",
+    "hsl": "hsl(0, 0%, 0%)",
+    "cmyk": "cmyk(0%,0%,0%,100%)",
+    "lightness": 0
+  },
+  {
+    "name": "墨灰",
+    "pinyin": "mò huī",
+    "hex": "#758A99",
+    "rgb": "rgb(117,138,153)",
+    "hsl": "hsl(205, 15%, 53%)",
+    "cmyk": "cmyk(24%,10%,0%,40%)",
+    "lightness": 53
+  },
+  {
+    "name": "墨色",
+    "pinyin": "mò sè",
+    "hex": "#50616D",
+    "rgb": "rgb(80,97,109)",
+    "hsl": "hsl(205, 15%, 37%)",
+    "cmyk": "cmyk(27%,11%,0%,57%)",
+    "lightness": 37
+  },
+  {
+    "name": "黯",
+    "pinyin": "àn",
+    "hex": "#41555D",
+    "rgb": "rgb(65,85,93)",
+    "hsl": "hsl(197, 18%, 31%)",
+    "cmyk": "cmyk(30%,9%,0%,64%)",
+    "lightness": 31
+  },
+  {
+    "name": "玄色",
+    "pinyin": "xuán sè",
+    "hex": "#622A1D",
+    "rgb": "rgb(98,42,29)",
+    "hsl": "hsl(11, 54%, 25%)",
+    "cmyk": "cmyk(0%,57%,70%,62%)",
+    "lightness": 25
+  }
+]
