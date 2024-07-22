@@ -25,12 +25,10 @@ export type SaveColorImageProps = {
 }
 
 export default function SaveColorImage(props: SaveColorImageProps) {
-  const dpr = Number.parseFloat(window.devicePixelRatio.toFixed(2))
   const canvasRef = useRef<HTMLCanvasElement>(null)
+  const dpr = 3 // 3倍高清屏
   const imgWidth = props.width || 1920
   const imgHeight = props.height || 1080
-
-  console.log('dpr', dpr)
 
   const onClick = () => {
     if (!canvasRef.current || !props.color) return
@@ -38,7 +36,10 @@ export default function SaveColorImage(props: SaveColorImageProps) {
     const ctx = canvas.getContext('2d')
     if (!ctx) return
 
-    ctx.scale(dpr, dpr)
+    // 适配dpr
+    if (ctx.getTransform().a !== dpr) {
+      ctx.scale(dpr, dpr)
+    }
 
     // 背景色
     ctx.clearRect(0, 0, imgWidth, imgHeight)
@@ -75,6 +76,8 @@ export default function SaveColorImage(props: SaveColorImageProps) {
       if (!blob) return
       saveAs(blob, `${props.color?.name}.png`)
     })
+
+    ctx.restore()
   }
 
   return (
@@ -86,8 +89,8 @@ export default function SaveColorImage(props: SaveColorImageProps) {
       <canvas
         ref={canvasRef}
         style={{ display: 'none', position: 'absolute' }}
-        width={Math.round(imgWidth * dpr)}
-        height={Math.round(imgHeight * dpr)}
+        width={imgWidth * dpr}
+        height={imgHeight * dpr}
       ></canvas>
     </>
   )
