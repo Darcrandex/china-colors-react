@@ -7,6 +7,7 @@
 import colorArr from '@/assets/zh-colors-sort.json'
 import AsideBar from '@/components/AsideBar'
 import ColorValue from '@/components/ColorValue'
+import SaveColorImage from '@/components/SaveColorImage'
 import { useMemo } from 'react'
 
 export default function Index(props: { searchParams: { id: string } }) {
@@ -33,12 +34,13 @@ export default function Index(props: { searchParams: { id: string } }) {
 
             {matchedColor ? (
               <>
-                <p className='mb-4'>{matchedColor.pinyin}</p>
+                <p className='mb-4 text-lg'>{matchedColor.pinyin}</p>
                 <p className='space-x-4 text-sm'>
                   <ColorValue text={matchedColor.hex} />
                   <ColorValue text={matchedColor.rgb} />
                   <ColorValue text={matchedColor.hsl} />
                   <ColorValue text={matchedColor.cmyk} />
+                  <SaveColorImage color={matchedColor} />
                 </p>
               </>
             ) : null}
